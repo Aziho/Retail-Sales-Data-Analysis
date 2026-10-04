@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Category,Product,Region,Salesperson,Quantity,Unit_Price,Discount,Payment_Method,Gross_Sales,Discount_Amount,Net_amount,Order_Month,Month,Season,Year
+ORD-10283,2026-03-10,C1099,decor,Rug,Burnaby,David,1,456.79,0.2,e-transfer,456.79,91.358,365.432,2026-03,3.0,Spring,2026.0
+ORD-10803,2025-11-28,C1119,storage,Sideboard,Surrey,David,5,858.07,0.0,e-transfer,4290.35,0.0,4290.35,2025-11,11.0,Fall,2025.0
+ORD-10380,2025-04-23,C1078,decor,Vase,Burnaby,Alex,1,92.02,0.1,credit card,92.02,9.202,82.818,2025-04,4.0,Spring,2025.0
+ORD-10616,2025-01-29,C1187,furniture,Dining Chair,North Vancouver,Sara,3,206.08,0.0,credit card,618.24,0.0,618.24,2025-01,1.0,Winter,2025.0
+ORD-10804,2025-08-30,C1211,storage,Sideboard,Surrey,Alex,2,711.85,0.0,cash,1423.7,0.0,1423.7,2025-08,8.0,Summer,2025.0
+ORD-11122,2026-04-23,C1036,storage,Storage Bench,Vancouver,John,2,291.85,0.2,e-transfer,583.7,116.74000000000001,466.96000000000004,2026-04,4.0,Spring,2026.0
+ORD-10406,2026-02-03,unknown,furniture,Coffee Table,North Vancouver,Mina,1,421.26,0.1,credit card,421.26,42.126000000000005,379.134,2026-02,2.0,Winter,2026.0
+ORD-10885,2025-05-31,C1174,decor,Vase,Burnaby,Sara,5,92.29,0.05,debit,461.45000000000005,23.072500000000005,438.37750000000005,2025-05,5.0,Spring,2025.0
+ORD-10993,2025-07-05,C1246,decor,Art Print,Richmond,Sara,2,111.16,0.0,debit,222.32,0.0,222.32,2025-07,7.0,Summer,2025.0
+ORD-10801,2025-12-23,C1045,furniture,Dining Chair,Richmond,David,4,240.64,0.05,e-transfer,962.56,48.128,914.4319999999999,2025-12,12.0,Winter,2025.0
+ORD-10668,2026-01-03,C1048,decor,Wall Mirror,North Vancouver,Mina,2,197.89,0.0,credit card,395.78,0.0,395.78,2026-01,1.0,Winter,2026.0
+ORD-10430,,C1089,decor,Wall Mirror,Vancouver,Alex,2,184.14,0.0,debit,368.28,0.0,368.28,,,,
+ORD-10490,2025-05-14,C1166,furniture,Bookshelf,Burnaby,Alex,5,635.72,0.0,debit,3178.6000000000004,0.0,3178.6000000000004,2025-05,5.0,Spring,2025.0
+ORD-10451,2025-05-18,C1201,decor,Rug,North Vancouver,Sara,2,354.76,0.05,credit card,709.52,35.476,674.044,2025-05,5.0,Spring,2025.0
+ORD-10182,2025-06-04,C1072,decor,Vase,Burnaby,Alex,2,100.23,0.0,cash,200.46,0.0,200.46,2025-06,6.0,Summer,2025.0
+ORD-10958,2026-08-04,C1074,decor,Rug,Surrey,David,1,336.52,0.0,cash,336.52,0.0,336.52,2026-08,8.0,Summer,2026.0
+ORD-10627,2025-05-30,C1209,decor,Wall Mirror,Richmond,David,2,182.79,0.1,debit,365.58,36.558,329.022,2025-05,5.0,Spring,2025.0
+ORD-10689,2025-01-13,C1190,furniture,Coffee Table,Surrey,Sara,2,430.95,0.15,cash,861.9,129.285,732.615,2025-01,1.0,Winter,2025.0
+ORD-10787,2026-01-03,C1178,storage,Cabinet,North Vancouver,David,5,568.46,0.0,debit,2842.3,0.0,2842.3,2026-01,1.0,Winter,2026.0
+ORD-10360,2025-06-09,C1013,decor,Vase,North Vancouver,Sara,3,93.81,0.0,debit,281.43,0.0,281.43,2025-06,6.0,Summer,2025.0
+ORD-10594,2026-05-03,C1142,furniture,Bookshelf,North Vancouver,David,2,644.7,0.0,debit,1289.4,0.0,1289.4,2026-05,5.0,Spring,2026.0
+ORD-10849,2025-11-30,C1152,furniture,Bookshelf,North Vancouver,John,1,611.12,0.05,cash,611.12,30.556,580.564,2025-11,11.0,Fall,2025.0
+ORD-10980,2025-05-15,C1090,furniture,Dining Chair,Richmond,David,2,247.60500000000002,0.2,credit card,495.21000000000004,99.04200000000002,396.168,2025-05,5.0,Spring,2025.0
+ORD-10193,2026-04-10,C1187,furniture,Dining Chair,North Vancouver,David,5,206.93,0.1,credit card,1034.65,103.46500000000002,931.1850000000001,2026-04,4.0,Spring,2026.0
+ORD-10956,2026-02-05,C1060,storage,Sideboard,Surrey,Sara,5,912.54,0.0,e-transfer,4562.7,0.0,4562.7,2026-02,2.0,Winter,2026.0
+ORD-10622,2025-12-14,C1056,decor,Art Print,Burnaby,Mina,4,118.11,0.2,e-transfer,472.44,94.488,377.952,2025-12,12.0,Winter,2025.0
+ORD-10766,2025-04-20,C1114,storage,Sideboard,Surrey,David,2,753.49,0.0,cash,1506.98,0.0,1506.98,2025-04,4.0,Spring,2025.0
+ORD-10244,2026-02-08,C1192,furniture,Coffee Table,Surrey,John,1,420.91,0.0,credit card,420.91,0.0,420.91,2026-02,2.0,Winter,2026.0
+ORD-10023,2025-02-19,C1111,decor,Rug,North Vancouver,Sara,1,397.93,0.0,e-transfer,397.93,0.0,397.93,2025-02,2.0,Winter,2025.0
+ORD-10784,2025-06-28,C1110,furniture,Vintage Lamp,Vancouver,Sara,5,158.45,0.0,debit,792.25,0.0,792.25,2025-06,6.0,Summer,2025.0
+ORD-10749,2025-08-03,C1055,furniture,Dining Chair,North Vancouver,Sara,1,244.23,0.0,cash,244.23,0.0,244.23,2025-08,8.0,Summer,2025.0
+ORD-10891,2026-03-26,C1120,storage,Storage Bench,North Vancouver,Mina,4,357.44,0.0,cash,1429.76,0.0,1429.76,2026-03,3.0,Spring,2026.0
+ORD-10466,2025-07-31,C1085,decor,Art Print,North Vancouver,Sara,5,141.42,0.1,debit,707.0999999999999,70.71,636.3899999999999,2025-07,7.0,Summer,2025.0
+ORD-10180,2026-07-02,C1235,storage,Cabinet,North Vancouver,Sara,3,762.68,0.15,e-transfer,2288.04,343.20599999999996,1944.834,2026-07,7.0,Summer,2026.0
+ORD-10931,2025-06-26,C1103,furniture,Coffee Table,Richmond,Alex,1,428.96,0.05,cash,428.96,21.448,407.512,2025-06,6.0,Summer,2025.0
+ORD-10632,2025-04-03,C1137,furniture,Vintage Lamp,Surrey,Mina,5,188.43,0.1,cash,942.1500000000001,94.21500000000002,847.9350000000001,2025-04,4.0,Spring,2025.0
+ORD-10735,2025-02-01,C1157,decor,Vase,Burnaby,John,4,105.44,0.0,cash,421.76,0.0,421.76,2025-02,2.0,Winter,2025.0
+ORD-10599,2026-08-22,C1078,furniture,Vintage Lamp,North Vancouver,David,3,207.78,0.15,debit,623.34,93.501,529.839,2026-08,8.0,Summer,2026.0
+ORD-10323,2025-01-26,C1041,storage,Cabinet,Richmond,Sara,1,603.37,0.0,credit card,603.37,0.0,603.37,2025-01,1.0,Winter,2025.0
+ORD-10272,2026-02-19,C1164,decor,Art Print,Richmond,David,4,155.23,0.0,cash,620.92,0.0,620.92,2026-02,2.0,Winter,2026.0
+ORD-10823,2025-04-23,C1062,storage,Sideboard,Richmond,Alex,3,897.33,0.0,cash,2691.9900000000002,0.0,2691.9900000000002,2025-04,4.0,Spring,2025.0
+ORD-10662,2025-04-29,C1228,storage,Sideboard,Vancouver,Alex,4,683.85,0.0,credit card,2735.4,0.0,2735.4,2025-04,4.0,Spring,2025.0
+ORD-10199,2025-04-26,C1237,storage,Storage Bench,Burnaby,David,3,306.0,0.1,e-transfer,918.0,91.80000000000001,826.2,2025-04,4.0,Spring,2025.0
+ORD-10539,2025-03-21,C1061,decor,Wall Mirror,Burnaby,Alex,1,248.63,0.0,debit,248.63,0.0,248.63,2025-03,3.0,Spring,2025.0
+ORD-11114,2025-07-31,C1089,decor,Wall Mirror,Richmond,Mina,2,247.75,0.15,debit,495.5,74.325,421.175,2025-07,7.0,Summer,2025.0
+ORD-10800,2025-05-06,C1119,decor,Vase,North Vancouver,John,1,97.3,0.0,credit card,97.3,0.0,97.3,2025-05,5.0,Spring,2025.0
+ORD-10505,2025-02-08,C1038,decor,Rug,North Vancouver,Sara,2,366.16,0.0,e-transfer,732.32,0.0,732.32,2025-02,2.0,Winter,2025.0
+ORD-10550,2025-07-11,C1022,furniture,Bookshelf,Surrey,David,3,526.16,0.2,credit card,1578.48,315.696,1262.784,2025-07,7.0,Summer,2025.0
+ORD-10779,2025-03-27,C1176,furniture,Coffee Table,Vancouver,Alex,4,373.37,0.0,cash,1493.48,0.0,1493.48,2025-03,3.0,Spring,2025.0
+ORD-10369,2025-02-22,C1164,storage,Storage Bench,North Vancouver,David,5,293.67,0.15,debit,1468.3500000000001,220.25250000000003,1248.0975,2025-02,2.0,Winter,2025.0
+ORD-11128,2025-08-24,C1224,decor,Rug,Richmond,John,2,379.07,0.05,cash,758.14,37.907000000000004,720.233,2025-08,8.0,Summer,2025.0
+ORD-10215,2026-01-31,C1243,decor,Vase,Burnaby,Sara,2,99.18,0.0,debit,198.36,0.0,198.36,2026-01,1.0,Winter,2026.0
+ORD-10379,2025-01-22,C1039,decor,Rug,North Vancouver,Alex,1,407.42,0.0,e-transfer,407.42,0.0,407.42,2025-01,1.0,Winter,2025.0
+ORD-10426,2025-06-07,C1204,storage,Cabinet,Surrey,Alex,2,658.0,0.0,e-transfer,1316.0,0.0,1316.0,2025-06,6.0,Summer,2025.0
+ORD-11160,2025-04-16,C1167,furniture,Dining Chair,Vancouver,John,2,252.42,0.0,e-transfer,504.84,0.0,504.84,2025-04,4.0,Spring,2025.0
+ORD-10218,2026-07-22,C1231,storage,Cabinet,Richmond,John,4,641.79,0.15,credit card,2567.16,385.07399999999996,2182.086,2026-07,7.0,Summer,2026.0
+ORD-10018,2026-06-26,C1181,furniture,Vintage Lamp,Burnaby,John,3,181.71,0.0,e-transfer,545.13,0.0,545.13,2026-06,6.0,Summer,2026.0
+ORD-11148,2026-01-12,C1244,storage,Sideboard,Vancouver,Alex,3,832.9,0.0,credit card,2498.7,0.0,2498.7,2026-01,1.0,Winter,2026.0
+ORD-10046,2025-10-30,C1135,storage,Cabinet,Vancouver,Mina,5,751.56,0.15,credit card,3757.7999999999997,563.67,3194.1299999999997,2025-10,10.0,Fall,2025.0
+ORD-10340,2026-04-18,C1246,storage,Cabinet,North Vancouver,Alex,4,696.36,0.15,credit card,2785.44,417.816,2367.6240000000003,2026-04,4.0,Spring,2026.0
+ORD-10169,2025-04-17,C1146,decor,Vase,Vancouver,John,3,103.3,0.15,debit,309.9,46.48499999999999,263.41499999999996,2025-04,4.0,Spring,2025.0
+ORD-10427,2025-11-06,C1120,furniture,Coffee Table,Vancouver,Alex,2,445.78,0.0,credit card,891.56,0.0,891.56,2025-11,11.0,Fall,2025.0
+ORD-10866,2025-07-26,C1249,storage,Sideboard,Burnaby,Alex,2,868.65,0.05,credit card,1737.3,86.86500000000001,1650.435,2025-07,7.0,Summer,2025.0
+ORD-10042,2025-05-29,C1211,furniture,Dining Chair,North Vancouver,John,3,223.88,0.1,credit card,671.64,67.164,604.476,2025-05,5.0,Spring,2025.0
+ORD-11175,2025-05-13,C1010,storage,Storage Bench,Vancouver,Sara,2,323.14,0.0,debit,646.28,0.0,646.28,2025-05,5.0,Spring,2025.0
+ORD-10728,2025-09-17,unknown,decor,Wall Mirror,Richmond,Sara,4,199.37,0.0,credit card,797.48,0.0,797.48,2025-09,9.0,Fall,2025.0
+ORD-10399,2026-08-18,C1126,furniture,Coffee Table,Vancouver,David,1,394.87,0.0,e-transfer,394.87,0.0,394.87,2026-08,8.0,Summer,2026.0
+ORD-10913,2026-08-23,C1099,decor,Art Print,Burnaby,John,4,111.68,0.0,debit,446.72,0.0,446.72,2026-08,8.0,Summer,2026.0
+ORD-10136,2025-11-18,C1181,furniture,Bookshelf,Vancouver,Mina,3,597.87,0.0,e-transfer,1793.6100000000001,0.0,1793.6100000000001,2025-11,11.0,Fall,2025.0
+ORD-10016,2025-02-22,C1092,decor,Vase,North Vancouver,Mina,5,84.67,0.2,e-transfer,423.35,84.67000000000002,338.68,2025-02,2.0,Winter,2025.0
+ORD-11005,2025-10-01,C1229,decor,Vase,North Vancouver,David,1,97.3,0.0,cash,97.3,0.0,97.3,2025-10,10.0,Fall,2025.0
+ORD-10128,2026-01-08,C1058,furniture,Vintage Lamp,Richmond,Alex,4,168.22,0.05,cash,672.88,33.644,639.236,2026-01,1.0,Winter,2026.0
+ORD-10130,2026-07-06,C1228,furniture,Dining Chair,North Vancouver,Sara,2,242.17,0.05,debit,484.34,24.217,460.123,2026-07,7.0,Summer,2026.0
+ORD-11007,2026-08-22,C1207,storage,Storage Bench,Burnaby,Mina,5,341.56,0.0,credit card,1707.8,0.0,1707.8,2026-08,8.0,Summer,2026.0
+ORD-10882,2026-02-05,C1071,decor,Rug,North Vancouver,Alex,2,435.57,0.05,credit card,871.14,43.557,827.583,2026-02,2.0,Winter,2026.0
+ORD-10824,2026-04-26,C1201,storage,Sideboard,Surrey,Alex,3,825.48,0.1,e-transfer,2476.44,247.644,2228.7960000000003,2026-04,4.0,Spring,2026.0
+ORD-10454,2026-03-21,C1040,decor,Wall Mirror,Burnaby,Mina,2,236.18,0.0,cash,472.36,0.0,472.36,2026-03,3.0,Spring,2026.0
+ORD-11066,2025-04-04,C1220,decor,Rug,Vancouver,David,3,407.51,0.1,credit card,1222.53,122.253,1100.277,2025-04,4.0,Spring,2025.0
+ORD-10996,2025-07-26,C1227,storage,Storage Bench,Richmond,Sara,2,299.01,0.1,e-transfer,598.02,59.802,538.218,2025-07,7.0,Summer,2025.0
+ORD-10459,2026-04-24,C1132,decor,Rug,Surrey,Mina,3,450.21,0.1,e-transfer,1350.6299999999999,135.063,1215.567,2026-04,4.0,Spring,2026.0
+ORD-10009,2026-04-14,C1010,decor,Art Print,Vancouver,David,2,131.38,0.05,credit card,262.76,13.138,249.62199999999999,2026-04,4.0,Spring,2026.0
+ORD-11134,2026-04-09,C1171,furniture,Bookshelf,Richmond,John,2,579.15,0.2,cash,1158.3,231.66,926.64,2026-04,4.0,Spring,2026.0
+ORD-10837,2026-01-13,C1198,decor,Rug,Richmond,Mina,3,418.18,0.05,debit,1254.54,62.727000000000004,1191.8129999999999,2026-01,1.0,Winter,2026.0
+ORD-10103,2025-01-25,C1219,furniture,Vintage Lamp,North Vancouver,John,2,201.97,0.0,debit,403.94,0.0,403.94,2025-01,1.0,Winter,2025.0
+ORD-10576,2026-06-26,C1065,furniture,Bookshelf,Richmond,Mina,1,480.01,0.1,cash,480.01,48.001000000000005,432.009,2026-06,6.0,Summer,2026.0
+ORD-11171,2025-05-31,C1203,furniture,Coffee Table,Vancouver,Alex,1,446.98,0.15,credit card,446.98,67.047,379.933,2025-05,5.0,Spring,2025.0
+ORD-10810,2026-06-16,C1215,storage,Sideboard,Surrey,John,1,737.1,0.1,credit card,737.1,73.71000000000001,663.39,2026-06,6.0,Summer,2026.0
+ORD-10977,2026-03-17,C1093,furniture,Coffee Table,North Vancouver,Mina,4,455.93,0.0,e-transfer,1823.72,0.0,1823.72,2026-03,3.0,Spring,2026.0
+ORD-11006,2025-06-20,C1101,decor,Rug,Richmond,Alex,1,361.54,0.0,credit card,361.54,0.0,361.54,2025-06,6.0,Summer,2025.0
+ORD-10537,2026-02-22,C1246,furniture,Bookshelf,Surrey,Mina,2,503.24,0.1,credit card,1006.48,100.64800000000001,905.832,2026-02,2.0,Winter,2026.0
+ORD-10937,2026-01-04,C1086,decor,Art Print,Surrey,unknown,1,110.97,0.05,cash,110.97,5.548500000000001,105.4215,2026-01,1.0,Winter,2026.0
+ORD-10196,2025-08-09,C1163,storage,Sideboard,Surrey,John,2,722.84,0.0,credit card,1445.68,0.0,1445.68,2025-08,8.0,Summer,2025.0
+ORD-11169,2026-08-04,C1131,storage,Cabinet,Vancouver,Sara,5,639.3,0.0,e-transfer,3196.5,0.0,3196.5,2026-08,8.0,Summer,2026.0
+ORD-10732,2026-01-28,C1154,furniture,Coffee Table,Vancouver,Mina,2,409.82,0.0,cash,819.64,0.0,819.64,2026-01,1.0,Winter,2026.0
+ORD-10729,2025-04-12,C1182,storage,Sideboard,North Vancouver,David,2,860.54,0.0,credit card,1721.08,0.0,1721.08,2025-04,4.0,Spring,2025.0
+ORD-10429,2026-01-07,C1233,decor,Art Print,Vancouver,Sara,1,142.2,0.15,cash,142.2,21.33,120.86999999999999,2026-01,1.0,Winter,2026.0
+ORD-10860,2026-07-18,C1154,storage,Storage Bench,Surrey,David,3,295.01,0.0,e-transfer,885.03,0.0,885.03,2026-07,7.0,Summer,2026.0
+ORD-11037,2025-03-29,C1214,furniture,Coffee Table,Richmond,Sara,1,431.93,0.0,debit,431.93,0.0,431.93,2025-03,3.0,Spring,2025.0
+ORD-10351,2026-08-19,C1028,decor,Art Print,Richmond,John,4,126.04,0.0,e-transfer,504.16,0.0,504.16,2026-08,8.0,Summer,2026.0
+ORD-10209,2026-05-27,C1173,decor,Wall Mirror,Richmond,Sara,1,233.94,0.1,cash,233.94,23.394000000000002,210.546,2026-05,5.0,Spring,2026.0
+ORD-10569,2025-05-20,C1179,decor,Vase,Vancouver,Sara,4,101.37,0.1,cash,405.48,40.548,364.932,2025-05,5.0,Spring,2025.0
+ORD-10224,2025-12-31,C1032,decor,Rug,Richmond,Sara,4,389.51,0.0,credit card,1558.04,0.0,1558.04,2025-12,12.0,Winter,2025.0
+ORD-10536,2025-01-08,C1209,furniture,Dining Chair,Burnaby,Mina,4,227.57,0.0,cash,910.28,0.0,910.28,2025-01,1.0,Winter,2025.0
+ORD-10142,2026-07-02,C1220,storage,Storage Bench,Surrey,Alex,3,305.0,0.0,cash,915.0,0.0,915.0,2026-07,7.0,Summer,2026.0
+ORD-10318,2026-06-20,C1149,decor,Rug,North Vancouver,David,4,333.0,0.0,e-transfer,1332.0,0.0,1332.0,2026-06,6.0,Summer,2026.0
+ORD-11159,2025-10-14,C1036,decor,Art Print,Burnaby,David,1,123.61,0.05,cash,123.61,6.1805,117.4295,2025-10,10.0,Fall,2025.0
+ORD-10065,2025-03-15,C1137,storage,Sideboard,Vancouver,Sara,1,823.59,0.1,debit,823.59,82.35900000000001,741.231,2025-03,3.0,Spring,2025.0
+ORD-10242,2026-07-24,C1118,decor,Rug,Burnaby,Mina,4,378.99,0.0,debit,1515.96,0.0,1515.96,2026-07,7.0,Summer,2026.0
+ORD-10443,2025-05-16,C1229,decor,Wall Mirror,Burnaby,Mina,4,240.29,0.0,credit card,961.16,0.0,961.16,2025-05,5.0,Spring,2025.0
+ORD-11146,2025-07-16,C1242,storage,Cabinet,Vancouver,John,5,706.72,0.0,e-transfer,3533.6000000000004,0.0,3533.6000000000004,2025-07,7.0,Summer,2025.0
+ORD-10478,2025-01-22,unknown,furniture,Bookshelf,Vancouver,Mina,2,597.81,0.0,credit card,1195.62,0.0,1195.62,2025-01,1.0,Winter,2025.0
+ORD-10506,2025-01-03,C1225,storage,Sideboard,Burnaby,David,5,713.32,0.05,cash,3566.6000000000004,178.33000000000004,3388.2700000000004,2025-01,1.0,Winter,2025.0
+ORD-10321,2026-03-03,C1136,furniture,Dining Chair,Surrey,David,3,205.55,0.0,e-transfer,616.6500000000001,0.0,616.6500000000001,2026-03,3.0,Spring,2026.0
+ORD-10036,2025-03-16,C1244,storage,Cabinet,Burnaby,Sara,3,763.52,0.0,debit,2290.56,0.0,2290.56,2025-03,3.0,Spring,2025.0
+ORD-10324,2026-07-10,C1134,furniture,Bookshelf,Vancouver,David,3,515.46,0.15,cash,1546.38,231.957,1314.4230000000002,2026-07,7.0,Summer,2026.0
+ORD-10970,2026-05-23,C1114,decor,Art Print,Burnaby,Mina,2,143.3,0.0,credit card,286.6,0.0,286.6,2026-05,5.0,Spring,2026.0
+ORD-10467,2025-12-24,C1160,decor,Wall Mirror,Burnaby,Mina,3,187.25,0.0,e-transfer,561.75,0.0,561.75,2025-12,12.0,Winter,2025.0
+ORD-11016,2025-11-19,C1134,decor,Wall Mirror,Richmond,Alex,1,225.42,0.0,credit card,225.42,0.0,225.42,2025-11,11.0,Fall,2025.0
+ORD-11145,2025-12-07,C1036,decor,Art Print,Burnaby,Mina,2,130.42,0.0,e-transfer,260.84,0.0,260.84,2025-12,12.0,Winter,2025.0
+ORD-10488,2026-02-23,C1229,decor,Vase,Richmond,Alex,2,100.51,0.0,cash,201.02,0.0,201.02,2026-02,2.0,Winter,2026.0
+ORD-10917,2026-01-11,C1008,decor,Wall Mirror,Vancouver,Mina,3,242.81,0.0,debit,728.4300000000001,0.0,728.4300000000001,2026-01,1.0,Winter,2026.0
+ORD-11196,2026-08-07,C1112,decor,Wall Mirror,Burnaby,John,5,246.29,0.0,debit,1231.45,0.0,1231.45,2026-08,8.0,Summer,2026.0
+ORD-10044,2025-04-10,C1114,storage,Storage Bench,Vancouver,Mina,3,313.39,0.0,credit card,940.17,0.0,940.17,2025-04,4.0,Spring,2025.0
+ORD-10356,2026-04-10,C1120,storage,Cabinet,North Vancouver,Sara,1,726.48,0.15,debit,726.48,108.972,617.508,2026-04,4.0,Spring,2026.0
+ORD-10291,2025-11-15,C1016,decor,Art Print,Surrey,David,5,132.16,0.0,credit card,660.8,0.0,660.8,2025-11,11.0,Fall,2025.0
+ORD-10968,2026-03-29,C1162,decor,Wall Mirror,Surrey,Mina,2,216.26,0.0,e-transfer,432.52,0.0,432.52,2026-03,3.0,Spring,2026.0
+ORD-10092,2026-06-29,C1049,furniture,Vintage Lamp,Burnaby,Sara,2,155.81,0.0,debit,311.62,0.0,311.62,2026-06,6.0,Summer,2026.0
+ORD-11071,2025-08-25,unknown,furniture,Vintage Lamp,Richmond,Mina,2,182.4,0.0,debit,364.8,0.0,364.8,2025-08,8.0,Summer,2025.0
+ORD-10407,2025-11-20,C1015,furniture,Vintage Lamp,Vancouver,Mina,4,183.33,0.05,debit,733.32,36.666000000000004,696.654,2025-11,11.0,Fall,2025.0
+ORD-11026,2025-01-26,C1039,decor,Vase,Surrey,Sara,3,80.88,0.2,e-transfer,242.64,48.528,194.112,2025-01,1.0,Winter,2025.0
+ORD-11011,2025-05-16,C1084,furniture,Dining Chair,North Vancouver,Sara,4,228.26,0.0,unknown,913.04,0.0,913.04,2025-05,5.0,Spring,2025.0
+ORD-11080,2025-10-07,C1002,storage,Storage Bench,North Vancouver,Alex,1,380.81,0.1,cash,380.81,38.081,342.729,2025-10,10.0,Fall,2025.0
+ORD-10025,2026-06-22,C1079,decor,Rug,Vancouver,Alex,1,350.64,0.05,e-transfer,350.64,17.532,333.108,2026-06,6.0,Summer,2026.0
+ORD-10640,2026-01-21,C1011,decor,Art Print,North Vancouver,John,5,140.19,0.05,e-transfer,700.95,35.04750000000001,665.9025,2026-01,1.0,Winter,2026.0
+ORD-10503,2025-05-21,C1149,decor,Vase,Richmond,Sara,3,93.83,0.1,e-transfer,281.49,28.149,253.341,2025-05,5.0,Spring,2025.0
+ORD-10744,2025-04-01,C1250,decor,Wall Mirror,North Vancouver,John,5,190.67,0.1,credit card,953.3499999999999,95.335,858.0149999999999,2025-04,4.0,Spring,2025.0
+ORD-10344,2026-07-13,C1244,decor,Vase,Burnaby,John,1,97.46,0.2,e-transfer,97.46,19.492,77.96799999999999,2026-07,7.0,Summer,2026.0
+ORD-10293,2026-07-08,C1073,furniture,Bookshelf,Burnaby,Sara,4,541.1,0.0,credit card,2164.4,0.0,2164.4,2026-07,7.0,Summer,2026.0
+ORD-11193,2025-04-10,C1044,decor,Wall Mirror,Richmond,Mina,1,221.6,0.0,cash,221.6,0.0,221.6,2025-04,4.0,Spring,2025.0
+ORD-10090,2025-11-30,C1163,storage,Storage Bench,Vancouver,Mina,5,377.41,0.2,debit,1887.0500000000002,377.4100000000001,1509.64,2025-11,11.0,Fall,2025.0
+ORD-10724,2026-07-24,C1182,decor,Art Print,Richmond,Mina,2,145.35,0.15,cash,290.7,43.605,247.095,2026-07,7.0,Summer,2026.0
+ORD-11184,2025-01-27,C1040,storage,Cabinet,Burnaby,Mina,2,658.04,0.05,credit card,1316.08,65.804,1250.2759999999998,2025-01,1.0,Winter,2025.0
+ORD-10661,2025-04-05,C1158,decor,Vase,North Vancouver,Mina,4,95.12,0.0,credit card,380.48,0.0,380.48,2025-04,4.0,Spring,2025.0
+ORD-11039,2025-02-15,unknown,decor,Vase,North Vancouver,Mina,1,94.74,0.1,e-transfer,94.74,9.474,85.26599999999999,2025-02,2.0,Winter,2025.0
+ORD-11197,2025-08-03,C1249,decor,Art Print,Burnaby,Alex,2,113.56,0.0,unknown,227.12,0.0,227.12,2025-08,8.0,Summer,2025.0
+ORD-10737,2025-05-18,C1136,decor,Art Print,Vancouver,Mina,2,137.45,0.0,credit card,274.9,0.0,274.9,2025-05,5.0,Spring,2025.0
+ORD-10457,2026-04-04,C1045,decor,Wall Mirror,Burnaby,Alex,2,205.0,0.1,credit card,410.0,41.0,369.0,2026-04,4.0,Spring,2026.0
+ORD-11185,2025-12-17,C1195,storage,Storage Bench,North Vancouver,unknown,3,358.94,0.05,cash,1076.82,53.841,1022.9789999999999,2025-12,12.0,Winter,2025.0
+ORD-10665,2025-09-11,C1002,storage,Storage Bench,Burnaby,David,3,289.82,0.0,credit card,869.46,0.0,869.46,2025-09,9.0,Fall,2025.0
+ORD-10126,2026-07-13,C1216,storage,Cabinet,Surrey,Sara,2,563.55,0.0,credit card,1127.1,0.0,1127.1,2026-07,7.0,Summer,2026.0
+ORD-10532,2026-02-24,C1065,furniture,Coffee Table,Richmond,Mina,3,452.24,0.0,credit card,1356.72,0.0,1356.72,2026-02,2.0,Winter,2026.0
+ORD-10826,2025-05-26,C1056,decor,Rug,Vancouver,Alex,3,380.76,0.1,credit card,1142.28,114.22800000000001,1028.052,2025-05,5.0,Spring,2025.0
+ORD-11021,2025-01-04,C1026,decor,Wall Mirror,Burnaby,David,5,217.81,0.0,e-transfer,1089.05,0.0,1089.05,2025-01,1.0,Winter,2025.0
+ORD-10939,2026-02-06,C1123,storage,Cabinet,Vancouver,Sara,3,612.24,0.1,e-transfer,1836.72,183.67200000000003,1653.048,2026-02,2.0,Winter,2026.0
+ORD-11124,2025-03-01,C1193,storage,Cabinet,Richmond,Sara,2,691.48,0.05,e-transfer,1382.96,69.14800000000001,1313.8120000000001,2025-03,3.0,Spring,2025.0
+ORD-10978,2025-04-28,C1145,furniture,Vintage Lamp,Vancouver,Mina,2,193.14,0.0,credit card,386.28,0.0,386.28,2025-04,4.0,Spring,2025.0
+ORD-10071,2026-05-25,C1243,storage,Cabinet,North Vancouver,Sara,2,565.52,0.1,cash,1131.04,113.104,1017.9359999999999,2026-05,5.0,Spring,2026.0
+ORD-10819,2026-05-04,C1147,storage,Cabinet,North Vancouver,Sara,1,722.86,0.1,debit,722.86,72.286,650.5740000000001,2026-05,5.0,Spring,2026.0
+ORD-10146,2025-07-11,C1097,decor,Vase,Richmond,Sara,4,100.99,0.05,credit card,403.96,20.198,383.762,2025-07,7.0,Summer,2025.0
+ORD-10976,2025-11-05,C1118,storage,Sideboard,Surrey,Mina,4,814.36,0.0,credit card,3257.44,0.0,3257.44,2025-11,11.0,Fall,2025.0
+ORD-11075,2025-06-20,C1067,furniture,Dining Chair,Surrey,John,1,245.23,0.0,e-transfer,245.23,0.0,245.23,2025-06,6.0,Summer,2025.0
+ORD-10950,2025-02-28,C1167,decor,Rug,Richmond,Sara,1,340.14,0.1,debit,340.14,34.014,306.126,2025-02,2.0,Winter,2025.0
+ORD-11132,2025-12-16,C1127,furniture,Coffee Table,Surrey,John,4,449.87,0.05,credit card,1799.48,89.974,1709.506,2025-12,12.0,Winter,2025.0
+ORD-11102,2025-03-08,C1076,decor,Art Print,Richmond,Sara,1,155.33,0.0,cash,155.33,0.0,155.33,2025-03,3.0,Spring,2025.0
+ORD-11143,2025-03-09,C1093,decor,Wall Mirror,Vancouver,Sara,2,194.48,0.15,debit,388.96,58.343999999999994,330.616,2025-03,3.0,Spring,2025.0
+ORD-10222,2026-08-03,C1213,furniture,Coffee Table,Vancouver,John,2,498.65,0.15,e-transfer,997.3,149.595,847.7049999999999,2026-08,8.0,Summer,2026.0
+ORD-10277,2025-05-07,C1063,decor,Rug,North Vancouver,Sara,1,456.72,0.15,credit card,456.72,68.508,388.21200000000005,2025-05,5.0,Spring,2025.0
+ORD-10014,2025-02-24,C1180,decor,Wall Mirror,Vancouver,John,1,231.59,0.0,e-transfer,231.59,0.0,231.59,2025-02,2.0,Winter,2025.0
+ORD-10418,2026-01-21,C1219,furniture,Coffee Table,Vancouver,David,4,425.0,0.0,credit card,1700.0,0.0,1700.0,2026-01,1.0,Winter,2026.0
+ORD-10320,2025-06-30,C1186,storage,Sideboard,Burnaby,Alex,3,793.28,0.0,credit card,2379.84,0.0,2379.84,2025-06,6.0,Summer,2025.0
+ORD-10085,2026-05-21,C1142,furniture,Vintage Lamp,Burnaby,Mina,5,156.5,0.0,credit card,782.5,0.0,782.5,2026-05,5.0,Spring,2026.0
+ORD-10771,2025-07-18,C1092,furniture,Bookshelf,Burnaby,Sara,5,514.25,0.0,debit,2571.25,0.0,2571.25,2025-07,7.0,Summer,2025.0
+ORD-11057,2025-09-29,C1242,furniture,Bookshelf,North Vancouver,Mina,2,531.68,0.05,e-transfer,1063.36,53.168,1010.1919999999999,2025-09,9.0,Fall,2025.0
+ORD-10624,2026-03-07,C1191,furniture,Vintage Lamp,Burnaby,Mina,1,168.76,0.15,credit card,168.76,25.313999999999997,143.446,2026-03,3.0,Spring,2026.0
+ORD-10698,2025-10-23,C1249,furniture,Vintage Lamp,Richmond,Alex,5,158.09,0.1,cash,790.45,79.04500000000002,711.405,2025-10,10.0,Fall,2025.0
+ORD-11103,2025-06-10,C1063,storage,Cabinet,Vancouver,Sara,1,736.43,0.0,debit,736.43,0.0,736.43,2025-06,6.0,Summer,2025.0
+ORD-10375,2026-04-09,C1067,storage,Sideboard,North Vancouver,David,5,766.43,0.05,e-transfer,3832.1499999999996,191.6075,3640.5424999999996,2026-04,4.0,Spring,2026.0
+ORD-10916,2025-07-03,C1213,storage,Storage Bench,Vancouver,Alex,2,283.22,0.0,e-transfer,566.44,0.0,566.44,2025-07,7.0,Summer,2025.0
+ORD-10789,2026-03-24,C1087,storage,Storage Bench,Vancouver,David,2,334.78,0.0,e-transfer,669.56,0.0,669.56,2026-03,3.0,Spring,2026.0
+ORD-10529,2025-01-25,C1175,decor,Art Print,Vancouver,Sara,2,149.95,0.0,e-transfer,299.9,0.0,299.9,2025-01,1.0,Winter,2025.0
+ORD-10876,2025-09-11,C1248,storage,Sideboard,Surrey,David,2,779.47,0.0,e-transfer,1558.94,0.0,1558.94,2025-09,9.0,Fall,2025.0
+ORD-10422,2025-01-10,C1044,decor,Art Print,Surrey,Sara,3,154.09,0.05,unknown,462.27,23.113500000000002,439.1565,2025-01,1.0,Winter,2025.0
+ORD-11023,2025-09-25,C1196,storage,Cabinet,Vancouver,Mina,1,595.57,0.0,e-transfer,595.57,0.0,595.57,2025-09,9.0,Fall,2025.0
+ORD-10512,2026-03-11,C1165,furniture,Bookshelf,Burnaby,Sara,3,646.34,0.15,e-transfer,1939.02,290.853,1648.167,2026-03,3.0,Spring,2026.0
+ORD-10852,2026-07-16,C1046,storage,Storage Bench,Surrey,John,2,293.98,0.15,cash,587.96,88.194,499.766,2026-07,7.0,Summer,2026.0
+ORD-11183,2025-01-07,C1208,furniture,Vintage Lamp,Richmond,John,4,174.39,0.0,credit card,697.56,0.0,697.56,2025-01,1.0,Winter,2025.0
+ORD-10509,2025-10-25,C1211,decor,Art Print,Burnaby,Mina,5,138.59,0.0,debit,692.95,0.0,692.95,2025-10,10.0,Fall,2025.0
+ORD-11001,2026-05-28,C1097,decor,Art Print,Surrey,John,5,146.12,0.15,e-transfer,730.6,109.59,621.01,2026-05,5.0,Spring,2026.0
+ORD-10992,2025-01-28,C1201,decor,Vase,Richmond,Sara,5,95.06,0.05,credit card,475.3,23.765,451.535,2025-01,1.0,Winter,2025.0
+ORD-11094,2026-02-19,C1156,decor,Vase,Surrey,Alex,5,99.88,0.05,cash,499.4,24.97,474.42999999999995,2026-02,2.0,Winter,2026.0
+ORD-10131,2025-07-11,C1075,storage,Storage Bench,Burnaby,Mina,1,372.81,0.05,debit,372.81,18.6405,354.1695,2025-07,7.0,Summer,2025.0
+ORD-10710,2026-06-17,C1233,decor,Rug,Surrey,Alex,4,370.15,0.1,e-transfer,1480.6,148.06,1332.54,2026-06,6.0,Summer,2026.0
+ORD-11014,2026-04-26,C1213,storage,Cabinet,Burnaby,Sara,4,664.34,0.0,e-transfer,2657.36,0.0,2657.36,2026-04,4.0,Spring,2026.0
+ORD-10785,2025-05-28,C1110,decor,Rug,Richmond,Sara,3,415.02,0.15,credit card,1245.06,186.759,1058.301,2025-05,5.0,Spring,2025.0
+ORD-10230,2025-01-22,C1120,furniture,Dining Chair,North Vancouver,Alex,2,248.91,0.2,credit card,497.82,99.56400000000001,398.256,2025-01,1.0,Winter,2025.0
+ORD-10841,2026-05-14,C1202,decor,Wall Mirror,Burnaby,John,5,190.2,0.2,debit,951.0,190.20000000000002,760.8,2026-05,5.0,Spring,2026.0
+ORD-10060,2025-03-13,C1123,furniture,Bookshelf,Surrey,Alex,5,498.95,0.0,debit,2494.75,0.0,2494.75,2025-03,3.0,Spring,2025.0
+ORD-10911,2025-03-26,C1093,furniture,Bookshelf,Surrey,Alex,3,577.6,0.0,credit card,1732.8000000000002,0.0,1732.8000000000002,2025-03,3.0,Spring,2025.0
+ORD-10382,2025-07-04,C1019,decor,Art Print,Surrey,Alex,2,124.11,0.0,credit card,248.22,0.0,248.22,2025-07,7.0,Summer,2025.0
+ORD-10213,2025-12-20,C1110,storage,Storage Bench,Richmond,John,1,321.93,0.0,e-transfer,321.93,0.0,321.93,2025-12,12.0,Winter,2025.0
+ORD-10754,2025-12-01,C1210,decor,Art Print,Burnaby,John,1,143.45,0.1,e-transfer,143.45,14.344999999999999,129.105,2025-12,12.0,Winter,2025.0
+ORD-11093,2025-05-18,C1028,decor,Rug,Vancouver,Mina,4,393.27,0.0,cash,1573.08,0.0,1573.08,2025-05,5.0,Spring,2025.0
+ORD-10309,2026-08-23,C1088,decor,Rug,Burnaby,Alex,2,362.07,0.0,debit,724.14,0.0,724.14,2026-08,8.0,Summer,2026.0
+ORD-10736,2025-01-09,C1072,storage,Sideboard,Burnaby,Alex,5,663.61,0.05,credit card,3318.05,165.90250000000003,3152.1475,2025-01,1.0,Winter,2025.0
+ORD-10038,2025-03-05,C1002,furniture,Coffee Table,North Vancouver,Sara,5,377.63,0.0,e-transfer,1888.15,0.0,1888.15,2025-03,3.0,Spring,2025.0
+ORD-10500,2025-12-23,C1018,decor,Rug,Vancouver,David,4,364.92,0.1,cash,1459.68,145.96800000000002,1313.712,2025-12,12.0,Winter,2025.0
+ORD-10674,2025-06-05,C1084,storage,Sideboard,Burnaby,Sara,3,728.93,0.0,e-transfer,2186.79,0.0,2186.79,2025-06,6.0,Summer,2025.0
+ORD-10109,2025-07-28,C1178,decor,Rug,Richmond,Mina,3,447.98,0.0,debit,1343.94,0.0,1343.94,2025-07,7.0,Summer,2025.0
+ORD-10072,2026-05-18,C1029,storage,Storage Bench,Vancouver,Alex,5,285.14,0.0,e-transfer,1425.6999999999998,0.0,1425.6999999999998,2026-05,5.0,Spring,2026.0
+ORD-11084,2025-01-25,C1171,storage,Storage Bench,Richmond,John,1,389.39,0.0,e-transfer,389.39,0.0,389.39,2025-01,1.0,Winter,2025.0
+ORD-10436,2026-06-01,C1088,furniture,Vintage Lamp,North Vancouver,John,2,204.85,0.15,cash,409.7,61.455,348.245,2026-06,6.0,Summer,2026.0
+ORD-10834,2025-09-21,C1211,storage,Cabinet,Surrey,John,4,728.59,0.1,debit,2914.36,291.43600000000004,2622.924,2025-09,9.0,Fall,2025.0
+ORD-10894,2026-07-26,C1011,decor,Rug,North Vancouver,Sara,3,389.9,0.1,debit,1169.6999999999998,116.96999999999998,1052.7299999999998,2026-07,7.0,Summer,2026.0
+ORD-10110,2026-06-16,C1169,furniture,Dining Chair,Burnaby,Mina,3,219.76,0.0,e-transfer,659.28,0.0,659.28,2026-06,6.0,Summer,2026.0
+ORD-10554,2026-05-24,C1222,decor,Art Print,Richmond,Mina,2,129.0,0.15,credit card,258.0,38.699999999999996,219.3,2026-05,5.0,Spring,2026.0
+ORD-10485,2025-03-31,C1030,decor,Art Print,Richmond,David,5,134.77,0.1,credit card,673.85,67.385,606.465,2025-03,3.0,Spring,2025.0
+ORD-11106,2026-02-26,C1163,decor,Wall Mirror,Vancouver,Alex,5,236.85,0.0,cash,1184.25,0.0,1184.25,2026-02,2.0,Winter,2026.0
+ORD-10678,2025-04-19,C1151,storage,Storage Bench,Richmond,John,5,325.88,0.05,credit card,1629.4,81.47000000000001,1547.93,2025-04,4.0,Spring,2025.0
+ORD-10795,2025-08-27,C1238,furniture,Coffee Table,Vancouver,Alex,2,357.65,0.0,unknown,715.3,0.0,715.3,2025-08,8.0,Summer,2025.0
+ORD-10153,2025-11-28,C1186,storage,Cabinet,Surrey,Mina,2,574.56,0.15,e-transfer,1149.12,172.36799999999997,976.752,2025-11,11.0,Fall,2025.0
+ORD-10726,2025-07-08,C1178,storage,Storage Bench,Burnaby,Alex,3,336.65,0.1,e-transfer,1009.9499999999999,100.995,908.9549999999999,2025-07,7.0,Summer,2025.0
+ORD-10651,2026-06-13,C1040,furniture,Bookshelf,Richmond,Sara,3,583.22,0.1,debit,1749.66,174.966,1574.694,2026-06,6.0,Summer,2026.0
+ORD-10045,2025-04-15,C1129,storage,Cabinet,Surrey,John,1,564.64,0.05,debit,564.64,28.232,536.408,2025-04,4.0,Spring,2025.0
+ORD-11129,2025-08-20,C1051,furniture,Coffee Table,Burnaby,Mina,3,415.06,0.05,e-transfer,1245.18,62.25900000000001,1182.921,2025-08,8.0,Summer,2025.0
+ORD-10547,2025-02-26,C1008,furniture,Dining Chair,Surrey,Sara,1,220.02,0.05,debit,220.02,11.001000000000001,209.019,2025-02,2.0,Winter,2025.0
+ORD-11182,2026-04-07,C1155,decor,Rug,Richmond,David,3,423.79,0.0,debit,1271.3700000000001,0.0,1271.3700000000001,2026-04,4.0,Spring,2026.0
+ORD-10930,2025-08-19,C1185,decor,Art Print,Surrey,Mina,3,125.26,0.1,cash,375.78000000000003,37.578,338.202,2025-08,8.0,Summer,2025.0
+ORD-10682,2025-04-22,C1054,decor,Rug,Richmond,Sara,3,361.43,0.0,e-transfer,1084.29,0.0,1084.29,2025-04,4.0,Spring,2025.0
+ORD-10172,2026-06-29,C1101,decor,Art Print,Burnaby,Alex,4,129.58,0.05,debit,518.32,25.916000000000004,492.40400000000005,2026-06,6.0,Summer,2026.0
+ORD-11125,2025-06-12,C1121,furniture,Vintage Lamp,Richmond,John,3,201.98,0.15,credit card,605.9399999999999,90.89099999999999,515.049,2025-06,6.0,Summer,2025.0
+ORD-10746,2025-05-23,unknown,decor,Art Print,Richmond,John,5,148.2,0.2,e-transfer,741.0,148.20000000000002,592.8,2025-05,5.0,Spring,2025.0
+ORD-11097,2025-04-17,C1142,decor,Art Print,Vancouver,Sara,2,132.3,0.0,cash,264.6,0.0,264.6,2025-04,4.0,Spring,2025.0
+ORD-10838,2025-01-16,C1017,storage,Sideboard,Vancouver,Alex,3,665.04,0.15,e-transfer,1995.12,299.268,1695.8519999999999,2025-01,1.0,Winter,2025.0
+ORD-10174,2025-07-15,C1235,furniture,Vintage Lamp,North Vancouver,Alex,5,165.46,0.1,credit card,827.3000000000001,82.73000000000002,744.57,2025-07,7.0,Summer,2025.0
+ORD-10123,2025-09-07,C1104,decor,Vase,North Vancouver,Sara,2,97.3,0.0,credit card,194.6,0.0,194.6,2025-09,9.0,Fall,2025.0
+ORD-10448,2025-11-03,C1016,furniture,Dining Chair,North Vancouver,David,3,283.69,0.0,cash,851.0699999999999,0.0,851.0699999999999,2025-11,11.0,Fall,2025.0
+ORD-10635,2025-03-24,C1180,storage,Sideboard,Richmond,David,5,816.99,0.0,debit,4084.95,0.0,4084.95,2025-03,3.0,Spring,2025.0
+ORD-10349,2025-07-25,C1139,furniture,Bookshelf,Vancouver,John,3,483.64,0.0,credit card,1450.92,0.0,1450.92,2025-07,7.0,Summer,2025.0
+ORD-10039,2026-04-28,C1212,furniture,Bookshelf,Vancouver,Alex,4,567.61,0.1,credit card,2270.44,227.044,2043.396,2026-04,4.0,Spring,2026.0
+ORD-10252,2026-03-25,C1141,decor,Art Print,Vancouver,Sara,1,151.21,0.0,cash,151.21,0.0,151.21,2026-03,3.0,Spring,2026.0
+ORD-11135,2025-06-21,C1182,storage,Cabinet,Richmond,David,4,629.41,0.0,credit card,2517.64,0.0,2517.64,2025-06,6.0,Summer,2025.0
+ORD-10915,2026-02-02,C1116,decor,Vase,North Vancouver,David,5,88.64,0.0,debit,443.2,0.0,443.2,2026-02,2.0,Winter,2026.0
+ORD-10949,2025-06-24,C1167,furniture,Coffee Table,North Vancouver,Mina,1,375.21,0.15,credit card,375.21,56.281499999999994,318.9285,2025-06,6.0,Summer,2025.0
+ORD-11170,2026-08-11,C1149,decor,Rug,Vancouver,David,3,377.54,0.0,e-transfer,1132.6200000000001,0.0,1132.6200000000001,2026-08,8.0,Summer,2026.0
+ORD-11098,2025-11-05,C1102,storage,Storage Bench,Richmond,David,2,309.85,0.1,cash,619.7,61.970000000000006,557.73,2025-11,11.0,Fall,2025.0
+ORD-10313,2025-12-03,C1104,decor,Art Print,Richmond,Alex,1,133.5,0.05,e-transfer,133.5,6.675000000000001,126.825,2025-12,12.0,Winter,2025.0
+ORD-10266,2025-04-16,C1231,storage,Cabinet,North Vancouver,Alex,4,737.23,0.0,credit card,2948.92,0.0,2948.92,2025-04,4.0,Spring,2025.0
+ORD-10234,2025-06-21,C1169,storage,Cabinet,North Vancouver,unknown,3,771.89,0.0,e-transfer,2315.67,0.0,2315.67,2025-06,6.0,Summer,2025.0
+ORD-10149,2026-06-13,C1244,decor,Rug,Vancouver,Mina,3,369.46,0.0,e-transfer,1108.3799999999999,0.0,1108.3799999999999,2026-06,6.0,Summer,2026.0
+ORD-10290,2025-05-19,C1111,storage,Cabinet,Surrey,Sara,4,558.68,0.2,e-transfer,2234.72,446.94399999999996,1787.7759999999998,2025-05,5.0,Spring,2025.0
+ORD-10714,2025-04-04,C1145,furniture,Bookshelf,North Vancouver,John,5,654.32,0.0,e-transfer,3271.6000000000004,0.0,3271.6000000000004,2025-04,4.0,Spring,2025.0
+ORD-11085,2025-03-31,C1052,storage,Storage Bench,Vancouver,Sara,1,301.22,0.1,unknown,301.22,30.122000000000003,271.098,2025-03,3.0,Spring,2025.0
+ORD-10204,2026-06-19,C1211,storage,Cabinet,North Vancouver,Mina,5,659.41,0.0,credit card,3297.0499999999997,0.0,3297.0499999999997,2026-06,6.0,Summer,2026.0
+ORD-10373,2025-11-19,C1118,storage,Sideboard,Burnaby,Mina,5,744.05,0.0,debit,3720.25,0.0,3720.25,2025-11,11.0,Fall,2025.0
+ORD-10808,2026-04-11,C1019,decor,Wall Mirror,North Vancouver,David,4,193.32,0.1,credit card,773.28,77.328,695.952,2026-04,4.0,Spring,2026.0
+ORD-10292,2026-05-03,C1033,furniture,Bookshelf,Vancouver,David,5,544.51,0.05,cash,2722.55,136.12750000000003,2586.4225,2026-05,5.0,Spring,2026.0
+ORD-10176,2025-05-02,C1193,storage,Storage Bench,North Vancouver,Mina,4,343.11,0.1,e-transfer,1372.44,137.244,1235.1960000000001,2025-05,5.0,Spring,2025.0
+ORD-10946,2025-12-13,C1210,decor,Wall Mirror,North Vancouver,Mina,3,233.95,0.0,debit,701.8499999999999,0.0,701.8499999999999,2025-12,12.0,Winter,2025.0
+ORD-10535,2026-02-25,C1169,decor,Vase,Vancouver,John,1,107.04,0.05,e-transfer,107.04,5.352,101.688,2026-02,2.0,Winter,2026.0
+ORD-10147,2025-10-08,C1091,decor,Rug,Burnaby,Alex,3,358.36,0.0,credit card,1075.08,0.0,1075.08,2025-10,10.0,Fall,2025.0
+ORD-10398,2025-02-13,C1212,decor,Art Print,Burnaby,Mina,1,137.44,0.1,credit card,137.44,13.744,123.696,2025-02,2.0,Winter,2025.0
+ORD-10697,2025-10-18,C1164,storage,Storage Bench,Vancouver,John,2,386.62,0.1,credit card,773.24,77.32400000000001,695.9159999999999,2025-10,10.0,Fall,2025.0
+ORD-11123,2025-07-19,C1077,furniture,Bookshelf,Vancouver,Alex,2,593.32,0.0,credit card,1186.64,0.0,1186.64,2025-07,7.0,Summer,2025.0
+ORD-10617,2026-02-15,unknown,decor,Art Print,Burnaby,David,5,113.27,0.0,e-transfer,566.35,0.0,566.35,2026-02,2.0,Winter,2026.0
+ORD-10403,2026-07-13,C1188,furniture,Vintage Lamp,Surrey,John,5,160.8,0.0,credit card,804.0,0.0,804.0,2026-07,7.0,Summer,2026.0
+ORD-10963,2025-02-22,C1046,decor,Art Print,Richmond,Sara,5,155.8,0.2,cash,779.0,155.8,623.2,2025-02,2.0,Winter,2025.0
+ORD-10879,2026-03-30,C1186,decor,Vase,Vancouver,Mina,5,99.95,0.1,e-transfer,499.75,49.975,449.775,2026-03,3.0,Spring,2026.0
+ORD-10068,2026-08-23,C1156,furniture,Vintage Lamp,Vancouver,Alex,4,194.94,0.1,cash,779.76,77.976,701.784,2026-08,8.0,Summer,2026.0
+ORD-10654,2025-12-03,C1025,furniture,Vintage Lamp,Vancouver,Sara,2,186.81,0.1,cash,373.62,37.362,336.258,2025-12,12.0,Winter,2025.0
+ORD-10366,2025-11-04,C1095,furniture,Vintage Lamp,Vancouver,David,3,169.29,0.1,cash,507.87,50.787000000000006,457.08299999999997,2025-11,11.0,Fall,2025.0
+ORD-11111,2025-10-14,C1003,storage,Storage Bench,Burnaby,David,5,302.71,0.15,debit,1513.55,227.0325,1286.5175,2025-10,10.0,Fall,2025.0
+ORD-11050,2025-10-27,C1085,storage,Cabinet,Surrey,John,50,671.14,0.0,credit card,33557.0,0.0,33557.0,2025-10,10.0,Fall,2025.0
+ORD-10603,2026-08-02,C1183,storage,Cabinet,Richmond,Sara,2,693.96,0.0,cash,1387.92,0.0,1387.92,2026-08,8.0,Summer,2026.0
+ORD-10450,2025-11-16,C1140,storage,Storage Bench,Surrey,Sara,4,325.3,0.1,debit,1301.2,130.12,1171.08,2025-11,11.0,Fall,2025.0
+ORD-10679,2025-09-01,C1015,furniture,Vintage Lamp,Vancouver,John,5,193.9,0.05,debit,969.5,48.475,921.025,2025-09,9.0,Fall,2025.0
+ORD-10070,2025-01-22,C1205,furniture,Coffee Table,Surrey,John,5,357.8,0.0,cash,1789.0,0.0,1789.0,2025-01,1.0,Winter,2025.0
+ORD-10994,2025-05-25,C1088,storage,Storage Bench,Surrey,Alex,2,369.76,0.0,cash,739.52,0.0,739.52,2025-05,5.0,Spring,2025.0
+ORD-11140,2026-08-18,C1064,storage,Storage Bench,Surrey,Alex,3,363.99,0.0,credit card,1091.97,0.0,1091.97,2026-08,8.0,Summer,2026.0
+ORD-11033,2026-08-17,C1078,storage,Sideboard,Richmond,Mina,5,801.12,0.0,credit card,4005.6,0.0,4005.6,2026-08,8.0,Summer,2026.0
+ORD-10346,2025-04-22,C1101,storage,Storage Bench,Burnaby,Mina,2,315.31,0.0,credit card,630.62,0.0,630.62,2025-04,4.0,Spring,2025.0
+ORD-10987,,C1126,furniture,Coffee Table,North Vancouver,Alex,5,439.54,0.0,cash,2197.7000000000003,0.0,2197.7000000000003,,,,
+ORD-10392,2025-11-25,C1222,storage,Cabinet,Richmond,Sara,3,649.47,0.1,e-transfer,1948.41,194.841,1753.569,2025-11,11.0,Fall,2025.0
+ORD-10119,2025-04-22,C1107,furniture,Bookshelf,Surrey,David,3,586.19,0.0,cash,1758.5700000000002,0.0,1758.5700000000002,2025-04,4.0,Spring,2025.0
+ORD-11107,2025-07-23,C1004,decor,Wall Mirror,Vancouver,David,4,224.67,0.0,credit card,898.68,0.0,898.68,2025-07,7.0,Summer,2025.0
+ORD-10542,2025-10-21,C1022,decor,Vase,Vancouver,John,5,81.99,0.1,debit,409.95,40.995000000000005,368.955,2025-10,10.0,Fall,2025.0
+ORD-10739,2025-12-07,C1078,storage,Sideboard,Burnaby,David,1,889.25,0.0,debit,889.25,0.0,889.25,2025-12,12.0,Winter,2025.0
+ORD-10183,2025-04-11,C1114,furniture,Bookshelf,Surrey,Sara,3,477.47,0.0,cash,1432.41,0.0,1432.41,2025-04,4.0,Spring,2025.0
+ORD-11155,2026-03-10,C1172,storage,Cabinet,Surrey,Sara,3,683.06,0.1,e-transfer,2049.18,204.918,1844.2619999999997,2026-03,3.0,Spring,2026.0
+ORD-10585,2026-03-01,C1112,decor,Rug,North Vancouver,John,4,466.35,0.2,cash,1865.4,373.08000000000004,1492.3200000000002,2026-03,3.0,Spring,2026.0
+ORD-10376,2026-04-22,C1248,furniture,Bookshelf,Surrey,Mina,5,487.51,0.0,unknown,2437.55,0.0,2437.55,2026-04,4.0,Spring,2026.0
+ORD-10357,2026-04-29,C1124,furniture,Bookshelf,Vancouver,John,4,536.46,0.15,cash,2145.84,321.87600000000003,1823.9640000000002,2026-04,4.0,Spring,2026.0
+ORD-11192,2025-12-14,C1095,furniture,Bookshelf,North Vancouver,John,5,634.51,0.1,cash,3172.55,317.25500000000005,2855.295,2025-12,12.0,Winter,2025.0
+ORD-11187,2026-06-06,C1220,furniture,Bookshelf,Burnaby,John,3,533.0,0.2,debit,1599.0,319.8,1279.2,2026-06,6.0,Summer,2026.0
+ORD-10166,2025-01-02,C1220,furniture,Coffee Table,Vancouver,David,4,503.03,0.0,debit,2012.12,0.0,2012.12,2025-01,1.0,Winter,2025.0
+ORD-10037,2026-07-28,C1125,decor,Art Print,Vancouver,Mina,2,123.53,0.15,e-transfer,247.06,37.059,210.001,2026-07,7.0,Summer,2026.0
+ORD-10438,2025-05-25,C1209,furniture,Dining Chair,North Vancouver,Mina,4,210.92,0.0,e-transfer,843.68,0.0,843.68,2025-05,5.0,Spring,2025.0
+ORD-10043,2025-12-23,C1080,storage,Cabinet,Burnaby,John,3,585.75,0.1,credit card,1757.25,175.72500000000002,1581.525,2025-12,12.0,Winter,2025.0
+ORD-10890,2025-01-26,C1213,storage,Sideboard,Burnaby,David,4,900.17,0.05,credit card,3600.68,180.034,3420.6459999999997,2025-01,1.0,Winter,2025.0
+ORD-10378,2026-06-06,C1112,furniture,Coffee Table,Surrey,Mina,5,449.46,0.05,cash,2247.2999999999997,112.365,2134.935,2026-06,6.0,Summer,2026.0
+ORD-10641,2026-02-28,C1133,decor,Art Print,Richmond,Mina,4,121.25,0.0,debit,485.0,0.0,485.0,2026-02,2.0,Winter,2026.0
+ORD-10022,2025-07-28,C1038,storage,Sideboard,North Vancouver,Mina,3,824.32,0.0,debit,2472.96,0.0,2472.96,2025-07,7.0,Summer,2025.0
+ORD-11018,2025-12-27,C1120,furniture,Dining Chair,Burnaby,David,5,211.13,0.0,cash,1055.65,0.0,1055.65,2025-12,12.0,Winter,2025.0
+ORD-10066,2025-06-27,C1004,storage,Storage Bench,Burnaby,Mina,3,333.46,0.0,cash,1000.3799999999999,0.0,1000.3799999999999,2025-06,6.0,Summer,2025.0
+ORD-11188,2025-07-02,unknown,storage,Storage Bench,Vancouver,John,3,332.54,0.1,debit,997.6200000000001,99.76200000000001,897.8580000000001,2025-07,7.0,Summer,2025.0
+ORD-11117,2025-03-15,C1110,decor,Rug,Vancouver,Mina,1,394.08,0.0,e-transfer,394.08,0.0,394.08,2025-03,3.0,Spring,2025.0
+ORD-10686,2026-06-04,C1176,storage,Sideboard,North Vancouver,Mina,2,749.81,0.0,cash,1499.62,0.0,1499.62,2026-06,6.0,Summer,2026.0
+ORD-10263,2026-06-08,C1033,storage,Storage Bench,Richmond,Alex,4,383.28,0.0,debit,1533.12,0.0,1533.12,2026-06,6.0,Summer,2026.0
+ORD-10216,2025-04-10,C1216,decor,Wall Mirror,Burnaby,Alex,2,231.65,0.0,e-transfer,463.3,0.0,463.3,2025-04,4.0,Spring,2025.0
+ORD-11044,2026-05-19,C1118,storage,Sideboard,Vancouver,Sara,2,683.37,0.1,credit card,1366.74,136.674,1230.066,2026-05,5.0,Spring,2026.0
+ORD-10140,2026-04-23,C1235,storage,Cabinet,Vancouver,Alex,1,670.85,0.0,cash,670.85,0.0,670.85,2026-04,4.0,Spring,2026.0
+ORD-10997,2025-07-21,C1143,furniture,Bookshelf,Vancouver,Mina,4,606.75,0.0,debit,2427.0,0.0,2427.0,2025-07,7.0,Summer,2025.0
+ORD-11139,2025-04-08,C1088,furniture,Dining Chair,North Vancouver,John,5,208.7,0.05,cash,1043.5,52.175000000000004,991.325,2025-04,4.0,Spring,2025.0
+ORD-10362,2025-04-02,C1138,decor,Art Print,Richmond,Mina,1,126.51,0.05,cash,126.51,6.325500000000001,120.1845,2025-04,4.0,Spring,2025.0
+ORD-10515,2026-07-04,C1033,decor,Rug,Richmond,John,1,447.56,0.2,credit card,447.56,89.512,358.048,2026-07,7.0,Summer,2026.0
+ORD-10079,2025-07-02,C1101,storage,Cabinet,Surrey,John,1,649.85,0.05,debit,649.85,32.4925,617.3575000000001,2025-07,7.0,Summer,2025.0
+ORD-10802,2026-07-19,C1056,storage,Sideboard,Burnaby,Alex,2,779.85,0.0,e-transfer,1559.7,0.0,1559.7,2026-07,7.0,Summer,2026.0
+ORD-11036,2026-02-22,C1102,decor,Art Print,Richmond,John,2,119.39,0.0,credit card,238.78,0.0,238.78,2026-02,2.0,Winter,2026.0
+ORD-10416,2025-05-08,C1050,storage,Sideboard,Vancouver,Alex,4,886.71,0.0,e-transfer,3546.84,0.0,3546.84,2025-05,5.0,Spring,2025.0
+ORD-11131,2026-03-08,C1088,furniture,Dining Chair,Burnaby,Alex,4,267.69,0.15,debit,1070.76,160.614,910.146,2026-03,3.0,Spring,2026.0
+ORD-10541,2026-04-27,C1031,furniture,Dining Chair,North Vancouver,Mina,2,277.87,0.0,e-transfer,555.74,0.0,555.74,2026-04,4.0,Spring,2026.0
+ORD-10566,2025-03-08,C1213,storage,Cabinet,Vancouver,Mina,4,709.92,0.05,cash,2839.68,141.984,2697.696,2025-03,3.0,Spring,2025.0
+ORD-10807,2025-09-15,C1148,decor,Vase,Vancouver,Sara,4,93.88,0.0,e-transfer,375.52,0.0,375.52,2025-09,9.0,Fall,2025.0
+ORD-10165,2026-03-27,C1053,decor,Art Print,North Vancouver,Mina,1,146.61,0.0,debit,146.61,0.0,146.61,2026-03,3.0,Spring,2026.0
+ORD-10701,2025-02-06,C1191,furniture,Vintage Lamp,Surrey,David,4,181.27,0.0,debit,725.08,0.0,725.08,2025-02,2.0,Winter,2025.0
+ORD-10310,2026-08-20,C1086,decor,Art Print,Surrey,Alex,4,155.56,0.05,cash,622.24,31.112000000000002,591.128,2026-08,8.0,Summer,2026.0
+ORD-10570,2025-07-25,C1087,furniture,Bookshelf,Vancouver,David,3,605.16,0.0,e-transfer,1815.48,0.0,1815.48,2025-07,7.0,Summer,2025.0
+ORD-10151,2025-03-08,C1079,storage,Sideboard,Surrey,David,5,731.92,0.0,cash,3659.6,0.0,3659.6,2025-03,3.0,Spring,2025.0
+ORD-10767,2026-01-27,C1235,decor,Rug,North Vancouver,John,2,427.04,0.0,credit card,854.08,0.0,854.08,2026-01,1.0,Winter,2026.0
+ORD-10164,2026-07-07,C1233,storage,Cabinet,Burnaby,Sara,5,630.17,0.0,cash,3150.85,0.0,3150.85,2026-07,7.0,Summer,2026.0
+ORD-10337,2025-05-29,C1192,decor,Wall Mirror,North Vancouver,Sara,3,212.06,0.0,debit,636.1800000000001,0.0,636.1800000000001,2025-05,5.0,Spring,2025.0
+ORD-11141,2025-09-08,C1087,decor,Wall Mirror,North Vancouver,John,1,193.33,0.2,debit,193.33,38.666000000000004,154.66400000000002,2025-09,9.0,Fall,2025.0
+ORD-10589,2026-04-23,C1204,decor,Art Print,Vancouver,David,2,120.89,0.05,debit,241.78,12.089,229.691,2026-04,4.0,Spring,2026.0
+ORD-10322,2026-05-02,C1217,decor,Rug,Richmond,Alex,3,428.65,0.0,e-transfer,1285.9499999999998,0.0,1285.9499999999998,2026-05,5.0,Spring,2026.0
+ORD-10433,2026-07-25,C1131,storage,Storage Bench,Richmond,Alex,3,327.99,0.1,cash,983.97,98.397,885.573,2026-07,7.0,Summer,2026.0
+ORD-11078,2026-06-04,C1192,decor,Rug,North Vancouver,Alex,4,386.31,0.05,e-transfer,1545.24,77.262,1467.978,2026-06,6.0,Summer,2026.0
+ORD-10187,2025-04-16,C1061,storage,Storage Bench,Richmond,unknown,3,329.41,0.05,e-transfer,988.23,49.411500000000004,938.8185,2025-04,4.0,Spring,2025.0
+ORD-10425,2025-10-27,C1082,decor,Art Print,Burnaby,Mina,2,139.79,0.2,e-transfer,279.58,55.916,223.664,2025-10,10.0,Fall,2025.0
+ORD-10581,2026-03-24,C1074,furniture,Coffee Table,Richmond,John,2,387.67,0.0,credit card,775.34,0.0,775.34,2026-03,3.0,Spring,2026.0
+ORD-10312,2026-08-15,C1241,furniture,Bookshelf,Burnaby,Sara,3,653.6,0.1,debit,1960.8000000000002,196.08000000000004,1764.7200000000003,2026-08,8.0,Summer,2026.0
+ORD-10249,2026-01-18,C1076,storage,Sideboard,Burnaby,Mina,3,896.75,0.05,e-transfer,2690.25,134.51250000000002,2555.7375,2026-01,1.0,Winter,2026.0
+ORD-10643,2025-02-18,C1222,storage,Storage Bench,Surrey,Sara,3,334.78,0.0,debit,1004.3399999999999,0.0,1004.3399999999999,2025-02,2.0,Winter,2025.0
+ORD-10912,2025-05-05,C1231,decor,Rug,Burnaby,Sara,4,424.72,0.0,debit,1698.88,0.0,1698.88,2025-05,5.0,Spring,2025.0
+ORD-10625,2025-11-03,C1158,storage,Cabinet,Richmond,David,4,655.04,0.1,debit,2620.16,262.016,2358.144,2025-11,11.0,Fall,2025.0
+ORD-10508,2025-05-30,C1207,storage,Storage Bench,Surrey,Sara,4,382.9,0.0,cash,1531.6,0.0,1531.6,2025-05,5.0,Spring,2025.0
+ORD-10528,2025-12-29,C1044,decor,Wall Mirror,Surrey,Mina,5,251.01,0.1,cash,1255.05,125.505,1129.545,2025-12,12.0,Winter,2025.0
+ORD-10540,2025-12-04,C1034,decor,Rug,Vancouver,John,5,456.97,0.0,e-transfer,2284.8500000000004,0.0,2284.8500000000004,2025-12,12.0,Winter,2025.0
+ORD-10845,2025-07-26,C1150,decor,Vase,North Vancouver,Alex,3,95.8,0.05,credit card,287.4,14.37,273.03,2025-07,7.0,Summer,2025.0
+ORD-10631,2025-03-18,C1004,furniture,Bookshelf,Burnaby,Alex,3,544.4,0.1,debit,1633.1999999999998,163.32,1469.8799999999999,2025-03,3.0,Spring,2025.0
+ORD-10893,2026-05-07,C1213,decor,Vase,Vancouver,Alex,2,102.18,0.0,cash,204.36,0.0,204.36,2026-05,5.0,Spring,2026.0
+ORD-10254,2025-04-16,C1201,furniture,Coffee Table,Vancouver,David,5,409.58,0.0,debit,2047.8999999999999,0.0,2047.8999999999999,2025-04,4.0,Spring,2025.0
+ORD-10960,2026-07-01,C1206,storage,Cabinet,Richmond,Alex,2,721.91,0.2,debit,1443.82,288.764,1155.056,2026-07,7.0,Summer,2026.0
+ORD-10839,2025-04-29,C1141,furniture,Coffee Table,North Vancouver,unknown,2,488.67,0.0,cash,977.34,0.0,977.34,2025-04,4.0,Spring,2025.0
+ORD-10051,2026-01-19,C1109,storage,Sideboard,Richmond,Sara,4,735.74,0.0,debit,2942.96,0.0,2942.96,2026-01,1.0,Winter,2026.0
+ORD-10905,2025-09-23,C1092,furniture,Dining Chair,Surrey,David,1,259.27,0.0,credit card,259.27,0.0,259.27,2025-09,9.0,Fall,2025.0
+ORD-10439,2025-09-15,C1063,storage,Sideboard,North Vancouver,David,1,789.78,0.0,credit card,789.78,0.0,789.78,2025-09,9.0,Fall,2025.0
+ORD-10093,2025-10-23,C1211,storage,Sideboard,North Vancouver,John,4,685.96,0.0,e-transfer,2743.84,0.0,2743.84,2025-10,10.0,Fall,2025.0
+ORD-11180,2026-05-19,C1235,storage,Storage Bench,Surrey,Alex,2,372.31,0.0,cash,744.62,0.0,744.62,2026-05,5.0,Spring,2026.0
+ORD-10395,2025-07-16,C1217,furniture,Dining Chair,Burnaby,Sara,3,229.66,0.0,credit card,688.98,0.0,688.98,2025-07,7.0,Summer,2025.0
+ORD-10102,2026-08-14,C1243,decor,Rug,Surrey,Alex,1,370.84,0.1,debit,370.84,37.083999999999996,333.756,2026-08,8.0,Summer,2026.0
+ORD-10504,,C1002,furniture,Dining Chair,Surrey,Alex,3,226.42,0.15,debit,679.26,101.889,577.371,,,,
+ORD-10319,2025-05-02,C1050,storage,Cabinet,Richmond,John,5,702.65,0.1,cash,3513.25,351.32500000000005,3161.925,2025-05,5.0,Spring,2025.0
+ORD-10910,2025-03-08,C1074,decor,Art Print,Vancouver,David,4,115.33,0.1,cash,461.32,46.132000000000005,415.188,2025-03,3.0,Spring,2025.0
+ORD-10561,2026-01-24,C1001,decor,Art Print,North Vancouver,Mina,2,116.64,0.0,credit card,233.28,0.0,233.28,2026-01,1.0,Winter,2026.0
+ORD-10232,2025-02-05,C1181,storage,Cabinet,Richmond,Sara,2,742.4,0.0,cash,1484.8,0.0,1484.8,2025-02,2.0,Winter,2025.0
+ORD-11009,2025-01-23,C1060,furniture,Vintage Lamp,North Vancouver,Sara,2,161.45,0.05,cash,322.9,16.145,306.755,2025-01,1.0,Winter,2025.0
+ORD-10601,2025-05-28,C1090,decor,Wall Mirror,Surrey,David,2,193.12,0.0,debit,386.24,0.0,386.24,2025-05,5.0,Spring,2025.0
+ORD-10715,2025-02-09,C1130,furniture,Vintage Lamp,North Vancouver,Mina,2,157.72,0.05,debit,315.44,15.772,299.668,2025-02,2.0,Winter,2025.0
+ORD-10605,2026-08-03,C1119,furniture,Vintage Lamp,Richmond,David,4,190.73,0.0,credit card,762.92,0.0,762.92,2026-08,8.0,Summer,2026.0
+ORD-10417,2026-05-13,C1150,storage,Storage Bench,North Vancouver,Alex,3,312.52,0.0,cash,937.56,0.0,937.56,2026-05,5.0,Spring,2026.0
+ORD-10940,2026-04-24,C1067,furniture,Dining Chair,Surrey,unknown,1,269.85,0.0,credit card,269.85,0.0,269.85,2026-04,4.0,Spring,2026.0
+ORD-10201,2025-10-19,C1065,storage,Sideboard,Surrey,Sara,2,734.03,0.0,cash,1468.06,0.0,1468.06,2025-10,10.0,Fall,2025.0
+ORD-10211,2026-08-11,C1073,storage,Cabinet,North Vancouver,John,5,665.94,0.0,debit,3329.7000000000003,0.0,3329.7000000000003,2026-08,8.0,Summer,2026.0
+ORD-10909,2025-11-15,C1109,storage,Storage Bench,Vancouver,Sara,4,301.09,0.05,credit card,1204.36,60.217999999999996,1144.1419999999998,2025-11,11.0,Fall,2025.0
+ORD-10848,2025-06-24,C1209,storage,Storage Bench,Burnaby,Mina,5,328.11,0.1,debit,1640.5500000000002,164.05500000000004,1476.4950000000001,2025-06,6.0,Summer,2025.0
+ORD-10516,2025-08-23,C1235,furniture,Vintage Lamp,North Vancouver,David,2,169.23,0.0,credit card,338.46,0.0,338.46,2025-08,8.0,Summer,2025.0
+ORD-10047,2025-05-30,C1071,storage,Cabinet,Vancouver,Sara,2,682.46,0.0,debit,1364.92,0.0,1364.92,2025-05,5.0,Spring,2025.0
+ORD-10863,2025-11-13,C1148,furniture,Coffee Table,Vancouver,David,5,453.71,0.0,e-transfer,2268.5499999999997,0.0,2268.5499999999997,2025-11,11.0,Fall,2025.0
+ORD-10026,2026-01-31,C1081,furniture,Dining Chair,Vancouver,Alex,2,265.07,0.1,cash,530.14,53.014,477.126,2026-01,1.0,Winter,2026.0
+ORD-10786,2025-12-21,C1105,storage,Sideboard,Richmond,Sara,3,801.3,0.0,e-transfer,2403.8999999999996,0.0,2403.8999999999996,2025-12,12.0,Winter,2025.0
+ORD-10094,2026-02-07,C1182,decor,Art Print,Burnaby,Alex,3,145.21,0.0,e-transfer,435.63,0.0,435.63,2026-02,2.0,Winter,2026.0
+ORD-11089,2025-04-13,C1009,decor,Vase,Richmond,John,3,84.84,0.05,e-transfer,254.52,12.726,241.794,2025-04,4.0,Spring,2025.0
+ORD-11096,2026-03-31,C1089,furniture,Dining Chair,North Vancouver,John,5,285.39,0.2,e-transfer,1426.9499999999998,285.39,1141.56,2026-03,3.0,Spring,2026.0
+ORD-10708,2026-04-26,C1039,storage,Cabinet,Vancouver,Mina,4,629.91,0.0,e-transfer,2519.64,0.0,2519.64,2026-04,4.0,Spring,2026.0
+ORD-11133,2025-04-05,C1074,furniture,Coffee Table,Richmond,John,5,423.28999999999996,0.1,debit,2116.45,211.64499999999998,1904.8049999999998,2025-04,4.0,Spring,2025.0
+ORD-11150,2025-11-13,C1019,decor,Vase,Richmond,Alex,4,103.88,0.0,cash,415.52,0.0,415.52,2025-11,11.0,Fall,2025.0
+ORD-10338,2025-12-23,C1190,storage,Sideboard,Burnaby,John,2,668.96,0.05,debit,1337.92,66.896,1271.0240000000001,2025-12,12.0,Winter,2025.0
+ORD-10853,,C1027,storage,Cabinet,Richmond,David,3,694.15,0.0,e-transfer,2082.45,0.0,2082.45,,,,
+ORD-10296,2025-09-26,C1018,storage,Storage Bench,Vancouver,Mina,3,320.47,0.0,cash,961.4100000000001,0.0,961.4100000000001,2025-09,9.0,Fall,2025.0
+ORD-10135,2025-01-10,C1098,furniture,Vintage Lamp,Vancouver,Mina,5,215.56,0.05,cash,1077.8,53.89,1023.91,2025-01,1.0,Winter,2025.0
+ORD-10720,2025-11-27,unknown,decor,Rug,Burnaby,John,5,415.93,0.0,e-transfer,2079.65,0.0,2079.65,2025-11,11.0,Fall,2025.0
+ORD-10412,2025-11-08,C1196,furniture,Coffee Table,Vancouver,David,2,411.13,0.0,credit card,822.26,0.0,822.26,2025-11,11.0,Fall,2025.0
+ORD-10223,2025-08-13,C1127,storage,Storage Bench,Richmond,David,3,292.18,0.1,e-transfer,876.54,87.654,788.886,2025-08,8.0,Summer,2025.0
+ORD-10685,2026-05-12,C1085,furniture,Dining Chair,Surrey,David,4,268.75,0.05,debit,1075.0,53.75,1021.25,2026-05,5.0,Spring,2026.0
+ORD-10465,2025-02-15,C1203,decor,Rug,North Vancouver,Sara,4,432.49,0.2,e-transfer,1729.96,345.992,1383.968,2025-02,2.0,Winter,2025.0
+ORD-11035,2026-03-26,C1226,decor,Wall Mirror,Burnaby,David,3,206.58,0.05,credit card,619.74,30.987000000000002,588.753,2026-03,3.0,Spring,2026.0
+ORD-10280,2026-05-08,C1106,storage,Storage Bench,Vancouver,John,1,367.05,0.0,credit card,367.05,0.0,367.05,2026-05,5.0,Spring,2026.0
+ORD-10148,2026-02-15,C1182,furniture,Vintage Lamp,Burnaby,Sara,2,174.39,0.2,credit card,348.78,69.756,279.024,2026-02,2.0,Winter,2026.0
+ORD-10830,2025-05-15,C1062,furniture,Bookshelf,Burnaby,Sara,4,536.91,0.0,debit,2147.64,0.0,2147.64,2025-05,5.0,Spring,2025.0
+ORD-10285,2025-08-18,C1195,decor,Rug,Burnaby,David,4,465.27,0.15,cash,1861.08,279.162,1581.918,2025-08,8.0,Summer,2025.0
+ORD-10649,2026-01-08,C1218,storage,Storage Bench,Vancouver,Mina,5,316.43,0.0,credit card,1582.15,0.0,1582.15,2026-01,1.0,Winter,2026.0
+ORD-11012,2025-04-20,C1177,decor,Wall Mirror,Surrey,Alex,1,238.1,0.05,debit,238.1,11.905000000000001,226.195,2025-04,4.0,Spring,2025.0
+ORD-10116,2025-12-21,C1214,storage,Storage Bench,Burnaby,David,2,355.97,0.0,debit,711.94,0.0,711.94,2025-12,12.0,Winter,2025.0
+ORD-10139,2025-12-07,C1038,decor,Art Print,Richmond,John,4,145.01,0.2,e-transfer,580.04,116.008,464.032,2025-12,12.0,Winter,2025.0
+ORD-10709,2025-02-12,C1126,furniture,Bookshelf,North Vancouver,John,4,481.97,0.0,debit,1927.88,0.0,1927.88,2025-02,2.0,Winter,2025.0
+ORD-10286,2025-12-30,C1237,furniture,Dining Chair,Vancouver,Mina,2,259.31,0.1,credit card,518.62,51.862,466.758,2025-12,12.0,Winter,2025.0
+ORD-10502,2026-02-23,C1193,decor,Rug,North Vancouver,David,3,369.53,0.1,credit card,1108.59,110.859,997.7309999999999,2026-02,2.0,Winter,2026.0
+ORD-10006,2025-10-13,unknown,decor,Wall Mirror,Richmond,Sara,4,195.18,0.1,cash,780.72,78.072,702.648,2025-10,10.0,Fall,2025.0
+ORD-10077,2025-06-30,C1065,furniture,Bookshelf,Surrey,Mina,3,589.29,0.1,cash,1767.87,176.787,1591.0829999999999,2025-06,6.0,Summer,2025.0
+ORD-10902,2025-04-24,C1084,storage,Cabinet,Vancouver,Sara,3,717.96,0.0,cash,2153.88,0.0,2153.88,2025-04,4.0,Spring,2025.0
+ORD-10405,2026-03-08,C1231,furniture,Bookshelf,Surrey,Sara,5,590.89,0.0,cash,2954.45,0.0,2954.45,2026-03,3.0,Spring,2026.0
+ORD-10926,2025-07-19,C1065,storage,Cabinet,North Vancouver,David,3,705.01,0.0,debit,2115.0299999999997,0.0,2115.0299999999997,2025-07,7.0,Summer,2025.0
+ORD-10944,2026-02-22,C1089,furniture,Vintage Lamp,Surrey,Alex,5,169.2,0.15,cash,846.0,126.89999999999999,719.1,2026-02,2.0,Winter,2026.0
+ORD-10052,2025-08-09,C1109,decor,Wall Mirror,Burnaby,Sara,2,205.43,0.0,e-transfer,410.86,0.0,410.86,2025-08,8.0,Summer,2025.0
+ORD-10947,2025-12-17,C1190,storage,Cabinet,Vancouver,Alex,4,648.18,0.0,credit card,2592.72,0.0,2592.72,2025-12,12.0,Winter,2025.0
+ORD-10699,2025-11-08,C1169,storage,Cabinet,Vancouver,John,5,579.23,0.15,credit card,2896.15,434.4225,2461.7275,2025-11,11.0,Fall,2025.0
+ORD-11020,2025-08-07,C1247,furniture,Vintage Lamp,Vancouver,unknown,3,196.27,0.0,debit,588.8100000000001,0.0,588.8100000000001,2025-08,8.0,Summer,2025.0
+ORD-10278,2026-06-05,C1135,decor,Wall Mirror,Surrey,Alex,5,200.98,0.05,credit card,1004.9,50.245000000000005,954.655,2026-06,6.0,Summer,2026.0
+ORD-10394,2026-02-16,C1016,furniture,Coffee Table,Burnaby,David,5,395.71,0.0,e-transfer,1978.55,0.0,1978.55,2026-02,2.0,Winter,2026.0
+ORD-10463,2025-03-23,C1024,furniture,Dining Chair,Surrey,David,3,213.82,0.0,debit,641.46,0.0,641.46,2025-03,3.0,Spring,2025.0
+ORD-10791,2026-01-06,C1231,decor,Vase,Vancouver,David,3,109.64,0.0,e-transfer,328.92,0.0,328.92,2026-01,1.0,Winter,2026.0
+ORD-10019,2026-05-29,C1166,decor,Wall Mirror,Richmond,David,3,234.25,0.1,e-transfer,702.75,70.275,632.475,2026-05,5.0,Spring,2026.0
+ORD-10189,2025-07-10,C1053,furniture,Bookshelf,Vancouver,David,2,566.4,0.0,e-transfer,1132.8,0.0,1132.8,2025-07,7.0,Summer,2025.0
+ORD-10734,2025-12-24,C1093,storage,Sideboard,North Vancouver,Alex,5,913.95,0.0,credit card,4569.75,0.0,4569.75,2025-12,12.0,Winter,2025.0
+ORD-10308,2026-04-01,C1237,furniture,Dining Chair,Richmond,Sara,2,223.38,0.15,cash,446.76,67.014,379.746,2026-04,4.0,Spring,2026.0
+ORD-11000,2025-03-13,C1128,decor,Vase,Vancouver,Sara,1,99.68,0.0,debit,99.68,0.0,99.68,2025-03,3.0,Spring,2025.0
+ORD-10659,2025-12-23,C1167,furniture,Vintage Lamp,Vancouver,Sara,3,215.31,0.2,debit,645.9300000000001,129.186,516.744,2025-12,12.0,Winter,2025.0
+ORD-10315,2026-04-01,C1245,furniture,Vintage Lamp,Burnaby,Sara,1,187.9,0.0,credit card,187.9,0.0,187.9,2026-04,4.0,Spring,2026.0
+ORD-10534,2025-09-08,C1053,decor,Rug,Vancouver,John,5,331.99,0.0,unknown,1659.95,0.0,1659.95,2025-09,9.0,Fall,2025.0
+ORD-10260,2026-01-04,C1127,decor,Rug,Surrey,David,3,452.95,0.15,debit,1358.85,203.8275,1155.0225,2026-01,1.0,Winter,2026.0
+ORD-11099,2025-07-29,C1101,storage,Storage Bench,Vancouver,Sara,4,308.73,0.0,debit,1234.92,0.0,1234.92,2025-07,7.0,Summer,2025.0
+ORD-10127,2025-03-24,C1234,decor,Wall Mirror,Vancouver,John,2,246.03,0.0,credit card,492.06,0.0,492.06,2025-03,3.0,Spring,2025.0
+ORD-11082,2025-04-07,C1165,furniture,Bookshelf,Richmond,David,3,642.18,0.0,debit,1926.54,0.0,1926.54,2025-04,4.0,Spring,2025.0
+ORD-10755,2025-07-10,C1126,storage,Storage Bench,Richmond,Sara,4,356.03,0.0,credit card,1424.12,0.0,1424.12,2025-07,7.0,Summer,2025.0
+ORD-10979,2025-10-14,C1006,furniture,Vintage Lamp,Surrey,John,1,191.27,0.0,debit,191.27,0.0,191.27,2025-10,10.0,Fall,2025.0
+ORD-10328,2025-11-02,C1033,decor,Vase,Surrey,Sara,4,91.13,0.2,debit,364.52,72.904,291.616,2025-11,11.0,Fall,2025.0
+ORD-10255,2025-03-18,C1038,furniture,Dining Chair,Vancouver,Mina,2,250.22,0.1,debit,500.44,50.044000000000004,450.396,2025-03,3.0,Spring,2025.0
+ORD-10523,2025-08-14,C1117,furniture,Bookshelf,North Vancouver,Sara,1,535.45,0.0,credit card,535.45,0.0,535.45,2025-08,8.0,Summer,2025.0
+ORD-10195,2026-03-19,C1051,decor,Vase,Richmond,Mina,3,89.31,0.1,cash,267.93,26.793000000000003,241.137,2026-03,3.0,Spring,2026.0
+ORD-10301,2025-09-26,C1250,decor,Wall Mirror,Burnaby,David,4,208.56,0.0,debit,834.24,0.0,834.24,2025-09,9.0,Fall,2025.0
+ORD-10108,2025-01-18,C1153,furniture,Coffee Table,Surrey,David,3,416.0,0.15,credit card,1248.0,187.2,1060.8,2025-01,1.0,Winter,2025.0
+ORD-10134,2025-03-28,C1199,furniture,Vintage Lamp,Richmond,Sara,4,196.67,0.0,cash,786.68,0.0,786.68,2025-03,3.0,Spring,2025.0
+ORD-10013,2026-04-16,C1105,furniture,Coffee Table,North Vancouver,David,3,454.65,0.0,credit card,1363.9499999999998,0.0,1363.9499999999998,2026-04,4.0,Spring,2026.0
+ORD-11165,2025-06-04,C1194,storage,Cabinet,Surrey,Sara,1,758.83,0.05,cash,758.83,37.941500000000005,720.8885,2025-06,6.0,Summer,2025.0
+ORD-10872,2025-09-01,C1182,furniture,Dining Chair,Vancouver,David,2,263.85,0.05,credit card,527.7,26.385000000000005,501.31500000000005,2025-09,9.0,Fall,2025.0
+ORD-10842,2025-03-14,C1015,decor,Art Print,Richmond,Alex,4,147.67,0.0,e-transfer,590.68,0.0,590.68,2025-03,3.0,Spring,2025.0
+ORD-10041,2025-09-05,C1029,storage,Sideboard,Surrey,John,2,765.15,0.0,cash,1530.3,0.0,1530.3,2025-09,9.0,Fall,2025.0
+ORD-10658,2025-06-27,C1158,storage,Storage Bench,North Vancouver,Alex,5,329.64,0.2,e-transfer,1648.1999999999998,329.64,1318.56,2025-06,6.0,Summer,2025.0
+ORD-10806,2025-01-07,C1004,storage,Cabinet,North Vancouver,Mina,3,580.48,0.0,debit,1741.44,0.0,1741.44,2025-01,1.0,Winter,2025.0
+ORD-10656,2026-01-25,C1090,decor,Vase,Vancouver,John,2,97.3,0.0,credit card,194.6,0.0,194.6,2026-01,1.0,Winter,2026.0
+ORD-10955,2026-06-16,C1188,furniture,Dining Chair,Vancouver,Mina,3,261.19,0.15,cash,783.5699999999999,117.53549999999998,666.0345,2026-06,6.0,Summer,2026.0
+ORD-10062,2025-07-08,C1022,storage,Sideboard,North Vancouver,Mina,3,706.03,0.0,debit,2118.09,0.0,2118.09,2025-07,7.0,Summer,2025.0
+ORD-10421,2026-06-26,C1135,storage,Storage Bench,Surrey,Alex,1,376.26,0.05,e-transfer,376.26,18.813,357.447,2026-06,6.0,Summer,2026.0
+ORD-10076,2025-10-03,C1219,decor,Rug,Richmond,Mina,3,438.53,0.05,credit card,1315.59,65.7795,1249.8104999999998,2025-10,10.0,Fall,2025.0
+ORD-10533,2026-07-14,C1204,decor,Wall Mirror,North Vancouver,Alex,3,234.47,0.15,e-transfer,703.41,105.5115,597.8985,2026-07,7.0,Summer,2026.0
+ORD-10507,2025-09-26,C1044,storage,Storage Bench,Richmond,David,3,367.07,0.2,e-transfer,1101.21,220.24200000000002,880.9680000000001,2025-09,9.0,Fall,2025.0
+ORD-10055,2025-05-02,C1230,furniture,Coffee Table,Vancouver,John,1,459.14,0.15,e-transfer,459.14,68.871,390.269,2025-05,5.0,Spring,2025.0
+ORD-10152,2026-08-14,C1148,storage,Storage Bench,Vancouver,Mina,1,393.96,0.2,credit card,393.96,78.792,315.168,2026-08,8.0,Summer,2026.0
+ORD-11091,2025-12-02,C1074,storage,Cabinet,North Vancouver,David,1,716.67,0.0,credit card,716.67,0.0,716.67,2025-12,12.0,Winter,2025.0
+ORD-10410,2026-02-12,C1046,storage,Storage Bench,Burnaby,Sara,3,290.94,0.05,e-transfer,872.8199999999999,43.641,829.179,2026-02,2.0,Winter,2026.0
+ORD-10957,2026-06-23,C1001,storage,Storage Bench,Vancouver,John,2,359.05,0.0,cash,718.1,0.0,718.1,2026-06,6.0,Summer,2026.0
+ORD-10607,2025-04-16,C1070,furniture,Bookshelf,Burnaby,unknown,4,486.15,0.1,debit,1944.6,194.46,1750.1399999999999,2025-04,4.0,Spring,2025.0
+ORD-10347,2025-04-19,C1127,storage,Storage Bench,Burnaby,Mina,3,358.44,0.0,debit,1075.32,0.0,1075.32,2025-04,4.0,Spring,2025.0
+ORD-10878,2025-10-22,C1149,furniture,Bookshelf,North Vancouver,John,1,663.44,0.15,cash,663.44,99.516,563.9240000000001,2025-10,10.0,Fall,2025.0
+ORD-10864,2026-06-04,C1113,decor,Wall Mirror,North Vancouver,David,1,180.17,0.05,e-transfer,180.17,9.0085,171.1615,2026-06,6.0,Summer,2026.0
+ORD-10352,2026-01-03,C1152,storage,Cabinet,Burnaby,David,3,555.71,0.15,credit card,1667.13,250.0695,1417.0605,2026-01,1.0,Winter,2026.0
+ORD-10371,2025-02-10,C1026,decor,Art Print,Burnaby,Mina,4,112.26,0.1,e-transfer,449.04,44.904,404.136,2025-02,2.0,Winter,2025.0
+ORD-10813,2025-08-07,C1191,furniture,Dining Chair,Surrey,David,5,216.58,0.05,debit,1082.9,54.14500000000001,1028.755,2025-08,8.0,Summer,2025.0
+ORD-10227,2025-01-25,C1233,storage,Sideboard,Burnaby,Mina,1,789.05,0.05,credit card,789.05,39.4525,749.5975,2025-01,1.0,Winter,2025.0
+ORD-10284,2026-08-15,C1154,decor,Vase,North Vancouver,Sara,1,83.87,0.0,debit,83.87,0.0,83.87,2026-08,8.0,Summer,2026.0
+ORD-11142,2025-09-02,C1199,decor,Art Print,Burnaby,Sara,3,116.85,0.0,debit,350.54999999999995,0.0,350.54999999999995,2025-09,9.0,Fall,2025.0
+ORD-10590,2025-11-23,C1035,decor,Rug,Burnaby,Alex,4,452.42,0.0,debit,1809.68,0.0,1809.68,2025-11,11.0,Fall,2025.0
+ORD-10982,2026-05-24,C1075,furniture,Coffee Table,Vancouver,Sara,3,361.05,0.1,cash,1083.15,108.31500000000001,974.835,2026-05,5.0,Spring,2026.0
+ORD-11154,2025-04-12,C1028,decor,Vase,Burnaby,Sara,2,89.41,0.15,cash,178.82,26.822999999999997,151.99699999999999,2025-04,4.0,Spring,2025.0
+ORD-10273,2026-03-14,C1104,furniture,Vintage Lamp,Richmond,Sara,5,200.54,0.0,credit card,1002.6999999999999,0.0,1002.6999999999999,2026-03,3.0,Spring,2026.0
+ORD-10711,2026-05-05,C1127,furniture,Dining Chair,North Vancouver,Mina,3,270.62,0.1,debit,811.86,81.186,730.674,2026-05,5.0,Spring,2026.0
+ORD-10171,2025-08-08,C1224,decor,Rug,Richmond,Sara,4,432.31,0.0,e-transfer,1729.24,0.0,1729.24,2025-08,8.0,Summer,2025.0
+ORD-10740,2025-07-08,C1141,decor,Wall Mirror,Vancouver,John,2,243.03,0.15,debit,486.06,72.90899999999999,413.151,2025-07,7.0,Summer,2025.0
+ORD-10809,2026-07-24,C1154,storage,Cabinet,Vancouver,Mina,1,657.84,0.05,debit,657.84,32.892,624.948,2026-07,7.0,Summer,2026.0
+ORD-10088,2025-07-06,C1189,decor,Rug,Burnaby,John,3,425.37,0.1,e-transfer,1276.1100000000001,127.61100000000002,1148.499,2025-07,7.0,Summer,2025.0
+ORD-11010,2025-08-30,C1208,storage,Sideboard,Burnaby,John,5,705.18,0.0,cash,3525.8999999999996,0.0,3525.8999999999996,2025-08,8.0,Summer,2025.0
+ORD-10184,2026-04-10,C1113,furniture,Vintage Lamp,North Vancouver,David,4,160.29,0.0,credit card,641.16,0.0,641.16,2026-04,4.0,Spring,2026.0
+ORD-10275,2025-06-14,C1006,decor,Vase,North Vancouver,Mina,4,89.22,0.0,debit,356.88,0.0,356.88,2025-06,6.0,Summer,2025.0
+ORD-10773,2025-05-13,C1005,furniture,Vintage Lamp,Richmond,Mina,5,165.64,0.0,credit card,828.1999999999999,0.0,828.1999999999999,2025-05,5.0,Spring,2025.0
+ORD-10750,2025-10-01,C1002,decor,Wall Mirror,Vancouver,Mina,4,223.93,0.0,debit,895.72,0.0,895.72,2025-10,10.0,Fall,2025.0
+ORD-10104,2025-09-04,C1056,furniture,Bookshelf,Richmond,Mina,2,631.56,0.0,cash,1263.12,0.0,1263.12,2025-09,9.0,Fall,2025.0
+ORD-10738,2025-01-18,C1201,furniture,Vintage Lamp,North Vancouver,Sara,2,172.41,0.15,debit,344.82,51.723,293.097,2025-01,1.0,Winter,2025.0
+ORD-10983,2025-02-06,C1176,decor,Art Print,Vancouver,Alex,5,148.41,0.0,cash,742.05,0.0,742.05,2025-02,2.0,Winter,2025.0
+ORD-10383,2026-03-14,C1053,storage,Cabinet,Richmond,David,5,768.37,0.1,debit,3841.85,384.185,3457.665,2026-03,3.0,Spring,2026.0
+ORD-11077,2025-06-09,C1090,furniture,Coffee Table,Burnaby,John,4,438.73,0.15,e-transfer,1754.92,263.238,1491.682,2025-06,6.0,Summer,2025.0
+ORD-10873,2025-12-05,C1028,storage,Sideboard,Burnaby,John,4,700.87,0.0,debit,2803.48,0.0,2803.48,2025-12,12.0,Winter,2025.0
+ORD-10948,2026-06-20,C1061,storage,Storage Bench,Richmond,Mina,1,343.52,0.0,cash,343.52,0.0,343.52,2026-06,6.0,Summer,2026.0
+ORD-11194,2025-09-08,C1123,furniture,Bookshelf,Richmond,Mina,1,616.71,0.0,credit card,616.71,0.0,616.71,2025-09,9.0,Fall,2025.0
+ORD-10237,2025-08-20,C1029,decor,Vase,Vancouver,Alex,5,92.77,0.0,credit card,463.84999999999997,0.0,463.84999999999997,2025-08,8.0,Summer,2025.0
+ORD-10575,2025-12-02,C1040,furniture,Coffee Table,North Vancouver,Alex,5,357.15,0.0,cash,1785.75,0.0,1785.75,2025-12,12.0,Winter,2025.0
+ORD-10444,2026-04-29,C1185,furniture,Dining Chair,Richmond,David,3,247.60500000000002,0.0,debit,742.815,0.0,742.815,2026-04,4.0,Spring,2026.0
+ORD-10655,2025-12-18,C1152,decor,Art Print,Richmond,Sara,4,133.71,0.0,debit,534.84,0.0,534.84,2025-12,12.0,Winter,2025.0
+ORD-10270,2025-11-08,C1036,furniture,Vintage Lamp,Burnaby,David,5,204.03,0.0,e-transfer,1020.15,0.0,1020.15,2025-11,11.0,Fall,2025.0
+ORD-10462,2025-01-30,C1165,furniture,Bookshelf,Surrey,Mina,1,623.8,0.0,e-transfer,623.8,0.0,623.8,2025-01,1.0,Winter,2025.0
+ORD-10684,2025-02-27,C1148,furniture,Bookshelf,North Vancouver,Mina,4,615.55,0.1,e-transfer,2462.2,246.22,2215.98,2025-02,2.0,Winter,2025.0
+ORD-11191,2026-04-04,C1053,furniture,Dining Chair,Richmond,Sara,2,265.18,0.05,e-transfer,530.36,26.518,503.842,2026-04,4.0,Spring,2026.0
+ORD-10518,2026-07-17,C1094,decor,Wall Mirror,Surrey,Mina,1,200.68,0.0,e-transfer,200.68,0.0,200.68,2026-07,7.0,Summer,2026.0
+ORD-10745,2025-06-17,C1235,furniture,Bookshelf,Richmond,Sara,5,602.99,0.0,e-transfer,3014.95,0.0,3014.95,2025-06,6.0,Summer,2025.0
+ORD-11058,2026-02-18,C1026,decor,Vase,Surrey,David,4,106.44,0.15,debit,425.76,63.864,361.896,2026-02,2.0,Winter,2026.0
+ORD-10611,2025-03-19,C1221,decor,Wall Mirror,Burnaby,John,2,206.43,0.05,e-transfer,412.86,20.643,392.217,2025-03,3.0,Spring,2025.0
+ORD-10867,2025-10-03,C1246,storage,Cabinet,Vancouver,David,2,591.2,0.0,cash,1182.4,0.0,1182.4,2025-10,10.0,Fall,2025.0
+ORD-10574,2025-07-22,C1066,furniture,Bookshelf,Burnaby,John,1,609.1,0.1,cash,609.1,60.910000000000004,548.19,2025-07,7.0,Summer,2025.0
+ORD-10903,2025-08-01,C1191,decor,Wall Mirror,Surrey,Sara,1,206.78,0.0,credit card,206.78,0.0,206.78,2025-08,8.0,Summer,2025.0
+ORD-10827,2025-05-27,C1003,furniture,Dining Chair,Burnaby,Sara,3,223.8,0.0,debit,671.4000000000001,0.0,671.4000000000001,2025-05,5.0,Spring,2025.0
+ORD-10194,2026-06-01,C1114,furniture,Vintage Lamp,North Vancouver,Sara,1,204.86,0.05,credit card,204.86,10.243000000000002,194.61700000000002,2026-06,6.0,Summer,2026.0
+ORD-10004,2025-04-27,C1137,storage,Storage Bench,Vancouver,Alex,4,334.41,0.0,e-transfer,1337.64,0.0,1337.64,2025-04,4.0,Spring,2025.0
+ORD-10178,2025-08-29,C1091,decor,Wall Mirror,Richmond,Sara,3,242.82,0.05,cash,728.46,36.423,692.037,2025-08,8.0,Summer,2025.0
+ORD-10061,2026-02-07,C1205,storage,Storage Bench,Surrey,Alex,2,319.04,0.15,unknown,638.08,95.712,542.368,2026-02,2.0,Winter,2026.0
+ORD-10239,2026-08-09,C1167,storage,Cabinet,North Vancouver,John,2,602.26,0.05,cash,1204.52,60.226,1144.2939999999999,2026-08,8.0,Summer,2026.0
+ORD-10573,2025-12-24,C1012,decor,Wall Mirror,Vancouver,John,3,197.91,0.0,debit,593.73,0.0,593.73,2025-12,12.0,Winter,2025.0
+ORD-10034,2025-05-18,C1243,storage,Cabinet,Vancouver,David,1,582.49,0.1,e-transfer,582.49,58.249,524.241,2025-05,5.0,Spring,2025.0
+ORD-10097,2025-08-28,C1098,decor,Wall Mirror,Vancouver,Sara,1,245.92,0.05,debit,245.92,12.296,233.624,2025-08,8.0,Summer,2025.0
+ORD-10521,2025-03-19,C1032,furniture,Coffee Table,Richmond,David,2,458.27,0.2,cash,916.54,183.308,733.232,2025-03,3.0,Spring,2025.0
+ORD-10157,2025-09-06,C1220,decor,Wall Mirror,Surrey,Sara,4,211.56,0.0,cash,846.24,0.0,846.24,2025-09,9.0,Fall,2025.0
+ORD-11109,2025-08-15,C1136,furniture,Coffee Table,Surrey,David,5,445.17,0.2,debit,2225.85,445.17,1780.6799999999998,2025-08,8.0,Summer,2025.0
+ORD-10862,2025-01-29,C1062,storage,Storage Bench,Vancouver,Alex,5,300.64,0.0,credit card,1503.1999999999998,0.0,1503.1999999999998,2025-01,1.0,Winter,2025.0
+ORD-10484,2026-01-25,C1102,decor,Vase,North Vancouver,David,4,112.93,0.0,e-transfer,451.72,0.0,451.72,2026-01,1.0,Winter,2026.0
+ORD-10692,2025-10-12,C1103,furniture,Dining Chair,North Vancouver,Sara,3,252.79,0.0,credit card,758.37,0.0,758.37,2025-10,10.0,Fall,2025.0
+ORD-10400,2026-04-21,C1098,decor,Art Print,North Vancouver,David,2,144.76,0.15,credit card,289.52,43.428,246.09199999999998,2026-04,4.0,Spring,2026.0
+ORD-11061,2025-05-04,C1115,decor,Vase,North Vancouver,David,2,99.15,0.1,credit card,198.3,19.830000000000002,178.47,2025-05,5.0,Spring,2025.0
+ORD-10945,2026-06-06,C1058,storage,Sideboard,Richmond,Alex,3,761.74,0.05,cash,2285.2200000000003,114.26100000000002,2170.9590000000003,2026-06,6.0,Summer,2026.0
+ORD-10247,2025-05-17,C1150,storage,Sideboard,North Vancouver,Sara,2,837.07,0.0,debit,1674.14,0.0,1674.14,2025-05,5.0,Spring,2025.0
+ORD-11173,2026-07-10,C1102,furniture,Bookshelf,Vancouver,Mina,2,605.39,0.0,credit card,1210.78,0.0,1210.78,2026-07,7.0,Summer,2026.0
+ORD-10723,2026-05-02,C1171,storage,Sideboard,Richmond,Sara,3,697.79,0.0,credit card,2093.37,0.0,2093.37,2026-05,5.0,Spring,2026.0
+ORD-10595,2025-03-26,C1071,furniture,Bookshelf,Burnaby,Mina,5,536.18,0.0,debit,2680.8999999999996,0.0,2680.8999999999996,2025-03,3.0,Spring,2025.0
+ORD-10690,2025-11-14,unknown,decor,Vase,Richmond,Mina,1,81.86,0.0,debit,81.86,0.0,81.86,2025-11,11.0,Fall,2025.0
+ORD-10446,2026-05-06,C1164,furniture,Dining Chair,North Vancouver,Mina,4,266.63,0.0,cash,1066.52,0.0,1066.52,2026-05,5.0,Spring,2026.0
+ORD-10579,2025-09-17,C1044,decor,Art Print,North Vancouver,David,4,148.12,0.15,e-transfer,592.48,88.872,503.608,2025-09,9.0,Fall,2025.0
+ORD-11116,2025-03-15,C1229,storage,Sideboard,Burnaby,David,3,860.05,0.05,e-transfer,2580.1499999999996,129.0075,2451.1424999999995,2025-03,3.0,Spring,2025.0
+ORD-10777,2025-02-19,C1161,decor,Vase,North Vancouver,John,1,100.01,0.0,debit,100.01,0.0,100.01,2025-02,2.0,Winter,2025.0
+ORD-10788,2025-09-04,C1032,furniture,Coffee Table,Burnaby,Alex,4,403.52,0.15,credit card,1614.08,242.11199999999997,1371.9679999999998,2025-09,9.0,Fall,2025.0
+ORD-10923,2025-01-01,C1004,decor,Vase,Richmond,Mina,4,112.73,0.05,e-transfer,450.92,22.546000000000003,428.374,2025-01,1.0,Winter,2025.0
+ORD-10156,2025-03-14,C1097,decor,Rug,Burnaby,Sara,3,453.82,0.0,cash,1361.46,0.0,1361.46,2025-03,3.0,Spring,2025.0
+ORD-10468,2025-04-10,C1052,storage,Cabinet,Surrey,Mina,5,562.73,0.15,credit card,2813.65,422.0475,2391.6025,2025-04,4.0,Spring,2025.0
+ORD-10602,2026-06-19,C1111,decor,Art Print,Burnaby,David,1,137.92,0.1,credit card,137.92,13.792,124.12799999999999,2026-06,6.0,Summer,2026.0
+ORD-10776,2025-03-06,C1073,decor,Rug,Surrey,John,1,409.89,0.0,cash,409.89,0.0,409.89,2025-03,3.0,Spring,2025.0
+ORD-11113,2025-10-02,C1124,decor,Wall Mirror,Richmond,Sara,1,227.05,0.15,cash,227.05,34.0575,192.9925,2025-10,10.0,Fall,2025.0
+ORD-10499,2025-10-11,C1214,storage,Sideboard,North Vancouver,Alex,1,841.85,0.0,credit card,841.85,0.0,841.85,2025-10,10.0,Fall,2025.0
+ORD-10028,2026-07-26,C1227,storage,Cabinet,Burnaby,John,2,618.68,0.05,credit card,1237.36,61.867999999999995,1175.492,2026-07,7.0,Summer,2026.0
+ORD-10725,2025-02-11,C1124,decor,Wall Mirror,North Vancouver,David,5,226.71,0.0,unknown,1133.55,0.0,1133.55,2025-02,2.0,Winter,2025.0
+ORD-10138,2025-06-02,C1132,storage,Storage Bench,Burnaby,Alex,5,351.04,0.05,e-transfer,1755.2,87.76,1667.44,2025-06,6.0,Summer,2025.0
+ORD-11156,2025-12-05,C1066,furniture,Bookshelf,Surrey,John,5,489.3,0.0,debit,2446.5,0.0,2446.5,2025-12,12.0,Winter,2025.0
+ORD-11027,2025-12-09,C1160,storage,Sideboard,Surrey,Alex,1,906.4,0.1,debit,906.4,90.64,815.76,2025-12,12.0,Winter,2025.0
+ORD-10816,2025-10-31,C1179,furniture,Vintage Lamp,Richmond,Alex,5,208.99,0.1,debit,1044.95,104.495,940.455,2025-10,10.0,Fall,2025.0
+ORD-10481,2026-07-19,C1049,decor,Wall Mirror,Vancouver,John,3,186.46,0.0,cash,559.38,0.0,559.38,2026-07,7.0,Summer,2026.0
+ORD-10814,2026-05-23,C1211,storage,Storage Bench,Burnaby,Alex,1,293.1,0.1,cash,293.1,29.310000000000002,263.79,2026-05,5.0,Spring,2026.0
+ORD-10680,2025-06-14,C1117,furniture,Dining Chair,Richmond,John,2,265.26,0.0,cash,530.52,0.0,530.52,2025-06,6.0,Summer,2025.0
+ORD-10633,2025-06-14,C1020,decor,Vase,Burnaby,Mina,1,81.27,0.0,credit card,81.27,0.0,81.27,2025-06,6.0,Summer,2025.0
+ORD-10100,2026-04-02,C1072,storage,Sideboard,North Vancouver,Alex,5,909.61,0.1,cash,4548.05,454.80500000000006,4093.245,2026-04,4.0,Spring,2026.0
+ORD-10793,2026-07-14,C1121,decor,Wall Mirror,North Vancouver,John,5,215.37,0.05,e-transfer,1076.85,53.8425,1023.0074999999999,2026-07,7.0,Summer,2026.0
+ORD-10101,2025-03-10,C1163,decor,Rug,Richmond,John,1,431.47,0.0,e-transfer,431.47,0.0,431.47,2025-03,3.0,Spring,2025.0
+ORD-10962,2025-11-13,C1173,storage,Cabinet,Surrey,Alex,5,603.33,0.0,e-transfer,3016.65,0.0,3016.65,2025-11,11.0,Fall,2025.0
+ORD-10671,2026-02-02,C1098,decor,Art Print,Richmond,Sara,4,132.34,0.15,debit,529.36,79.404,449.956,2026-02,2.0,Winter,2026.0
+ORD-11138,2026-03-23,C1031,storage,Sideboard,Burnaby,Alex,1,797.84,0.05,cash,797.84,39.892,757.948,2026-03,3.0,Spring,2026.0
+ORD-10971,2025-05-29,C1098,decor,Art Print,Surrey,John,4,134.41,0.1,debit,537.64,53.764,483.876,2025-05,5.0,Spring,2025.0
+ORD-10850,2025-06-26,C1186,furniture,Coffee Table,North Vancouver,David,5,360.35,0.05,debit,1801.75,90.0875,1711.6625,2025-06,6.0,Summer,2025.0
+ORD-10386,2026-04-04,C1211,furniture,Vintage Lamp,Vancouver,John,1,184.27,0.15,credit card,184.27,27.6405,156.6295,2026-04,4.0,Spring,2026.0
+ORD-10010,2025-10-10,C1144,decor,Art Print,Surrey,Mina,4,136.22,0.1,e-transfer,544.88,54.488,490.392,2025-10,10.0,Fall,2025.0
+ORD-10582,2026-01-02,C1058,storage,Storage Bench,Surrey,Alex,3,295.42,0.1,cash,886.26,88.626,797.634,2026-01,1.0,Winter,2026.0
+ORD-10667,2025-05-25,C1017,storage,Storage Bench,Richmond,Alex,3,342.68,0.0,credit card,1028.04,0.0,1028.04,2025-05,5.0,Spring,2025.0
+ORD-10943,2026-03-25,C1073,furniture,Vintage Lamp,Richmond,Sara,4,179.37,0.0,credit card,717.48,0.0,717.48,2026-03,3.0,Spring,2026.0
+ORD-10404,2026-03-12,C1212,furniture,Bookshelf,Surrey,David,5,489.45,0.1,cash,2447.25,244.72500000000002,2202.525,2026-03,3.0,Spring,2026.0
+ORD-11167,2025-11-14,C1209,decor,Art Print,North Vancouver,Sara,1,151.0,0.0,credit card,151.0,0.0,151.0,2025-11,11.0,Fall,2025.0
+ORD-10653,2025-09-16,C1044,decor,Art Print,Burnaby,David,4,120.41,0.15,cash,481.64,72.246,409.394,2025-09,9.0,Fall,2025.0
+ORD-10564,2026-02-16,C1131,decor,Wall Mirror,Richmond,Sara,3,218.85,0.2,debit,656.55,131.31,525.24,2026-02,2.0,Winter,2026.0
+ORD-10587,2025-08-17,C1170,storage,Cabinet,Vancouver,John,3,667.61,0.0,credit card,2002.83,0.0,2002.83,2025-08,8.0,Summer,2025.0
+ORD-10815,2025-06-18,C1170,furniture,Vintage Lamp,Surrey,David,5,180.85,0.0,debit,904.25,0.0,904.25,2025-06,6.0,Summer,2025.0
+ORD-10112,2026-02-25,C1124,furniture,Bookshelf,North Vancouver,David,5,592.66,0.0,debit,2963.2999999999997,0.0,2963.2999999999997,2026-02,2.0,Winter,2026.0
+ORD-10783,2026-04-11,C1191,furniture,Coffee Table,Burnaby,unknown,5,500.69,0.0,debit,2503.45,0.0,2503.45,2026-04,4.0,Spring,2026.0
+ORD-10173,2025-03-17,C1033,decor,Vase,Surrey,Alex,2,83.8,0.1,e-transfer,167.6,16.76,150.84,2025-03,3.0,Spring,2025.0
+ORD-10200,2025-11-27,C1117,furniture,Coffee Table,Vancouver,Mina,4,478.8,0.1,credit card,1915.2,191.52,1723.68,2025-11,11.0,Fall,2025.0
+ORD-10012,2025-05-21,C1230,storage,Storage Bench,Burnaby,Mina,1,287.23,0.0,e-transfer,287.23,0.0,287.23,2025-05,5.0,Spring,2025.0
+ORD-11108,2025-07-06,C1158,storage,Storage Bench,Surrey,Mina,1,356.81,0.2,e-transfer,356.81,71.36200000000001,285.448,2025-07,7.0,Summer,2025.0
+ORD-10170,2026-03-26,C1188,furniture,Bookshelf,Surrey,Sara,4,670.39,0.05,debit,2681.56,134.078,2547.482,2026-03,3.0,Spring,2026.0
+ORD-10721,2026-03-21,C1236,furniture,Vintage Lamp,Vancouver,Alex,1,205.92,0.15,cash,205.92,30.887999999999998,175.03199999999998,2026-03,3.0,Spring,2026.0
+ORD-10118,2025-10-13,C1064,decor,Vase,North Vancouver,Alex,5,113.82,0.1,cash,569.0999999999999,56.91,512.1899999999999,2025-10,10.0,Fall,2025.0
+ORD-11174,2026-08-01,C1105,furniture,Bookshelf,Richmond,Mina,5,550.86,0.0,debit,2754.3,0.0,2754.3,2026-08,8.0,Summer,2026.0
+ORD-10096,2025-12-19,C1146,decor,Rug,Richmond,John,2,447.56,0.0,e-transfer,895.12,0.0,895.12,2025-12,12.0,Winter,2025.0
+ORD-10832,2025-08-02,C1230,furniture,Coffee Table,Vancouver,John,3,444.54,0.0,debit,1333.6200000000001,0.0,1333.6200000000001,2025-08,8.0,Summer,2025.0
+ORD-10835,2025-11-16,C1189,furniture,Vintage Lamp,Vancouver,Sara,4,165.88,0.1,debit,663.52,66.352,597.168,2025-11,11.0,Fall,2025.0
+ORD-10520,2025-07-19,C1016,decor,Wall Mirror,Vancouver,Alex,5,202.85,0.0,credit card,1014.25,0.0,1014.25,2025-07,7.0,Summer,2025.0
+ORD-10002,2026-05-09,C1024,storage,Sideboard,Richmond,John,3,784.05,0.0,credit card,2352.1499999999996,0.0,2352.1499999999996,2026-05,5.0,Spring,2026.0
+ORD-10525,2025-12-26,C1099,decor,Wall Mirror,Vancouver,Mina,1,204.51,0.0,debit,204.51,0.0,204.51,2025-12,12.0,Winter,2025.0
+ORD-10390,2025-02-11,C1002,furniture,Vintage Lamp,Surrey,Sara,4,198.86,0.0,credit card,795.44,0.0,795.44,2025-02,2.0,Winter,2025.0
+ORD-10317,2025-04-04,C1169,furniture,Bookshelf,Richmond,David,1,594.89,0.0,credit card,594.89,0.0,594.89,2025-04,4.0,Spring,2025.0
+ORD-10381,2026-04-04,C1049,decor,Rug,North Vancouver,unknown,4,358.77,0.0,e-transfer,1435.08,0.0,1435.08,2026-04,4.0,Spring,2026.0
+ORD-10423,2025-11-02,C1130,furniture,Vintage Lamp,Burnaby,John,5,184.95,0.0,credit card,924.75,0.0,924.75,2025-11,11.0,Fall,2025.0
+ORD-10524,2026-01-19,C1037,furniture,Bookshelf,North Vancouver,David,3,620.08,0.1,credit card,1860.2400000000002,186.02400000000003,1674.2160000000001,2026-01,1.0,Winter,2026.0
+ORD-10241,2025-11-19,C1127,decor,Rug,North Vancouver,John,2,416.95,0.0,e-transfer,833.9,0.0,833.9,2025-11,11.0,Fall,2025.0
+ORD-10798,2026-02-15,C1189,decor,Wall Mirror,Burnaby,John,1,214.59,0.0,cash,214.59,0.0,214.59,2026-02,2.0,Winter,2026.0
+ORD-10770,2026-07-18,C1127,furniture,Vintage Lamp,Vancouver,Alex,4,193.23,0.15,e-transfer,772.92,115.93799999999999,656.982,2026-07,7.0,Summer,2026.0
+ORD-11092,2025-02-17,C1110,furniture,Bookshelf,North Vancouver,Alex,5,507.35,0.0,credit card,2536.75,0.0,2536.75,2025-02,2.0,Winter,2025.0
+ORD-10397,2025-01-06,C1045,decor,Wall Mirror,North Vancouver,David,3,181.97,0.1,credit card,545.91,54.591,491.31899999999996,2025-01,1.0,Winter,2025.0
+ORD-10396,2025-12-28,C1242,storage,Storage Bench,North Vancouver,Sara,2,295.95,0.1,credit card,591.9,59.19,532.71,2025-12,12.0,Winter,2025.0
+ORD-10476,2025-09-17,C1245,decor,Art Print,Richmond,Alex,5,144.52,0.0,e-transfer,722.6,0.0,722.6,2025-09,9.0,Fall,2025.0
+ORD-10162,2026-07-05,C1018,decor,Wall Mirror,Richmond,John,1,202.13,0.05,debit,202.13,10.1065,192.02349999999998,2026-07,7.0,Summer,2026.0
+ORD-10558,2025-08-24,C1224,storage,Storage Bench,Vancouver,Sara,2,284.3,0.0,debit,568.6,0.0,568.6,2025-08,8.0,Summer,2025.0
+ORD-10287,2025-12-05,C1114,storage,Storage Bench,Burnaby,John,2,337.74,0.0,cash,675.48,0.0,675.48,2025-12,12.0,Winter,2025.0
+ORD-10434,2025-03-28,C1197,decor,Wall Mirror,Surrey,Sara,1,223.64,0.0,debit,223.64,0.0,223.64,2025-03,3.0,Spring,2025.0
+ORD-10805,2025-06-29,C1045,furniture,Coffee Table,Burnaby,Alex,1,457.3,0.1,cash,457.3,45.730000000000004,411.57,2025-06,6.0,Summer,2025.0
+ORD-10775,2026-04-27,C1166,furniture,Bookshelf,Richmond,Alex,3,500.74,0.0,cash,1502.22,0.0,1502.22,2026-04,4.0,Spring,2026.0
+ORD-10642,2025-08-23,C1095,storage,Sideboard,North Vancouver,Sara,5,827.86,0.0,debit,4139.3,0.0,4139.3,2025-08,8.0,Summer,2025.0
+ORD-10549,2026-08-03,C1216,furniture,Dining Chair,Richmond,Sara,1,267.53,0.0,credit card,267.53,0.0,267.53,2026-08,8.0,Summer,2026.0
+ORD-11013,2026-05-29,C1030,storage,Cabinet,Richmond,Alex,1,596.16,0.0,credit card,596.16,0.0,596.16,2026-05,5.0,Spring,2026.0
+ORD-10492,2026-07-03,C1173,furniture,Vintage Lamp,Vancouver,Mina,3,185.63,0.0,credit card,556.89,0.0,556.89,2026-07,7.0,Summer,2026.0
+ORD-10637,2025-01-19,C1072,furniture,Coffee Table,Burnaby,Sara,3,463.27,0.05,debit,1389.81,69.4905,1320.3195,2025-01,1.0,Winter,2025.0
+ORD-10551,2025-01-16,C1030,storage,Cabinet,North Vancouver,John,2,688.91,0.0,cash,1377.82,0.0,1377.82,2025-01,1.0,Winter,2025.0
+ORD-11177,2025-02-07,C1221,furniture,Dining Chair,Surrey,Mina,1,235.65,0.1,cash,235.65,23.565,212.085,2025-02,2.0,Winter,2025.0
+ORD-10567,2026-06-29,C1104,decor,Art Print,Richmond,David,3,150.45,0.1,debit,451.34999999999997,45.135,406.215,2026-06,6.0,Summer,2026.0
+ORD-10276,2026-05-24,C1022,storage,Cabinet,Vancouver,Alex,3,643.32,0.0,e-transfer,1929.96,0.0,1929.96,2026-05,5.0,Spring,2026.0
+ORD-10083,2025-11-04,C1033,decor,Vase,North Vancouver,John,5,105.25,0.15,e-transfer,526.25,78.9375,447.3125,2025-11,11.0,Fall,2025.0
+ORD-10132,2025-02-16,C1096,decor,Vase,Vancouver,Alex,5,81.74,0.0,credit card,408.7,0.0,408.7,2025-02,2.0,Winter,2025.0
+ORD-10208,2026-07-12,C1013,storage,Storage Bench,Vancouver,Mina,1,292.03,0.0,e-transfer,292.03,0.0,292.03,2026-07,7.0,Summer,2026.0
+ORD-11017,2026-05-17,C1060,decor,Rug,North Vancouver,Sara,2,390.14,0.2,credit card,780.28,156.056,624.2239999999999,2026-05,5.0,Spring,2026.0
+ORD-10895,2026-08-22,C1018,decor,Wall Mirror,Surrey,Mina,3,180.72,0.05,e-transfer,542.16,27.108,515.052,2026-08,8.0,Summer,2026.0
+ORD-10341,2025-11-25,C1023,decor,Vase,North Vancouver,Sara,5,85.63,0.0,credit card,428.15,0.0,428.15,2025-11,11.0,Fall,2025.0
+ORD-10168,2025-10-04,C1019,decor,Art Print,Richmond,Alex,4,140.53,0.05,cash,562.12,28.106,534.014,2025-10,10.0,Fall,2025.0
+ORD-10794,2025-06-13,C1185,furniture,Dining Chair,Burnaby,Mina,4,259.34,0.05,e-transfer,1037.36,51.867999999999995,985.492,2025-06,6.0,Summer,2025.0
+ORD-10191,2026-04-26,C1067,furniture,Coffee Table,Vancouver,Mina,4,424.145,0.15,cash,1696.58,254.48699999999997,1442.0929999999998,2026-04,4.0,Spring,2026.0
+ORD-11051,2026-05-25,C1215,furniture,Coffee Table,Vancouver,David,3,408.36,0.1,cash,1225.08,122.508,1102.572,2026-05,5.0,Spring,2026.0
+ORD-10205,2025-12-18,C1007,decor,Wall Mirror,Burnaby,John,3,192.87,0.1,credit card,578.61,57.861000000000004,520.749,2025-12,12.0,Winter,2025.0
+ORD-10385,2025-02-17,C1191,decor,Rug,Burnaby,Sara,5,384.01,0.0,debit,1920.05,0.0,1920.05,2025-02,2.0,Winter,2025.0
+ORD-10311,2025-05-03,C1057,decor,Rug,Burnaby,John,2,403.65,0.15,debit,807.3,121.09499999999998,686.2049999999999,2025-05,5.0,Spring,2025.0
+ORD-10555,2025-06-14,C1113,furniture,Bookshelf,Burnaby,Sara,3,481.14,0.0,debit,1443.42,0.0,1443.42,2025-06,6.0,Summer,2025.0
+ORD-10927,2025-04-15,C1155,decor,Wall Mirror,Surrey,John,2,247.06,0.0,credit card,494.12,0.0,494.12,2025-04,4.0,Spring,2025.0
+ORD-10133,2026-03-01,C1032,decor,Art Print,North Vancouver,Sara,5,144.11,0.0,e-transfer,720.5500000000001,0.0,720.5500000000001,2026-03,3.0,Spring,2026.0
+ORD-10932,2025-01-06,C1170,furniture,Coffee Table,North Vancouver,Sara,3,440.77,0.05,debit,1322.31,66.1155,1256.1945,2025-01,1.0,Winter,2025.0
+ORD-10186,2026-04-20,C1056,storage,Cabinet,Surrey,Mina,3,614.07,0.15,credit card,1842.21,276.3315,1565.8785,2026-04,4.0,Spring,2026.0
+ORD-10269,2025-05-08,C1091,storage,Storage Bench,North Vancouver,John,5,281.0,0.05,credit card,1405.0,70.25,1334.75,2025-05,5.0,Spring,2025.0
+ORD-10691,2026-02-19,C1247,furniture,Vintage Lamp,Burnaby,Mina,1,180.41,0.0,e-transfer,180.41,0.0,180.41,2026-02,2.0,Winter,2026.0
+ORD-10306,2025-09-17,C1178,decor,Wall Mirror,Vancouver,David,4,235.04,0.1,e-transfer,940.16,94.016,846.144,2025-09,9.0,Fall,2025.0
+ORD-10089,2025-05-06,C1178,decor,Wall Mirror,Vancouver,Mina,4,217.09,0.0,cash,868.36,0.0,868.36,2025-05,5.0,Spring,2025.0
+ORD-10082,2025-07-09,C1050,decor,Art Print,Richmond,Mina,4,146.33,0.05,e-transfer,585.32,29.266000000000005,556.0540000000001,2025-07,7.0,Summer,2025.0
+ORD-10756,2026-06-04,C1231,furniture,Coffee Table,Vancouver,Sara,3,377.79,0.0,credit card,1133.3700000000001,0.0,1133.3700000000001,2026-06,6.0,Summer,2026.0
+ORD-11038,2025-09-18,C1241,furniture,Dining Chair,North Vancouver,John,3,280.27,0.0,credit card,840.81,0.0,840.81,2025-09,9.0,Fall,2025.0
+ORD-10578,2026-08-04,C1199,decor,Vase,Richmond,Mina,4,95.35,0.0,debit,381.4,0.0,381.4,2026-08,8.0,Summer,2026.0
+ORD-10608,2026-05-31,C1228,furniture,Vintage Lamp,Burnaby,Mina,3,171.73,0.0,credit card,515.1899999999999,0.0,515.1899999999999,2026-05,5.0,Spring,2026.0
+ORD-10519,2026-01-15,C1203,furniture,Dining Chair,Burnaby,John,3,217.4,0.1,debit,652.2,65.22000000000001,586.98,2026-01,1.0,Winter,2026.0
+ORD-10552,2026-01-05,C1049,decor,Art Print,Surrey,John,4,134.52,0.0,credit card,538.08,0.0,538.08,2026-01,1.0,Winter,2026.0
+ORD-10113,2025-08-08,C1139,decor,Wall Mirror,Vancouver,David,1,183.44,0.0,debit,183.44,0.0,183.44,2025-08,8.0,Summer,2025.0
+ORD-10628,2026-01-14,C1101,furniture,Coffee Table,Surrey,Alex,2,495.16,0.2,cash,990.32,198.06400000000002,792.2560000000001,2026-01,1.0,Winter,2026.0
+ORD-10219,2026-02-13,C1084,decor,Wall Mirror,Surrey,Sara,5,219.86,0.0,cash,1099.3000000000002,0.0,1099.3000000000002,2026-02,2.0,Winter,2026.0
+ORD-10106,2026-03-04,unknown,storage,Storage Bench,Surrey,David,4,369.86,0.15,cash,1479.44,221.916,1257.5240000000001,2026-03,3.0,Spring,2026.0
+ORD-10335,2025-06-21,C1173,furniture,Vintage Lamp,Richmond,Mina,3,161.81,0.0,e-transfer,485.43,0.0,485.43,2025-06,6.0,Summer,2025.0
+ORD-10875,2025-02-07,C1112,furniture,Dining Chair,Surrey,Mina,4,225.68,0.1,cash,902.72,90.272,812.448,2025-02,2.0,Winter,2025.0
+ORD-10393,2025-04-01,C1073,storage,Storage Bench,Richmond,Sara,3,376.45,0.0,cash,1129.35,0.0,1129.35,2025-04,4.0,Spring,2025.0
+ORD-10919,2026-08-12,C1111,decor,Wall Mirror,Vancouver,Alex,2,191.44,0.0,e-transfer,382.88,0.0,382.88,2026-08,8.0,Summer,2026.0
+ORD-10657,2025-12-31,C1081,storage,Cabinet,Burnaby,Alex,2,592.95,0.15,credit card,1185.9,177.88500000000002,1008.0150000000001,2025-12,12.0,Winter,2025.0
+ORD-10479,2025-05-11,C1083,storage,Cabinet,Richmond,Mina,5,614.96,0.0,credit card,3074.8,0.0,3074.8,2025-05,5.0,Spring,2025.0
+ORD-10057,2025-12-23,C1233,furniture,Bookshelf,North Vancouver,Sara,3,629.39,0.1,debit,1888.17,188.817,1699.353,2025-12,12.0,Winter,2025.0
+ORD-10621,2025-05-30,C1137,storage,Storage Bench,North Vancouver,David,4,362.46,0.1,cash,1449.84,144.984,1304.856,2025-05,5.0,Spring,2025.0
+ORD-11166,2025-08-23,C1100,storage,Storage Bench,Surrey,Sara,3,380.28,0.1,cash,1140.84,114.084,1026.7559999999999,2025-08,8.0,Summer,2025.0
+ORD-11042,2025-08-03,C1247,decor,Vase,Surrey,John,2,111.1,0.15,credit card,222.2,33.33,188.87,2025-08,8.0,Summer,2025.0
+ORD-10027,2025-01-23,C1078,storage,Cabinet,North Vancouver,Mina,2,678.73,0.0,cash,1357.46,0.0,1357.46,2025-01,1.0,Winter,2025.0
+ORD-10820,2025-04-07,C1166,storage,Sideboard,Richmond,Sara,4,738.28,0.15,debit,2953.12,442.96799999999996,2510.152,2025-04,4.0,Spring,2025.0
+ORD-10964,2026-03-19,C1197,decor,Wall Mirror,North Vancouver,John,1,243.12,0.1,debit,243.12,24.312,218.808,2026-03,3.0,Spring,2026.0
+ORD-10896,2026-03-09,C1051,furniture,Dining Chair,Burnaby,John,4,222.18,0.1,e-transfer,888.72,88.87200000000001,799.848,2026-03,3.0,Spring,2026.0
+ORD-10415,2025-08-30,C1233,storage,Storage Bench,North Vancouver,Alex,1,286.38,0.15,e-transfer,286.38,42.957,243.423,2025-08,8.0,Summer,2025.0
+ORD-10951,2026-05-19,C1136,storage,Storage Bench,Surrey,John,3,287.16,0.05,e-transfer,861.48,43.074000000000005,818.4060000000001,2026-05,5.0,Spring,2026.0
+ORD-11181,2025-06-12,C1097,furniture,Coffee Table,Richmond,Alex,2,383.62,0.0,e-transfer,767.24,0.0,767.24,2025-06,6.0,Summer,2025.0
+ORD-10995,2025-01-29,C1045,furniture,Dining Chair,North Vancouver,Alex,2,248.98,0.2,credit card,497.96,99.592,398.368,2025-01,1.0,Winter,2025.0
+ORD-10035,2025-12-15,C1007,storage,Storage Bench,Surrey,Sara,4,334.78,0.1,e-transfer,1339.12,133.912,1205.2079999999999,2025-12,12.0,Winter,2025.0
+ORD-10954,2026-06-13,C1104,storage,Storage Bench,North Vancouver,David,4,355.63,0.0,debit,1422.52,0.0,1422.52,2026-06,6.0,Summer,2026.0
+ORD-10904,2026-01-23,C1162,storage,Storage Bench,North Vancouver,Sara,1,390.3,0.1,e-transfer,390.3,39.03,351.27,2026-01,1.0,Winter,2026.0
+ORD-10279,2026-07-18,C1015,furniture,Bookshelf,North Vancouver,Sara,1,618.76,0.0,e-transfer,618.76,0.0,618.76,2026-07,7.0,Summer,2026.0
+ORD-10330,2025-08-15,C1148,storage,Storage Bench,Surrey,Mina,4,378.87,0.0,cash,1515.48,0.0,1515.48,2025-08,8.0,Summer,2025.0
+ORD-10159,2026-06-17,C1071,furniture,Bookshelf,Richmond,Mina,1,628.36,0.05,e-transfer,628.36,31.418000000000003,596.942,2026-06,6.0,Summer,2026.0
+ORD-10693,2025-05-05,C1132,storage,Sideboard,North Vancouver,David,2,805.99,0.0,debit,1611.98,0.0,1611.98,2025-05,5.0,Spring,2025.0
+ORD-10938,2025-07-02,C1244,furniture,Vintage Lamp,Richmond,Sara,4,179.54,0.0,credit card,718.16,0.0,718.16,2025-07,7.0,Summer,2025.0
+ORD-10526,2025-02-04,C1195,furniture,Vintage Lamp,North Vancouver,Sara,5,210.71,0.0,cash,1053.55,0.0,1053.55,2025-02,2.0,Winter,2025.0
+ORD-10598,2025-06-25,C1058,storage,Storage Bench,North Vancouver,Mina,2,373.35,0.0,credit card,746.7,0.0,746.7,2025-06,6.0,Summer,2025.0
+ORD-10495,2026-01-26,C1234,furniture,Dining Chair,Richmond,Mina,1,214.77,0.2,cash,214.77,42.95400000000001,171.816,2026-01,1.0,Winter,2026.0
+ORD-10124,2025-10-21,C1138,furniture,Coffee Table,Surrey,Mina,2,405.96,0.0,cash,811.92,0.0,811.92,2025-10,10.0,Fall,2025.0
+ORD-10717,2025-07-30,C1098,furniture,Bookshelf,Richmond,Sara,2,478.39,0.0,debit,956.78,0.0,956.78,2025-07,7.0,Summer,2025.0
+ORD-11130,2025-08-19,C1145,furniture,Dining Chair,Surrey,Sara,1,255.83,0.0,e-transfer,255.83,0.0,255.83,2025-08,8.0,Summer,2025.0
+ORD-10901,2025-04-09,C1225,decor,Vase,Burnaby,Sara,1,88.28,0.1,cash,88.28,8.828000000000001,79.452,2025-04,4.0,Spring,2025.0
+ORD-10865,2026-02-13,C1030,storage,Sideboard,North Vancouver,Sara,2,696.42,0.1,cash,1392.84,139.284,1253.556,2026-02,2.0,Winter,2026.0
+ORD-10117,2026-06-09,C1063,furniture,Vintage Lamp,Surrey,Mina,2,170.84,0.05,cash,341.68,17.084,324.596,2026-06,6.0,Summer,2026.0
+ORD-11164,2026-01-13,unknown,storage,Cabinet,Vancouver,Mina,5,688.49,0.0,credit card,3442.45,0.0,3442.45,2026-01,1.0,Winter,2026.0
+ORD-10155,2025-08-11,C1008,storage,Cabinet,Surrey,Sara,5,644.6,0.1,credit card,3223.0,322.3,2900.7,2025-08,8.0,Summer,2025.0
+ORD-11063,2025-10-05,C1092,furniture,Dining Chair,Surrey,Mina,5,263.28,0.15,cash,1316.3999999999999,197.45999999999998,1118.9399999999998,2025-10,10.0,Fall,2025.0
+ORD-10432,2025-03-16,C1125,storage,Sideboard,Vancouver,David,5,743.64,0.15,debit,3718.2,557.7299999999999,3160.47,2025-03,3.0,Spring,2025.0
+ORD-10727,2026-08-11,C1097,storage,Sideboard,Richmond,Alex,5,866.3,0.0,unknown,4331.5,0.0,4331.5,2026-08,8.0,Summer,2026.0
+ORD-10458,2025-01-20,C1134,storage,Sideboard,North Vancouver,Sara,5,724.51,0.1,credit card,3622.55,362.25500000000005,3260.295,2025-01,1.0,Winter,2025.0
+ORD-10243,2025-08-15,C1106,decor,Rug,Vancouver,Alex,5,436.71,0.05,debit,2183.5499999999997,109.1775,2074.3725,2025-08,8.0,Summer,2025.0
+ORD-11119,2026-05-19,C1132,furniture,Coffee Table,Surrey,David,2,465.76,0.15,debit,931.52,139.72799999999998,791.792,2026-05,5.0,Spring,2026.0
+ORD-10522,2025-01-26,C1143,decor,Wall Mirror,North Vancouver,Mina,4,231.52,0.1,credit card,926.08,92.608,833.472,2025-01,1.0,Winter,2025.0
+ORD-10414,2025-08-19,C1144,furniture,Bookshelf,Vancouver,John,5,627.41,0.1,e-transfer,3137.0499999999997,313.705,2823.345,2025-08,8.0,Summer,2025.0
+ORD-10748,2025-11-17,C1053,storage,Cabinet,North Vancouver,Alex,4,671.92,0.15,credit card,2687.68,403.152,2284.528,2025-11,11.0,Fall,2025.0
+ORD-10374,2025-04-29,C1083,decor,Vase,Burnaby,David,1,89.46,0.05,debit,89.46,4.473,84.987,2025-04,4.0,Spring,2025.0
+ORD-10353,2025-05-25,C1089,storage,Cabinet,Burnaby,David,4,614.81,0.0,credit card,2459.24,0.0,2459.24,2025-05,5.0,Spring,2025.0
+ORD-10673,2026-05-08,C1174,decor,Vase,Vancouver,Alex,1,95.46,0.1,cash,95.46,9.546,85.91399999999999,2026-05,5.0,Spring,2026.0
+ORD-10452,2025-03-25,C1084,furniture,Vintage Lamp,Richmond,Mina,5,207.22,0.0,cash,1036.1,0.0,1036.1,2025-03,3.0,Spring,2025.0
+ORD-10614,2025-02-26,C1152,furniture,Vintage Lamp,Surrey,David,4,174.92,0.2,debit,699.68,139.936,559.7439999999999,2025-02,2.0,Winter,2025.0
+ORD-11008,2025-10-29,C1014,furniture,Dining Chair,North Vancouver,Alex,3,240.28,0.05,credit card,720.84,36.042,684.798,2025-10,10.0,Fall,2025.0
+ORD-11032,2025-10-19,C1119,storage,Cabinet,Surrey,Alex,3,562.54,0.0,credit card,1687.62,0.0,1687.62,2025-10,10.0,Fall,2025.0
+ORD-10020,2026-01-25,C1197,furniture,Coffee Table,Vancouver,Sara,1,369.41,0.0,debit,369.41,0.0,369.41,2026-01,1.0,Winter,2026.0
+ORD-11022,2025-06-08,C1069,furniture,Coffee Table,North Vancouver,Alex,2,405.39,0.0,credit card,810.78,0.0,810.78,2025-06,6.0,Summer,2025.0
+ORD-11137,2025-01-21,C1184,furniture,Dining Chair,Vancouver,Alex,3,252.25,0.05,cash,756.75,37.8375,718.9125,2025-01,1.0,Winter,2025.0
+ORD-10031,2025-02-26,C1002,decor,Vase,North Vancouver,John,5,105.58,0.0,credit card,527.9,0.0,527.9,2025-02,2.0,Winter,2025.0
+ORD-11101,2025-05-13,C1125,decor,Rug,Surrey,Mina,1,346.32,0.0,debit,346.32,0.0,346.32,2025-05,5.0,Spring,2025.0
+ORD-11158,2026-06-19,C1096,storage,Storage Bench,Vancouver,John,5,349.27,0.2,e-transfer,1746.35,349.27,1397.08,2026-06,6.0,Summer,2026.0
+ORD-10091,2025-02-18,C1120,storage,Sideboard,Richmond,John,2,869.21,0.0,credit card,1738.42,0.0,1738.42,2025-02,2.0,Winter,2025.0
+ORD-11047,2025-02-21,C1196,storage,Sideboard,Richmond,David,3,891.95,0.05,cash,2675.8500000000004,133.79250000000002,2542.0575000000003,2025-02,2.0,Winter,2025.0
+ORD-10053,2026-07-24,C1193,furniture,Dining Chair,Burnaby,Mina,4,280.97,0.0,e-transfer,1123.88,0.0,1123.88,2026-07,7.0,Summer,2026.0
+ORD-10456,2025-11-14,C1248,storage,Cabinet,Vancouver,David,1,713.27,0.05,cash,713.27,35.6635,677.6065,2025-11,11.0,Fall,2025.0
+ORD-10460,2026-07-06,C1007,decor,Art Print,Vancouver,Mina,4,115.07,0.0,cash,460.28,0.0,460.28,2026-07,7.0,Summer,2026.0
+ORD-10925,2025-02-08,C1058,storage,Cabinet,Surrey,David,5,632.18,0.0,cash,3160.8999999999996,0.0,3160.8999999999996,2025-02,2.0,Winter,2025.0
+ORD-10435,2026-05-07,C1022,furniture,Bookshelf,Burnaby,Sara,5,572.6,0.1,debit,2863.0,286.3,2576.7,2026-05,5.0,Spring,2026.0
+ORD-10687,2025-08-20,C1011,decor,Rug,Richmond,John,3,467.52,0.0,debit,1402.56,0.0,1402.56,2025-08,8.0,Summer,2025.0
+ORD-10441,2026-04-25,unknown,decor,Art Print,North Vancouver,Sara,5,140.74,0.15,debit,703.7,105.555,598.145,2026-04,4.0,Spring,2026.0
+ORD-10629,2025-10-22,C1203,decor,Rug,Surrey,Sara,2,427.66,0.0,cash,855.32,0.0,855.32,2025-10,10.0,Fall,2025.0
+ORD-10445,2025-09-26,C1078,furniture,Coffee Table,Richmond,David,3,415.6,0.0,e-transfer,1246.8000000000002,0.0,1246.8000000000002,2025-09,9.0,Fall,2025.0
+ORD-10225,2026-05-18,C1183,storage,Storage Bench,North Vancouver,Sara,2,313.35,0.0,credit card,626.7,0.0,626.7,2026-05,5.0,Spring,2026.0
+ORD-11064,2026-06-11,C1230,decor,Wall Mirror,North Vancouver,David,1,198.77,0.0,credit card,198.77,0.0,198.77,2026-06,6.0,Summer,2026.0
+ORD-10264,2026-07-18,C1154,storage,Sideboard,Burnaby,David,4,757.09,0.05,credit card,3028.36,151.418,2876.942,2026-07,7.0,Summer,2026.0
+ORD-10959,2026-01-01,C1108,furniture,Vintage Lamp,Burnaby,Sara,2,162.0,0.0,credit card,324.0,0.0,324.0,2026-01,1.0,Winter,2026.0
+ORD-10778,2025-06-14,C1249,decor,Rug,Vancouver,John,4,353.0,0.0,debit,1412.0,0.0,1412.0,2025-06,6.0,Summer,2025.0
+ORD-11152,2026-03-20,C1231,decor,Art Print,Burnaby,Sara,3,144.61,0.15,e-transfer,433.83000000000004,65.0745,368.75550000000004,2026-03,3.0,Spring,2026.0
+ORD-10261,2025-01-10,C1123,storage,Cabinet,Richmond,Mina,4,661.06,0.0,e-transfer,2644.24,0.0,2644.24,2025-01,1.0,Winter,2025.0
+ORD-10069,2025-05-25,C1203,storage,Cabinet,Vancouver,Sara,2,585.04,0.1,cash,1170.08,117.008,1053.072,2025-05,5.0,Spring,2025.0
+ORD-10029,2025-01-27,C1038,furniture,Vintage Lamp,North Vancouver,Sara,3,180.41,0.2,e-transfer,541.23,108.24600000000001,432.98400000000004,2025-01,1.0,Winter,2025.0
+ORD-10859,2025-01-03,C1078,furniture,Vintage Lamp,Richmond,Sara,2,173.46,0.05,debit,346.92,17.346,329.574,2025-01,1.0,Winter,2025.0
+ORD-10870,2025-12-03,C1108,decor,Wall Mirror,Richmond,Alex,2,185.76,0.0,debit,371.52,0.0,371.52,2025-12,12.0,Winter,2025.0
+ORD-10600,2025-03-20,C1111,storage,Cabinet,North Vancouver,Alex,2,666.53,0.0,credit card,1333.06,0.0,1333.06,2025-03,3.0,Spring,2025.0
+ORD-10229,2025-02-18,C1222,decor,Rug,Surrey,unknown,2,420.45,0.15,debit,840.9,126.13499999999999,714.765,2025-02,2.0,Winter,2025.0
+ORD-10496,2026-03-03,C1044,furniture,Coffee Table,Surrey,John,4,462.27,0.15,debit,1849.08,277.36199999999997,1571.7179999999998,2026-03,3.0,Spring,2026.0
+ORD-10281,2025-10-31,C1209,furniture,Coffee Table,Surrey,John,4,442.65,0.0,cash,1770.6,0.0,1770.6,2025-10,10.0,Fall,2025.0
+ORD-10442,2026-03-23,C1053,furniture,Bookshelf,Burnaby,Mina,2,564.76,0.15,e-transfer,1129.52,169.428,960.092,2026-03,3.0,Spring,2026.0
+ORD-10326,2025-02-16,C1235,furniture,Coffee Table,Surrey,Mina,4,481.92,0.05,debit,1927.68,96.38400000000001,1831.296,2025-02,2.0,Winter,2025.0
+ORD-10961,2026-01-05,C1204,storage,Sideboard,North Vancouver,Sara,5,758.98,0.1,cash,3794.9,379.49,3415.41,2026-01,1.0,Winter,2026.0
+ORD-10571,2026-06-12,C1182,storage,Cabinet,Richmond,Sara,5,762.78,0.1,e-transfer,3813.8999999999996,381.39,3432.5099999999998,2026-06,6.0,Summer,2026.0
+ORD-10626,2025-06-16,C1038,decor,Vase,North Vancouver,Mina,2,111.6,0.0,debit,223.2,0.0,223.2,2025-06,6.0,Summer,2025.0
+ORD-10984,2026-06-13,C1146,storage,Sideboard,Burnaby,Alex,2,836.47,0.05,credit card,1672.94,83.647,1589.2930000000001,2026-06,6.0,Summer,2026.0
+ORD-11121,2025-06-15,C1167,furniture,Vintage Lamp,North Vancouver,Mina,2,200.37,0.05,e-transfer,400.74,20.037000000000003,380.70300000000003,2025-06,6.0,Summer,2025.0
+ORD-10303,2026-01-07,C1240,decor,Vase,Richmond,Alex,1,111.61,0.0,e-transfer,111.61,0.0,111.61,2026-01,1.0,Winter,2026.0
+ORD-10331,2026-02-20,C1113,furniture,Dining Chair,Vancouver,Alex,1,286.93,0.0,e-transfer,286.93,0.0,286.93,2026-02,2.0,Winter,2026.0
+ORD-10934,2025-11-30,C1138,decor,Art Print,Richmond,David,3,113.12,0.05,e-transfer,339.36,16.968,322.392,2025-11,11.0,Fall,2025.0
+ORD-10768,2026-08-07,C1019,storage,Cabinet,Surrey,Alex,1,749.09,0.0,debit,749.09,0.0,749.09,2026-08,8.0,Summer,2026.0
+ORD-11056,2025-07-22,C1132,furniture,Dining Chair,North Vancouver,John,3,216.68,0.1,cash,650.04,65.004,585.036,2025-07,7.0,Summer,2025.0
+ORD-10158,2025-07-23,C1084,decor,Rug,Burnaby,David,4,403.96,0.0,credit card,1615.84,0.0,1615.84,2025-07,7.0,Summer,2025.0
+ORD-10424,2025-08-14,unknown,furniture,Coffee Table,Burnaby,John,5,499.58,0.0,debit,2497.9,0.0,2497.9,2025-08,8.0,Summer,2025.0
+ORD-10851,2025-06-22,C1088,storage,Cabinet,Vancouver,Mina,5,668.52,0.15,unknown,3342.6,501.39,2841.21,2025-06,6.0,Summer,2025.0
+ORD-10487,2026-02-09,C1064,storage,Cabinet,Surrey,Mina,1,566.15,0.05,e-transfer,566.15,28.3075,537.8425,2026-02,2.0,Winter,2026.0
+ORD-10316,2025-06-15,C1231,furniture,Coffee Table,Richmond,John,5,366.55,0.0,credit card,1832.75,0.0,1832.75,2025-06,6.0,Summer,2025.0
+ORD-10262,2026-05-17,C1050,storage,Sideboard,Surrey,Sara,4,692.66,0.0,cash,2770.64,0.0,2770.64,2026-05,5.0,Spring,2026.0
+ORD-10098,2025-01-15,C1106,furniture,Vintage Lamp,Burnaby,Sara,2,211.43,0.0,e-transfer,422.86,0.0,422.86,2025-01,1.0,Winter,2025.0
+ORD-10716,2025-12-20,C1206,furniture,Dining Chair,Richmond,David,1,248.78,0.1,e-transfer,248.78,24.878,223.902,2025-12,12.0,Winter,2025.0
+ORD-11029,2026-08-18,C1244,storage,Sideboard,Burnaby,John,2,855.95,0.0,debit,1711.9,0.0,1711.9,2026-08,8.0,Summer,2026.0
+ORD-10847,2025-01-31,C1130,decor,Vase,Surrey,John,50,111.77,0.0,debit,5588.5,0.0,5588.5,2025-01,1.0,Winter,2025.0
+ORD-11147,2026-04-27,C1222,decor,Vase,Richmond,Alex,1,111.92,0.2,debit,111.92,22.384,89.536,2026-04,4.0,Spring,2026.0
+ORD-10137,2026-02-03,C1013,furniture,Dining Chair,Richmond,Sara,2,274.24,0.0,credit card,548.48,0.0,548.48,2026-02,2.0,Winter,2026.0
+ORD-10562,2025-04-08,C1153,storage,Storage Bench,Vancouver,Alex,1,339.09,0.0,cash,339.09,0.0,339.09,2025-04,4.0,Spring,2025.0
+ORD-10058,2025-02-27,C1033,storage,Sideboard,Richmond,Sara,1,831.21,0.0,unknown,831.21,0.0,831.21,2025-02,2.0,Winter,2025.0
+ORD-10620,2025-11-05,C1181,furniture,Coffee Table,North Vancouver,unknown,3,482.1,0.0,cash,1446.3000000000002,0.0,1446.3000000000002,2025-11,11.0,Fall,2025.0
+ORD-10966,2026-06-29,C1223,decor,Art Print,Richmond,Alex,4,140.51,0.0,e-transfer,562.04,0.0,562.04,2026-06,6.0,Summer,2026.0
+ORD-11076,2026-03-11,C1231,storage,Sideboard,Burnaby,Sara,1,802.35,0.1,e-transfer,802.35,80.23500000000001,722.115,2026-03,3.0,Spring,2026.0
+ORD-11190,2026-03-04,C1199,decor,Vase,North Vancouver,Mina,2,106.2,0.0,e-transfer,212.4,0.0,212.4,2026-03,3.0,Spring,2026.0
+ORD-10731,2025-04-03,C1135,decor,Vase,Burnaby,Sara,3,104.69,0.05,cash,314.07,15.7035,298.3665,2025-04,4.0,Spring,2025.0
+ORD-10843,2025-02-03,C1227,storage,Sideboard,Burnaby,Mina,3,709.03,0.0,credit card,2127.09,0.0,2127.09,2025-02,2.0,Winter,2025.0
+ORD-10664,2025-02-13,C1016,furniture,Dining Chair,North Vancouver,Mina,2,222.49,0.0,cash,444.98,0.0,444.98,2025-02,2.0,Winter,2025.0
+ORD-11095,2025-11-16,C1090,furniture,Coffee Table,Richmond,David,1,451.84,0.05,e-transfer,451.84,22.592,429.248,2025-11,11.0,Fall,2025.0
+ORD-10251,2025-10-03,C1088,furniture,Coffee Table,Vancouver,David,50,388.68,0.1,credit card,19434.0,1943.4,17490.6,2025-10,10.0,Fall,2025.0
+ORD-10040,2026-04-24,C1192,furniture,Bookshelf,Surrey,John,2,521.6,0.05,cash,1043.2,52.160000000000004,991.0400000000001,2026-04,4.0,Spring,2026.0
+ORD-10115,2026-06-23,C1223,storage,Cabinet,North Vancouver,David,2,605.98,0.0,e-transfer,1211.96,0.0,1211.96,2026-06,6.0,Summer,2026.0
+ORD-10676,2026-07-27,C1122,furniture,Dining Chair,North Vancouver,Alex,2,237.19,0.1,e-transfer,474.38,47.438,426.942,2026-07,7.0,Summer,2026.0
+ORD-10981,2025-04-05,C1030,decor,Vase,North Vancouver,John,3,108.77,0.0,e-transfer,326.31,0.0,326.31,2025-04,4.0,Spring,2025.0
+ORD-10639,2025-09-21,C1191,furniture,Dining Chair,Surrey,Mina,1,261.59,0.0,unknown,261.59,0.0,261.59,2025-09,9.0,Fall,2025.0
+ORD-10015,2026-02-22,C1060,storage,Cabinet,Burnaby,Alex,3,654.0,0.0,e-transfer,1962.0,0.0,1962.0,2026-02,2.0,Winter,2026.0
+ORD-11041,2026-08-02,C1044,furniture,Bookshelf,North Vancouver,Sara,4,596.79,0.0,credit card,2387.16,0.0,2387.16,2026-08,8.0,Summer,2026.0
+ORD-10557,2025-03-04,C1208,decor,Wall Mirror,Surrey,Sara,1,216.15,0.1,e-transfer,216.15,21.615000000000002,194.535,2025-03,3.0,Spring,2025.0
+ORD-10553,2025-07-06,C1200,furniture,Vintage Lamp,Surrey,Sara,50,153.79,0.0,cash,7689.5,0.0,7689.5,2025-07,7.0,Summer,2025.0
+ORD-11040,2025-04-17,C1036,storage,Sideboard,Vancouver,Mina,1,673.16,0.1,credit card,673.16,67.316,605.8439999999999,2025-04,4.0,Spring,2025.0
+ORD-10081,2025-05-16,C1148,decor,Vase,Surrey,Mina,1,99.78,0.05,e-transfer,99.78,4.989000000000001,94.791,2025-05,5.0,Spring,2025.0
+ORD-10683,2026-06-28,C1110,decor,Art Print,Richmond,Mina,3,123.92,0.1,debit,371.76,37.176,334.584,2026-06,6.0,Summer,2026.0
+ORD-10563,2026-07-27,C1121,decor,Vase,North Vancouver,Alex,2,90.28,0.15,e-transfer,180.56,27.084,153.476,2026-07,7.0,Summer,2026.0
+ORD-10527,2026-03-05,C1058,storage,Cabinet,Vancouver,Sara,1,689.18,0.1,credit card,689.18,68.91799999999999,620.262,2026-03,3.0,Spring,2026.0
+ORD-10258,2025-06-13,C1176,furniture,Dining Chair,Burnaby,John,1,214.99,0.0,debit,214.99,0.0,214.99,2025-06,6.0,Summer,2025.0
+ORD-10811,2025-05-23,C1088,decor,Vase,Richmond,Mina,2,95.46,0.05,credit card,190.92,9.546,181.374,2025-05,5.0,Spring,2025.0
+ORD-10084,2026-04-25,C1096,storage,Sideboard,Richmond,Sara,2,748.85,0.15,credit card,1497.7,224.655,1273.045,2026-04,4.0,Spring,2026.0
+ORD-10265,2025-02-04,C1015,furniture,Vintage Lamp,North Vancouver,Sara,4,212.81,0.0,e-transfer,851.24,0.0,851.24,2025-02,2.0,Winter,2025.0
+ORD-10718,2026-01-12,C1059,storage,Storage Bench,Burnaby,Alex,1,340.6,0.1,cash,340.6,34.06,306.54,2026-01,1.0,Winter,2026.0
+ORD-11031,2025-06-07,C1012,furniture,Coffee Table,North Vancouver,David,1,448.56,0.05,credit card,448.56,22.428,426.132,2025-06,6.0,Summer,2025.0
+ORD-11079,2025-01-28,C1121,decor,Wall Mirror,Burnaby,Mina,1,236.59,0.0,debit,236.59,0.0,236.59,2025-01,1.0,Winter,2025.0
+ORD-10941,2025-02-18,C1247,storage,Sideboard,North Vancouver,Sara,5,781.65,0.0,debit,3908.25,0.0,3908.25,2025-02,2.0,Winter,2025.0
+ORD-10141,2026-02-14,C1067,decor,Vase,Vancouver,Alex,1,85.72,0.2,credit card,85.72,17.144000000000002,68.576,2026-02,2.0,Winter,2026.0
+ORD-10702,2025-03-10,C1021,furniture,Dining Chair,Surrey,David,2,251.67,0.0,credit card,503.34,0.0,503.34,2025-03,3.0,Spring,2025.0
+ORD-10175,2025-03-19,C1071,storage,Storage Bench,Burnaby,David,1,312.28,0.0,e-transfer,312.28,0.0,312.28,2025-03,3.0,Spring,2025.0
+ORD-10646,2026-07-26,C1090,furniture,Vintage Lamp,Surrey,Mina,1,154.26,0.0,cash,154.26,0.0,154.26,2026-07,7.0,Summer,2026.0
+ORD-10064,2026-08-15,C1106,furniture,Dining Chair,Vancouver,David,4,264.29,0.2,cash,1057.16,211.43200000000002,845.7280000000001,2026-08,8.0,Summer,2026.0
+ORD-11054,2025-04-21,C1066,decor,Art Print,Richmond,Sara,2,149.02,0.05,credit card,298.04,14.902000000000001,283.13800000000003,2025-04,4.0,Spring,2025.0
+ORD-10179,2025-07-13,C1111,storage,Storage Bench,Surrey,John,2,343.4,0.0,debit,686.8,0.0,686.8,2025-07,7.0,Summer,2025.0
+ORD-10597,2026-03-10,C1249,decor,Vase,Burnaby,Sara,3,111.18,0.1,debit,333.54,33.354000000000006,300.18600000000004,2026-03,3.0,Spring,2026.0
+ORD-10453,2025-11-30,C1063,decor,Wall Mirror,Burnaby,Alex,3,216.15,0.1,debit,648.45,64.84500000000001,583.605,2025-11,11.0,Fall,2025.0
+ORD-11153,2025-12-23,C1147,furniture,Dining Chair,Richmond,Mina,4,267.1,0.1,e-transfer,1068.4,106.84000000000002,961.5600000000001,2025-12,12.0,Winter,2025.0
+ORD-11195,2025-11-24,C1210,furniture,Coffee Table,Burnaby,Sara,2,465.11,0.05,credit card,930.22,46.511,883.7090000000001,2025-11,11.0,Fall,2025.0
+ORD-10933,2025-10-12,C1073,furniture,Coffee Table,North Vancouver,Mina,3,435.15,0.0,cash,1305.4499999999998,0.0,1305.4499999999998,2025-10,10.0,Fall,2025.0
+ORD-10087,2025-12-27,C1126,storage,Cabinet,North Vancouver,Sara,2,579.73,0.0,cash,1159.46,0.0,1159.46,2025-12,12.0,Winter,2025.0
+ORD-10480,2025-02-26,C1118,furniture,Vintage Lamp,Richmond,David,1,187.63,0.0,credit card,187.63,0.0,187.63,2025-02,2.0,Winter,2025.0
+ORD-10256,2026-03-25,C1110,furniture,Bookshelf,North Vancouver,David,3,635.75,0.0,credit card,1907.25,0.0,1907.25,2026-03,3.0,Spring,2026.0
+ORD-10846,2025-03-31,C1211,decor,Vase,Vancouver,Mina,3,92.39,0.1,e-transfer,277.17,27.717000000000002,249.453,2025-03,3.0,Spring,2025.0
+ORD-10387,2025-02-18,C1083,furniture,Dining Chair,Burnaby,Sara,4,226.07,0.2,credit card,904.28,180.856,723.424,2025-02,2.0,Winter,2025.0
+ORD-10363,2026-08-05,C1145,storage,Cabinet,North Vancouver,Sara,4,731.02,0.2,credit card,2924.08,584.816,2339.264,2026-08,8.0,Summer,2026.0
+ORD-10449,2025-04-10,C1236,decor,Rug,Burnaby,John,1,443.38,0.0,cash,443.38,0.0,443.38,2025-04,4.0,Spring,2025.0
+ORD-10719,2026-01-07,C1006,furniture,Vintage Lamp,North Vancouver,Alex,3,211.89,0.1,debit,635.67,63.567,572.103,2026-01,1.0,Winter,2026.0
+ORD-10206,2025-09-11,C1163,decor,Wall Mirror,North Vancouver,Sara,1,191.45,0.0,debit,191.45,0.0,191.45,2025-09,9.0,Fall,2025.0
+ORD-11059,2025-10-27,C1026,storage,Cabinet,Richmond,John,5,627.16,0.2,debit,3135.7999999999997,627.16,2508.64,2025-10,10.0,Fall,2025.0
+ORD-10367,2025-04-22,C1084,furniture,Bookshelf,Surrey,Mina,2,539.36,0.05,debit,1078.72,53.93600000000001,1024.784,2025-04,4.0,Spring,2025.0
+ORD-10212,2025-12-17,C1055,storage,Sideboard,Vancouver,John,4,697.96,0.0,credit card,2791.84,0.0,2791.84,2025-12,12.0,Winter,2025.0
+ORD-10289,2026-03-24,C1137,decor,Rug,Richmond,Mina,2,452.4,0.0,cash,904.8,0.0,904.8,2026-03,3.0,Spring,2026.0
+ORD-11045,2025-05-13,C1018,storage,Sideboard,Vancouver,David,1,825.09,0.0,e-transfer,825.09,0.0,825.09,2025-05,5.0,Spring,2025.0
+ORD-10469,2025-12-02,C1064,decor,Wall Mirror,Richmond,Sara,3,199.27,0.05,cash,597.8100000000001,29.890500000000003,567.9195000000001,2025-12,12.0,Winter,2025.0
+ORD-10544,2025-05-17,C1087,storage,Sideboard,North Vancouver,David,1,714.54,0.1,credit card,714.54,71.454,643.086,2025-05,5.0,Spring,2025.0
+ORD-10336,2025-01-20,C1083,furniture,Dining Chair,Surrey,Alex,3,255.61,0.0,credit card,766.83,0.0,766.83,2025-01,1.0,Winter,2025.0
+ORD-10556,2026-06-14,C1047,decor,Art Print,Burnaby,Alex,3,123.8,0.05,cash,371.4,18.57,352.83,2026-06,6.0,Summer,2026.0
+ORD-11053,2025-12-27,C1185,storage,Sideboard,North Vancouver,David,4,726.04,0.0,credit card,2904.16,0.0,2904.16,2025-12,12.0,Winter,2025.0
+ORD-10965,2026-02-19,C1225,storage,Storage Bench,Surrey,Sara,1,295.8,0.0,e-transfer,295.8,0.0,295.8,2026-02,2.0,Winter,2026.0
+ORD-10666,2025-09-29,C1162,storage,Cabinet,Surrey,David,5,629.77,0.0,debit,3148.85,0.0,3148.85,2025-09,9.0,Fall,2025.0
+ORD-11127,2026-02-11,C1007,decor,Rug,North Vancouver,David,5,374.8,0.05,debit,1874.0,93.7,1780.3,2026-02,2.0,Winter,2026.0
+ORD-10007,2025-07-07,C1211,decor,Art Print,Burnaby,John,1,148.37,0.1,debit,148.37,14.837000000000002,133.53300000000002,2025-07,7.0,Summer,2025.0
+ORD-11069,2025-04-05,C1030,decor,Art Print,North Vancouver,Alex,5,130.96,0.0,e-transfer,654.8000000000001,0.0,654.8000000000001,2025-04,4.0,Spring,2025.0
+ORD-10985,2025-03-04,C1157,storage,Storage Bench,Burnaby,Mina,3,341.6,0.0,e-transfer,1024.8000000000002,0.0,1024.8000000000002,2025-03,3.0,Spring,2025.0
+ORD-11100,2025-03-10,C1207,decor,Wall Mirror,Surrey,Sara,5,198.47,0.0,credit card,992.35,0.0,992.35,2025-03,3.0,Spring,2025.0
+ORD-10648,2025-06-02,unknown,storage,Storage Bench,Richmond,Alex,3,296.95,0.1,e-transfer,890.8499999999999,89.085,801.7649999999999,2025-06,6.0,Summer,2025.0
+ORD-10722,2025-10-12,C1065,furniture,Vintage Lamp,Vancouver,John,5,205.94,0.0,credit card,1029.7,0.0,1029.7,2025-10,10.0,Fall,2025.0
+ORD-10695,2026-03-01,C1179,storage,Storage Bench,Surrey,Sara,2,395.5,0.0,credit card,791.0,0.0,791.0,2026-03,3.0,Spring,2026.0
+ORD-10517,2026-04-02,C1145,furniture,Bookshelf,Burnaby,Alex,4,601.63,0.1,e-transfer,2406.52,240.65200000000002,2165.868,2026-04,4.0,Spring,2026.0
+ORD-10402,2025-11-19,C1098,decor,Vase,Burnaby,John,1,96.95,0.0,e-transfer,96.95,0.0,96.95,2025-11,11.0,Fall,2025.0
+ORD-10733,2026-04-12,C1128,decor,Wall Mirror,Vancouver,Mina,5,237.15,0.1,debit,1185.75,118.575,1067.175,2026-04,4.0,Spring,2026.0
+ORD-10712,2026-06-02,C1128,furniture,Bookshelf,Richmond,John,4,586.19,0.0,cash,2344.76,0.0,2344.76,2026-06,6.0,Summer,2026.0
+ORD-11199,2026-07-28,C1064,decor,Rug,Surrey,Alex,2,349.34,0.15,e-transfer,698.68,104.80199999999999,593.8779999999999,2026-07,7.0,Summer,2026.0
+ORD-10884,2026-01-15,C1241,furniture,Vintage Lamp,Vancouver,John,2,215.92,0.0,debit,431.84,0.0,431.84,2026-01,1.0,Winter,2026.0
+ORD-10143,2025-11-07,C1134,decor,Vase,Surrey,John,3,105.41,0.1,e-transfer,316.23,31.623000000000005,284.607,2025-11,11.0,Fall,2025.0
+ORD-11067,2025-11-11,C1159,furniture,Vintage Lamp,North Vancouver,Sara,1,165.26,0.1,credit card,165.26,16.526,148.73399999999998,2025-11,11.0,Fall,2025.0
+ORD-10818,2025-05-11,C1010,furniture,Coffee Table,Burnaby,John,3,374.72,0.0,cash,1124.16,0.0,1124.16,2025-05,5.0,Spring,2025.0
+ORD-10559,2025-08-02,C1142,furniture,Dining Chair,Surrey,Sara,2,251.09,0.0,e-transfer,502.18,0.0,502.18,2025-08,8.0,Summer,2025.0
+ORD-10880,2025-07-01,C1238,storage,Storage Bench,Vancouver,Alex,2,394.4,0.0,credit card,788.8,0.0,788.8,2025-07,7.0,Summer,2025.0
+ORD-10359,2026-05-30,C1245,storage,Sideboard,Richmond,John,3,689.72,0.0,credit card,2069.16,0.0,2069.16,2026-05,5.0,Spring,2026.0
+ORD-10494,2025-11-22,C1040,furniture,Dining Chair,Richmond,John,5,230.92,0.0,credit card,1154.6,0.0,1154.6,2025-11,11.0,Fall,2025.0
+ORD-10663,2026-01-27,C1014,storage,Sideboard,Richmond,David,5,686.84,0.0,credit card,3434.2000000000003,0.0,3434.2000000000003,2026-01,1.0,Winter,2026.0
+ORD-10099,2025-06-16,C1179,decor,Wall Mirror,North Vancouver,John,3,230.17,0.05,e-transfer,690.51,34.5255,655.9845,2025-06,6.0,Summer,2025.0
+ORD-10703,2026-02-15,C1187,furniture,Bookshelf,Burnaby,Mina,2,511.62,0.0,credit card,1023.24,0.0,1023.24,2026-02,2.0,Winter,2026.0
+ORD-10928,2026-06-12,C1172,storage,Cabinet,Richmond,David,3,586.18,0.0,cash,1758.54,0.0,1758.54,2026-06,6.0,Summer,2026.0
+ORD-10059,2025-11-10,C1130,decor,Vase,Richmond,David,4,106.15,0.1,e-transfer,424.6,42.46000000000001,382.14,2025-11,11.0,Fall,2025.0
+ORD-10325,2025-01-08,C1050,decor,Rug,North Vancouver,David,3,435.65,0.2,cash,1306.9499999999998,261.39,1045.56,2025-01,1.0,Winter,2025.0
+ORD-10011,2025-07-02,C1246,furniture,Coffee Table,Burnaby,David,4,361.53,0.0,debit,1446.12,0.0,1446.12,2025-07,7.0,Summer,2025.0
+ORD-10538,2025-10-18,C1033,furniture,Coffee Table,Richmond,David,2,421.58,0.0,credit card,843.16,0.0,843.16,2025-10,10.0,Fall,2025.0
+ORD-10874,2026-01-27,C1138,storage,Sideboard,Vancouver,unknown,5,802.06,0.0,cash,4010.2999999999997,0.0,4010.2999999999997,2026-01,1.0,Winter,2026.0
+ORD-11070,2025-11-13,C1065,furniture,Dining Chair,Vancouver,John,4,260.24,0.1,credit card,1040.96,104.096,936.864,2025-11,11.0,Fall,2025.0
+ORD-10761,2025-01-23,C1126,storage,Storage Bench,Burnaby,Sara,2,344.46,0.05,cash,688.92,34.446,654.4739999999999,2025-01,1.0,Winter,2025.0
+ORD-10844,2025-11-04,C1097,furniture,Bookshelf,Burnaby,David,2,598.22,0.0,e-transfer,1196.44,0.0,1196.44,2025-11,11.0,Fall,2025.0
+ORD-10074,2026-03-02,C1128,furniture,Dining Chair,Vancouver,Sara,1,286.34,0.05,e-transfer,286.34,14.317,272.02299999999997,2026-03,3.0,Spring,2026.0
+ORD-10548,2025-09-18,C1183,furniture,Vintage Lamp,Richmond,Mina,1,175.22,0.1,debit,175.22,17.522000000000002,157.698,2025-09,9.0,Fall,2025.0
+ORD-10584,2025-12-07,C1153,storage,Storage Bench,Surrey,Mina,1,337.85,0.1,debit,337.85,33.785000000000004,304.065,2025-12,12.0,Winter,2025.0
+ORD-10086,2026-03-22,C1177,storage,Cabinet,North Vancouver,Mina,1,555.84,0.1,debit,555.84,55.584,500.25600000000003,2026-03,3.0,Spring,2026.0
+ORD-10188,2026-08-19,C1027,storage,Sideboard,Vancouver,Alex,1,935.84,0.05,e-transfer,935.84,46.792,889.048,2026-08,8.0,Summer,2026.0
+ORD-10857,2026-07-12,C1020,decor,Vase,North Vancouver,Alex,4,91.76,0.15,debit,367.04,55.056000000000004,311.98400000000004,2026-07,7.0,Summer,2026.0
+ORD-11176,2025-03-26,C1111,furniture,Bookshelf,Vancouver,John,5,590.47,0.0,credit card,2952.3500000000004,0.0,2952.3500000000004,2025-03,3.0,Spring,2025.0
+ORD-10177,2026-01-11,C1130,storage,Cabinet,Burnaby,Mina,2,625.41,0.2,e-transfer,1250.82,250.164,1000.656,2026-01,1.0,Winter,2026.0
+ORD-10900,2025-05-01,C1031,decor,Art Print,Richmond,David,2,127.98,0.0,e-transfer,255.96,0.0,255.96,2025-05,5.0,Spring,2025.0
+ORD-11168,2025-11-13,C1148,furniture,Vintage Lamp,Vancouver,David,3,157.64,0.2,e-transfer,472.91999999999996,94.584,378.33599999999996,2025-11,11.0,Fall,2025.0
+ORD-10190,2026-04-18,C1235,storage,Sideboard,Richmond,David,2,890.17,0.1,debit,1780.34,178.034,1602.306,2026-04,4.0,Spring,2026.0
+ORD-11110,2026-06-15,C1234,decor,Vase,Burnaby,Alex,4,85.26,0.15,e-transfer,341.04,51.156,289.884,2026-06,6.0,Summer,2026.0
+ORD-10413,2026-07-21,C1237,furniture,Dining Chair,Vancouver,David,5,246.43,0.0,debit,1232.15,0.0,1232.15,2026-07,7.0,Summer,2026.0
+ORD-10618,2026-03-17,C1240,storage,Sideboard,North Vancouver,Mina,5,899.85,0.1,cash,4499.25,449.925,4049.325,2026-03,3.0,Spring,2026.0
+ORD-10986,2026-04-12,C1134,decor,Rug,Richmond,Alex,5,450.09,0.0,credit card,2250.45,0.0,2250.45,2026-04,4.0,Spring,2026.0
+ORD-10245,2025-04-23,C1133,storage,Storage Bench,Richmond,Sara,4,292.89,0.0,e-transfer,1171.56,0.0,1171.56,2025-04,4.0,Spring,2025.0
+ORD-10217,2025-06-04,C1046,storage,Storage Bench,Richmond,Sara,3,375.99,0.15,e-transfer,1127.97,169.1955,958.7745,2025-06,6.0,Summer,2025.0
+ORD-10604,2025-12-03,C1229,decor,Art Print,Surrey,Sara,2,150.77,0.1,credit card,301.54,30.154000000000003,271.386,2025-12,12.0,Winter,2025.0
+ORD-10489,2025-10-11,C1229,storage,Storage Bench,Burnaby,Alex,4,317.64,0.0,credit card,1270.56,0.0,1270.56,2025-10,10.0,Fall,2025.0
+ORD-10764,2026-04-07,C1019,storage,Storage Bench,Surrey,Sara,3,338.92,0.15,cash,1016.76,152.51399999999998,864.246,2026-04,4.0,Spring,2026.0
+ORD-10401,2025-06-28,C1135,decor,Art Print,Surrey,John,4,125.51,0.2,cash,502.04,100.40800000000002,401.632,2025-06,6.0,Summer,2025.0
+ORD-10991,2026-02-05,C1228,furniture,Vintage Lamp,Burnaby,David,3,176.21,0.1,debit,528.63,52.863,475.767,2026-02,2.0,Winter,2026.0
+ORD-10650,2026-05-02,C1027,decor,Wall Mirror,Burnaby,Mina,4,230.31,0.05,e-transfer,921.24,46.062000000000005,875.178,2026-05,5.0,Spring,2026.0
+ORD-10713,2026-02-25,C1033,storage,Cabinet,Surrey,Alex,3,554.17,0.0,credit card,1662.5099999999998,0.0,1662.5099999999998,2026-02,2.0,Winter,2026.0
+ORD-10747,2025-05-25,C1082,storage,Storage Bench,Surrey,Sara,4,334.78,0.0,credit card,1339.12,0.0,1339.12,2025-05,5.0,Spring,2025.0
+ORD-10669,2025-11-25,C1241,decor,Art Print,Vancouver,David,2,121.9,0.0,e-transfer,243.8,0.0,243.8,2025-11,11.0,Fall,2025.0
+ORD-10707,2025-11-02,C1115,furniture,Dining Chair,North Vancouver,David,3,264.31,0.0,credit card,792.9300000000001,0.0,792.9300000000001,2025-11,11.0,Fall,2025.0
+ORD-10871,2025-01-03,C1244,storage,Cabinet,North Vancouver,Sara,1,596.4,0.0,cash,596.4,0.0,596.4,2025-01,1.0,Winter,2025.0
+ORD-10282,2026-03-18,C1200,storage,Cabinet,Vancouver,unknown,4,706.74,0.05,cash,2826.96,141.348,2685.612,2026-03,3.0,Spring,2026.0
+ORD-10652,2025-08-20,C1102,storage,Storage Bench,Richmond,John,2,326.23,0.0,e-transfer,652.46,0.0,652.46,2025-08,8.0,Summer,2025.0
+ORD-10231,2025-07-01,C1078,furniture,Coffee Table,North Vancouver,Alex,3,489.74,0.0,cash,1469.22,0.0,1469.22,2025-07,7.0,Summer,2025.0
+ORD-10080,2025-05-11,C1231,furniture,Dining Chair,Vancouver,David,5,253.42,0.0,debit,1267.1,0.0,1267.1,2025-05,5.0,Spring,2025.0
+ORD-10473,2025-01-28,C1136,decor,Vase,Richmond,Alex,4,106.92,0.0,credit card,427.68,0.0,427.68,2025-01,1.0,Winter,2025.0
+ORD-10221,2025-12-06,C1109,storage,Sideboard,Surrey,Sara,5,736.8,0.0,debit,3684.0,0.0,3684.0,2025-12,12.0,Winter,2025.0
+ORD-10472,2026-05-11,C1239,decor,Vase,Surrey,Mina,2,103.49,0.05,debit,206.98,10.349,196.631,2026-05,5.0,Spring,2026.0
+ORD-10350,2025-03-20,C1057,storage,Storage Bench,Surrey,Sara,2,373.7,0.2,e-transfer,747.4,149.48,597.92,2025-03,3.0,Spring,2025.0
+ORD-10391,2026-05-17,C1223,storage,Storage Bench,Vancouver,Mina,4,290.77,0.0,cash,1163.08,0.0,1163.08,2026-05,5.0,Spring,2026.0
+ORD-10228,2025-07-26,C1050,decor,Wall Mirror,Richmond,David,3,185.62,0.2,cash,556.86,111.37200000000001,445.488,2025-07,7.0,Summer,2025.0
+ORD-10623,2025-09-22,C1007,storage,Storage Bench,North Vancouver,John,4,304.89,0.0,e-transfer,1219.56,0.0,1219.56,2025-09,9.0,Fall,2025.0
+ORD-10688,2026-06-30,C1013,decor,Rug,Richmond,Sara,3,431.3,0.05,e-transfer,1293.9,64.69500000000001,1229.2050000000002,2026-06,6.0,Summer,2026.0
+ORD-10782,2026-05-28,C1105,decor,Art Print,Richmond,Sara,4,128.7,0.1,debit,514.8,51.48,463.31999999999994,2026-05,5.0,Spring,2026.0
+ORD-10942,2025-08-05,C1177,storage,Sideboard,North Vancouver,Alex,1,741.83,0.0,cash,741.83,0.0,741.83,2025-08,8.0,Summer,2025.0
+ORD-11118,2025-04-05,C1221,decor,Art Print,Burnaby,Sara,3,117.54,0.15,e-transfer,352.62,52.893,299.727,2025-04,4.0,Spring,2025.0
+ORD-11048,2026-06-19,C1215,furniture,Dining Chair,North Vancouver,John,2,264.45,0.15,cash,528.9,79.335,449.565,2026-06,6.0,Summer,2026.0
+ORD-10298,2025-02-16,C1189,decor,Rug,Burnaby,Mina,5,435.93,0.0,e-transfer,2179.65,0.0,2179.65,2025-02,2.0,Winter,2025.0
+ORD-10647,2025-10-06,C1145,decor,Art Print,North Vancouver,Sara,5,154.84,0.0,cash,774.2,0.0,774.2,2025-10,10.0,Fall,2025.0
+ORD-10988,2025-01-28,C1214,decor,Rug,Burnaby,Mina,2,466.97,0.0,credit card,933.94,0.0,933.94,2025-01,1.0,Winter,2025.0
+ORD-11046,2026-01-29,C1098,decor,Wall Mirror,Surrey,Alex,4,233.62,0.0,debit,934.48,0.0,934.48,2026-01,1.0,Winter,2026.0
+ORD-10370,2025-09-29,C1138,furniture,Dining Chair,North Vancouver,John,4,238.96,0.0,credit card,955.84,0.0,955.84,2025-09,9.0,Fall,2025.0
+ORD-10836,2025-10-20,C1149,storage,Sideboard,North Vancouver,David,4,827.03,0.0,cash,3308.12,0.0,3308.12,2025-10,10.0,Fall,2025.0
+ORD-10967,2025-12-05,C1220,storage,Storage Bench,Surrey,Alex,4,339.26,0.1,cash,1357.04,135.704,1221.336,2025-12,12.0,Winter,2025.0
+ORD-10763,2025-02-15,C1237,storage,Sideboard,North Vancouver,Alex,3,848.07,0.1,cash,2544.21,254.42100000000002,2289.789,2025-02,2.0,Winter,2025.0
+ORD-10498,2026-01-02,C1036,storage,Cabinet,Burnaby,John,2,732.42,0.1,e-transfer,1464.84,146.484,1318.356,2026-01,1.0,Winter,2026.0
+ORD-10765,2025-10-26,C1101,storage,Cabinet,Burnaby,Sara,5,718.53,0.0,cash,3592.6499999999996,0.0,3592.6499999999996,2025-10,10.0,Fall,2025.0
+ORD-10300,2026-01-10,C1155,decor,Art Print,Surrey,Mina,1,116.65,0.1,e-transfer,116.65,11.665000000000001,104.985,2026-01,1.0,Winter,2026.0
+ORD-10348,2025-10-07,C1014,furniture,Coffee Table,Richmond,David,3,410.11,0.15,credit card,1230.33,184.5495,1045.7804999999998,2025-10,10.0,Fall,2025.0
+ORD-10730,2025-07-12,C1027,storage,Sideboard,North Vancouver,Mina,4,724.45,0.0,cash,2897.8,0.0,2897.8,2025-07,7.0,Summer,2025.0
+ORD-10593,2025-11-05,C1019,decor,Art Print,North Vancouver,John,3,142.85,0.05,credit card,428.54999999999995,21.4275,407.12249999999995,2025-11,11.0,Fall,2025.0
+ORD-10831,2025-04-24,C1114,decor,Art Print,Vancouver,David,3,152.33,0.0,cash,456.99,0.0,456.99,2025-04,4.0,Spring,2025.0
+ORD-11028,2026-02-24,C1141,storage,Sideboard,Burnaby,Alex,1,930.81,0.0,debit,930.81,0.0,930.81,2026-02,2.0,Winter,2026.0
+ORD-10437,2026-07-14,C1179,decor,Wall Mirror,Richmond,David,3,220.48,0.0,debit,661.4399999999999,0.0,661.4399999999999,2026-07,7.0,Summer,2026.0
+ORD-10105,2026-05-09,C1239,furniture,Bookshelf,Vancouver,David,3,483.25,0.0,credit card,1449.75,0.0,1449.75,2026-05,5.0,Spring,2026.0
+ORD-10889,2026-04-11,C1068,decor,Vase,North Vancouver,David,2,103.86,0.1,debit,207.72,20.772000000000002,186.948,2026-04,4.0,Spring,2026.0
+ORD-10752,2025-03-15,C1162,storage,Storage Bench,Richmond,John,5,293.7,0.0,debit,1468.5,0.0,1468.5,2025-03,3.0,Spring,2025.0
+ORD-10774,2026-08-20,C1188,decor,Vase,Burnaby,John,3,111.29,0.0,debit,333.87,0.0,333.87,2026-08,8.0,Summer,2026.0
+ORD-10898,2026-07-13,C1207,decor,Vase,North Vancouver,Sara,2,99.43,0.0,debit,198.86,0.0,198.86,2026-07,7.0,Summer,2026.0
+ORD-10333,2025-11-09,C1201,furniture,Bookshelf,North Vancouver,David,4,641.18,0.0,e-transfer,2564.72,0.0,2564.72,2025-11,11.0,Fall,2025.0
+ORD-10568,2025-03-02,C1136,storage,Sideboard,Richmond,Mina,4,842.86,0.0,credit card,3371.44,0.0,3371.44,2025-03,3.0,Spring,2025.0
+ORD-10063,2026-03-14,C1091,storage,Sideboard,Surrey,Alex,1,813.97,0.2,debit,813.97,162.794,651.176,2026-03,3.0,Spring,2026.0
+ORD-10024,2025-06-10,C1213,decor,Vase,Richmond,David,5,91.77,0.05,credit card,458.84999999999997,22.9425,435.90749999999997,2025-06,6.0,Summer,2025.0
+ORD-11126,2026-06-16,C1243,decor,Rug,Vancouver,David,2,387.96,0.0,e-transfer,775.92,0.0,775.92,2026-06,6.0,Summer,2026.0
+ORD-10920,,C1014,decor,Vase,Burnaby,John,2,95.03,0.1,cash,190.06,19.006,171.054,,,,
+ORD-10906,2025-05-03,C1019,decor,Rug,Vancouver,David,3,460.35,0.0,unknown,1381.0500000000002,0.0,1381.0500000000002,2025-05,5.0,Spring,2025.0
+ORD-11172,2025-03-16,C1045,furniture,Vintage Lamp,Vancouver,John,3,163.46,0.05,e-transfer,490.38,24.519000000000002,465.861,2025-03,3.0,Spring,2025.0
+ORD-10675,2026-02-06,C1164,decor,Rug,North Vancouver,David,1,406.19,0.0,cash,406.19,0.0,406.19,2026-02,2.0,Winter,2026.0
+ORD-10861,2026-03-24,C1161,decor,Vase,Surrey,John,2,84.88,0.0,e-transfer,169.76,0.0,169.76,2026-03,3.0,Spring,2026.0
+ORD-10163,2025-04-23,C1205,decor,Art Print,Surrey,David,4,155.48,0.1,debit,621.92,62.192,559.728,2025-04,4.0,Spring,2025.0
+ORD-10634,2025-04-05,C1155,furniture,Vintage Lamp,North Vancouver,David,1,194.96,0.05,cash,194.96,9.748000000000001,185.21200000000002,2025-04,4.0,Spring,2025.0
+ORD-10883,2025-02-25,C1189,furniture,Dining Chair,Surrey,Mina,5,250.54,0.05,debit,1252.7,62.635000000000005,1190.065,2025-02,2.0,Winter,2025.0
+ORD-10411,2025-12-23,unknown,storage,Storage Bench,Richmond,John,2,348.8,0.0,cash,697.6,0.0,697.6,2025-12,12.0,Winter,2025.0
+ORD-10364,2025-04-12,C1080,storage,Sideboard,Burnaby,Sara,3,886.38,0.05,cash,2659.14,132.957,2526.183,2025-04,4.0,Spring,2025.0
+ORD-10694,2025-05-30,C1100,furniture,Coffee Table,Richmond,Alex,1,359.85,0.0,debit,359.85,0.0,359.85,2025-05,5.0,Spring,2025.0
+ORD-11068,2025-05-08,C1132,decor,Art Print,Richmond,Mina,1,111.32,0.1,cash,111.32,11.132,100.18799999999999,2025-05,5.0,Spring,2025.0
+ORD-10989,2025-11-28,C1159,furniture,Dining Chair,Surrey,John,2,224.14,0.0,cash,448.28,0.0,448.28,2025-11,11.0,Fall,2025.0
+ORD-11081,2026-01-31,C1091,storage,Cabinet,Burnaby,Alex,1,557.17,0.2,e-transfer,557.17,111.434,445.736,2026-01,1.0,Winter,2026.0
+ORD-11186,2026-02-19,unknown,decor,Vase,Burnaby,Alex,3,88.39,0.1,credit card,265.17,26.517000000000003,238.65300000000002,2026-02,2.0,Winter,2026.0
+ORD-10032,2026-05-14,C1092,furniture,Vintage Lamp,Richmond,unknown,1,162.66,0.0,cash,162.66,0.0,162.66,2026-05,5.0,Spring,2026.0
+ORD-11178,2026-03-01,C1154,decor,Vase,Burnaby,David,1,102.87,0.0,e-transfer,102.87,0.0,102.87,2026-03,3.0,Spring,2026.0
+ORD-10645,2025-05-03,C1146,furniture,Dining Chair,North Vancouver,Alex,5,213.37,0.0,debit,1066.85,0.0,1066.85,2025-05,5.0,Spring,2025.0
+ORD-10343,2025-02-01,C1198,furniture,Vintage Lamp,Richmond,Sara,2,212.56,0.0,credit card,425.12,0.0,425.12,2025-02,2.0,Winter,2025.0
+ORD-11043,2025-05-28,C1165,storage,Sideboard,Vancouver,Mina,4,904.58,0.0,e-transfer,3618.32,0.0,3618.32,2025-05,5.0,Spring,2025.0
+ORD-10588,2025-10-18,C1007,decor,Rug,Richmond,Sara,5,338.15,0.0,credit card,1690.75,0.0,1690.75,2025-10,10.0,Fall,2025.0
+ORD-10531,2026-06-03,C1073,storage,Storage Bench,Vancouver,Alex,1,297.05,0.0,credit card,297.05,0.0,297.05,2026-06,6.0,Summer,2026.0
+ORD-10821,2025-10-18,C1133,storage,Cabinet,Surrey,John,4,715.54,0.0,e-transfer,2862.16,0.0,2862.16,2025-10,10.0,Fall,2025.0
+ORD-10759,2026-03-24,C1100,decor,Vase,Vancouver,David,1,106.34,0.1,e-transfer,106.34,10.634,95.706,2026-03,3.0,Spring,2026.0
+ORD-10751,2025-04-23,C1188,storage,Sideboard,Richmond,Alex,5,869.47,0.0,e-transfer,4347.35,0.0,4347.35,2025-04,4.0,Spring,2025.0
+ORD-10314,2025-07-18,C1134,storage,Sideboard,North Vancouver,John,3,697.73,0.0,debit,2093.19,0.0,2093.19,2025-07,7.0,Summer,2025.0
+ORD-10236,2025-11-23,C1110,furniture,Coffee Table,Surrey,Alex,2,489.14,0.2,debit,978.28,195.656,782.624,2025-11,11.0,Fall,2025.0
+ORD-10021,2025-03-28,C1199,furniture,Dining Chair,Vancouver,David,4,212.69,0.05,cash,850.76,42.538000000000004,808.222,2025-03,3.0,Spring,2025.0
+ORD-11120,2025-08-16,C1082,storage,Sideboard,Richmond,Sara,1,777.22,0.0,debit,777.22,0.0,777.22,2025-08,8.0,Summer,2025.0
+ORD-11030,2025-11-13,C1172,furniture,Vintage Lamp,Vancouver,Sara,5,204.12,0.1,e-transfer,1020.6,102.06,918.54,2025-11,11.0,Fall,2025.0
+ORD-10095,2026-05-22,C1173,storage,Sideboard,North Vancouver,David,5,794.74,0.1,e-transfer,3973.7,397.37,3576.33,2026-05,5.0,Spring,2026.0
+ORD-10797,2025-12-18,C1041,storage,Storage Bench,Burnaby,Alex,2,392.18,0.15,e-transfer,784.36,117.654,666.706,2025-12,12.0,Winter,2025.0
+ORD-10185,2025-09-11,C1073,storage,Cabinet,North Vancouver,Alex,1,693.47,0.2,credit card,693.47,138.69400000000002,554.7760000000001,2025-09,9.0,Fall,2025.0
+ORD-10572,2025-05-29,C1248,storage,Storage Bench,Burnaby,Mina,3,289.27,0.05,debit,867.81,43.3905,824.4195,2025-05,5.0,Spring,2025.0
+ORD-10530,2025-06-04,C1007,decor,Rug,Vancouver,John,4,398.59,0.0,credit card,1594.36,0.0,1594.36,2025-06,6.0,Summer,2025.0
+ORD-10812,2025-12-17,C1199,decor,Art Print,Burnaby,Mina,2,134.13,0.05,e-transfer,268.26,13.413,254.84699999999998,2025-12,12.0,Winter,2025.0
+ORD-10455,2025-06-29,C1139,storage,Cabinet,Burnaby,Mina,4,678.77,0.0,debit,2715.08,0.0,2715.08,2025-06,6.0,Summer,2025.0
+ORD-10565,2026-02-24,C1062,storage,Cabinet,Surrey,John,2,774.11,0.0,cash,1548.22,0.0,1548.22,2026-02,2.0,Winter,2026.0
+ORD-10358,2025-02-25,C1168,decor,Rug,Surrey,Alex,1,421.08,0.0,cash,421.08,0.0,421.08,2025-02,2.0,Winter,2025.0
+ORD-10471,2025-05-12,C1033,furniture,Dining Chair,Burnaby,John,2,272.25,0.1,debit,544.5,54.45,490.05,2025-05,5.0,Spring,2025.0
+ORD-10332,2025-02-12,C1036,storage,Sideboard,Burnaby,Mina,2,792.76,0.1,debit,1585.52,158.55200000000002,1426.9679999999998,2025-02,2.0,Winter,2025.0
+ORD-10918,2025-12-21,C1022,storage,Storage Bench,Richmond,Alex,1,292.18,0.05,debit,292.18,14.609000000000002,277.571,2025-12,12.0,Winter,2025.0
+ORD-10817,2026-06-12,C1086,storage,Cabinet,North Vancouver,Mina,5,714.06,0.05,credit card,3570.2999999999997,178.515,3391.785,2026-06,6.0,Summer,2026.0
+ORD-10609,2025-02-19,C1169,storage,Cabinet,North Vancouver,Mina,5,588.57,0.0,credit card,2942.8500000000004,0.0,2942.8500000000004,2025-02,2.0,Winter,2025.0
+ORD-10854,2025-01-26,C1196,storage,Sideboard,North Vancouver,Mina,3,782.98,0.0,cash,2348.94,0.0,2348.94,2025-01,1.0,Winter,2025.0
+ORD-10302,2025-05-23,C1010,storage,Storage Bench,Surrey,John,4,376.34,0.05,debit,1505.36,75.268,1430.0919999999999,2025-05,5.0,Spring,2025.0
+ORD-10339,2026-04-15,C1245,storage,Cabinet,Surrey,David,1,766.9,0.0,cash,766.9,0.0,766.9,2026-04,4.0,Spring,2026.0
+ORD-10294,2025-02-12,C1008,furniture,Vintage Lamp,Vancouver,Mina,2,215.36,0.0,cash,430.72,0.0,430.72,2025-02,2.0,Winter,2025.0
+ORD-10030,2026-06-21,C1006,storage,Storage Bench,Surrey,David,2,340.43,0.0,credit card,680.86,0.0,680.86,2026-06,6.0,Summer,2026.0
+ORD-10253,2025-04-29,C1048,storage,Cabinet,North Vancouver,Alex,2,618.78,0.05,cash,1237.56,61.878,1175.682,2025-04,4.0,Spring,2025.0
+ORD-11072,2026-07-04,C1031,furniture,Vintage Lamp,Richmond,John,3,190.75,0.0,unknown,572.25,0.0,572.25,2026-07,7.0,Summer,2026.0
+ORD-10743,2026-05-10,C1090,furniture,Vintage Lamp,Burnaby,David,4,179.52,0.0,cash,718.08,0.0,718.08,2026-05,5.0,Spring,2026.0
+ORD-10257,2025-04-16,C1180,decor,Vase,Burnaby,John,1,96.29,0.0,cash,96.29,0.0,96.29,2025-04,4.0,Spring,2025.0
+ORD-10198,2026-01-28,C1046,storage,Cabinet,North Vancouver,John,5,654.59,0.0,cash,3272.9500000000003,0.0,3272.9500000000003,2026-01,1.0,Winter,2026.0
+ORD-10428,2026-08-21,C1161,decor,Art Print,Surrey,Mina,1,111.22,0.05,cash,111.22,5.561,105.65899999999999,2026-08,8.0,Summer,2026.0
+ORD-10145,2025-01-14,C1202,decor,Art Print,Surrey,John,3,155.05,0.0,cash,465.15000000000003,0.0,465.15000000000003,2025-01,1.0,Winter,2025.0
+ORD-10431,2025-04-10,C1214,storage,Sideboard,Surrey,Alex,2,786.15,0.0,cash,1572.3,0.0,1572.3,2025-04,4.0,Spring,2025.0
+ORD-10073,2026-01-14,C1204,decor,Art Print,Surrey,Sara,3,149.23,0.0,credit card,447.68999999999994,0.0,447.68999999999994,2026-01,1.0,Winter,2026.0
+ORD-10924,2025-06-24,C1192,furniture,Coffee Table,Surrey,Sara,3,499.82,0.05,debit,1499.46,74.973,1424.487,2025-06,6.0,Summer,2025.0
+ORD-11179,2025-10-05,C1100,furniture,Bookshelf,Vancouver,David,2,520.64,0.2,cash,1041.28,208.256,833.024,2025-10,10.0,Fall,2025.0
+ORD-10899,2025-09-04,C1094,furniture,Dining Chair,Surrey,Sara,4,230.22,0.0,credit card,920.88,0.0,920.88,2025-09,9.0,Fall,2025.0
+ORD-10828,2026-01-08,C1043,decor,Wall Mirror,Burnaby,Alex,4,224.56,0.0,cash,898.24,0.0,898.24,2026-01,1.0,Winter,2026.0
+ORD-10054,2026-01-27,C1192,storage,Storage Bench,Surrey,Sara,3,373.41,0.05,debit,1120.23,56.011500000000005,1064.2185,2026-01,1.0,Winter,2026.0
+ORD-11003,2026-07-24,C1184,decor,Art Print,Vancouver,Alex,4,155.04,0.15,cash,620.16,93.02399999999999,527.136,2026-07,7.0,Summer,2026.0
+ORD-10636,2025-06-17,C1159,storage,Sideboard,Surrey,Mina,1,850.23,0.15,e-transfer,850.23,127.5345,722.6955,2025-06,6.0,Summer,2025.0
+ORD-10677,2025-12-18,C1165,storage,Cabinet,Burnaby,Alex,3,658.04,0.1,e-transfer,1974.12,197.412,1776.7079999999999,2025-12,12.0,Winter,2025.0
+ORD-11083,2025-12-18,C1067,furniture,Dining Chair,Richmond,Mina,2,280.85,0.0,cash,561.7,0.0,561.7,2025-12,12.0,Winter,2025.0
+ORD-10704,2026-06-08,C1241,storage,Cabinet,Richmond,Mina,3,689.73,0.0,debit,2069.19,0.0,2069.19,2026-06,6.0,Summer,2026.0
+ORD-10936,2026-05-17,C1159,furniture,Dining Chair,Richmond,David,1,254.87,0.0,debit,254.87,0.0,254.87,2026-05,5.0,Spring,2026.0
+ORD-10440,2026-04-01,C1067,storage,Storage Bench,Burnaby,John,5,346.9,0.15,cash,1734.5,260.175,1474.325,2026-04,4.0,Spring,2026.0
+ORD-11073,,C1157,storage,Storage Bench,North Vancouver,John,2,337.66,0.15,cash,675.32,101.298,574.022,,,,
+ORD-10003,2026-01-14,C1017,storage,Storage Bench,North Vancouver,Mina,2,368.06,0.0,cash,736.12,0.0,736.12,2026-01,1.0,Winter,2026.0
+ORD-10220,2025-10-07,C1235,furniture,Dining Chair,Burnaby,John,2,204.46,0.1,cash,408.92,40.892,368.028,2025-10,10.0,Fall,2025.0
+ORD-11015,2025-03-11,C1045,storage,Cabinet,North Vancouver,Alex,1,692.7,0.05,debit,692.7,34.635000000000005,658.065,2025-03,3.0,Spring,2025.0
+ORD-11198,2026-01-31,C1173,furniture,Vintage Lamp,Richmond,Sara,3,182.865,0.0,debit,548.595,0.0,548.595,2026-01,1.0,Winter,2026.0
+ORD-10973,2025-04-30,C1154,storage,Sideboard,Burnaby,Alex,1,765.92,0.0,e-transfer,765.92,0.0,765.92,2025-04,4.0,Spring,2025.0
+ORD-10999,2025-08-14,C1016,storage,Sideboard,North Vancouver,David,1,821.53,0.1,cash,821.53,82.153,739.377,2025-08,8.0,Summer,2025.0
+ORD-11112,2025-09-19,C1086,decor,Art Print,Richmond,John,3,141.58,0.0,cash,424.74,0.0,424.74,2025-09,9.0,Fall,2025.0
+ORD-10327,2025-04-03,C1176,decor,Art Print,Surrey,Sara,3,144.16,0.0,cash,432.48,0.0,432.48,2025-04,4.0,Spring,2025.0
+ORD-11055,2026-07-29,C1212,decor,Vase,Surrey,John,1,97.68,0.0,debit,97.68,0.0,97.68,2026-07,7.0,Summer,2026.0
+ORD-10696,2026-08-15,C1046,decor,Art Print,Surrey,Alex,3,140.26,0.15,credit card,420.78,63.11699999999999,357.663,2026-08,8.0,Summer,2026.0
+ORD-10129,2026-05-28,C1225,decor,Wall Mirror,Surrey,John,2,224.01,0.0,cash,448.02,0.0,448.02,2026-05,5.0,Spring,2026.0
+ORD-10389,2026-02-18,C1139,storage,Sideboard,Richmond,Alex,1,900.03,0.0,credit card,900.03,0.0,900.03,2026-02,2.0,Winter,2026.0
+ORD-10075,2026-06-15,C1093,furniture,Vintage Lamp,Vancouver,Alex,2,197.7,0.0,credit card,395.4,0.0,395.4,2026-06,6.0,Summer,2026.0
+ORD-11086,2026-01-26,C1017,decor,Art Print,North Vancouver,David,5,120.08,0.0,debit,600.4,0.0,600.4,2026-01,1.0,Winter,2026.0
+ORD-10760,2025-05-26,C1025,decor,Rug,Vancouver,Mina,5,368.93,0.1,e-transfer,1844.65,184.46500000000003,1660.185,2025-05,5.0,Spring,2025.0
+ORD-11049,2026-04-23,C1192,decor,Wall Mirror,Burnaby,Mina,1,237.63,0.05,cash,237.63,11.8815,225.7485,2026-04,4.0,Spring,2026.0
+ORD-10203,2025-02-09,C1150,decor,Art Print,North Vancouver,Alex,5,110.55,0.0,e-transfer,552.75,0.0,552.75,2025-02,2.0,Winter,2025.0
+ORD-10856,2025-01-24,C1179,decor,Wall Mirror,Surrey,Sara,2,195.21,0.15,e-transfer,390.42,58.563,331.857,2025-01,1.0,Winter,2025.0
+ORD-10897,2025-04-24,C1166,storage,Storage Bench,Vancouver,Sara,5,307.99,0.1,credit card,1539.95,153.995,1385.955,2025-04,4.0,Spring,2025.0
+ORD-10922,2025-07-28,C1114,storage,Sideboard,Burnaby,David,5,892.21,0.1,e-transfer,4461.05,446.105,4014.945,2025-07,7.0,Summer,2025.0
+ORD-10613,2025-02-02,C1248,furniture,Dining Chair,Richmond,Alex,5,265.98,0.0,debit,1329.9,0.0,1329.9,2025-02,2.0,Winter,2025.0
+ORD-10056,2026-03-12,unknown,decor,Wall Mirror,Vancouver,John,4,184.71,0.2,cash,738.84,147.768,591.072,2026-03,3.0,Spring,2026.0
+ORD-10914,2026-07-02,C1157,furniture,Bookshelf,Richmond,Alex,2,648.58,0.0,e-transfer,1297.16,0.0,1297.16,2026-07,7.0,Summer,2026.0
+ORD-10288,2025-08-26,C1090,storage,Cabinet,Surrey,Mina,5,767.52,0.0,debit,3837.6,0.0,3837.6,2025-08,8.0,Summer,2025.0
+ORD-10377,2025-02-25,C1177,storage,Sideboard,Surrey,Sara,1,816.43,0.0,e-transfer,816.43,0.0,816.43,2025-02,2.0,Winter,2025.0
+ORD-10295,2026-04-10,C1077,storage,Sideboard,Surrey,Mina,1,835.24,0.15,e-transfer,835.24,125.286,709.954,2026-04,4.0,Spring,2026.0
+ORD-10491,2026-04-25,C1233,furniture,Dining Chair,Vancouver,Sara,3,284.45,0.15,cash,853.3499999999999,128.00249999999997,725.3475,2026-04,4.0,Spring,2026.0
+ORD-11004,2026-06-07,C1143,furniture,Bookshelf,North Vancouver,David,1,505.73,0.0,credit card,505.73,0.0,505.73,2026-06,6.0,Summer,2026.0
+ORD-10461,2026-02-10,C1072,decor,Vase,Vancouver,David,1,108.72,0.2,cash,108.72,21.744,86.976,2026-02,2.0,Winter,2026.0
+ORD-10361,2025-09-13,C1013,storage,Storage Bench,Richmond,Mina,5,318.36,0.05,debit,1591.8000000000002,79.59000000000002,1512.2100000000003,2025-09,9.0,Fall,2025.0
+ORD-10586,2025-04-14,C1132,storage,Sideboard,Richmond,Alex,5,811.33,0.1,cash,4056.65,405.665,3650.985,2025-04,4.0,Spring,2025.0
+ORD-10214,2026-07-14,C1068,decor,Rug,Richmond,John,5,384.94,0.0,e-transfer,1924.7,0.0,1924.7,2026-07,7.0,Summer,2026.0
+ORD-10197,2025-04-16,C1016,storage,Cabinet,Burnaby,Alex,2,592.39,0.1,cash,1184.78,118.47800000000001,1066.302,2025-04,4.0,Spring,2025.0
+ORD-10017,2026-08-05,C1198,decor,Vase,Richmond,Alex,4,106.64,0.1,debit,426.56,42.656000000000006,383.904,2026-08,8.0,Summer,2026.0
+ORD-10192,2025-04-03,C1128,storage,Cabinet,Vancouver,David,2,673.95,0.0,credit card,1347.9,0.0,1347.9,2025-04,4.0,Spring,2025.0
+ORD-10150,2025-06-05,C1023,furniture,Dining Chair,North Vancouver,David,3,207.79,0.0,e-transfer,623.37,0.0,623.37,2025-06,6.0,Summer,2025.0
+ORD-10372,2026-07-24,C1123,decor,Wall Mirror,Vancouver,John,4,233.52,0.15,debit,934.08,140.112,793.9680000000001,2026-07,7.0,Summer,2026.0
+ORD-10543,2025-01-26,C1075,furniture,Coffee Table,Vancouver,Sara,1,368.66,0.1,debit,368.66,36.86600000000001,331.79400000000004,2025-01,1.0,Winter,2025.0
+ORD-10111,2026-08-23,C1134,decor,Rug,Vancouver,Sara,3,371.95,0.0,e-transfer,1115.85,0.0,1115.85,2026-08,8.0,Summer,2026.0
+ORD-10078,2025-11-02,C1033,furniture,Vintage Lamp,Vancouver,John,3,178.45,0.0,credit card,535.3499999999999,0.0,535.3499999999999,2025-11,11.0,Fall,2025.0
+ORD-10501,2025-03-08,C1065,decor,Art Print,Burnaby,David,3,114.12,0.1,cash,342.36,34.236000000000004,308.124,2025-03,3.0,Spring,2025.0
+ORD-10592,2025-11-08,C1235,furniture,Dining Chair,Richmond,Mina,1,228.57,0.1,cash,228.57,22.857,205.713,2025-11,11.0,Fall,2025.0
+ORD-10474,2025-12-19,C1019,storage,Cabinet,Surrey,Alex,2,605.41,0.0,debit,1210.82,0.0,1210.82,2025-12,12.0,Winter,2025.0
+ORD-10855,2025-04-16,C1090,furniture,Dining Chair,North Vancouver,John,5,222.44,0.0,e-transfer,1112.2,0.0,1112.2,2025-04,4.0,Spring,2025.0
+ORD-10365,2025-12-05,C1085,storage,Cabinet,Richmond,Sara,2,716.54,0.0,cash,1433.08,0.0,1433.08,2025-12,12.0,Winter,2025.0
+ORD-10796,2025-02-19,C1138,decor,Vase,Burnaby,Alex,3,89.92,0.1,cash,269.76,26.976,242.784,2025-02,2.0,Winter,2025.0
+ORD-11019,2026-04-03,C1134,decor,Vase,North Vancouver,Mina,1,93.61,0.0,credit card,93.61,0.0,93.61,2026-04,4.0,Spring,2026.0
+ORD-10120,2025-09-17,C1185,storage,Sideboard,Vancouver,David,5,672.79,0.2,credit card,3363.95,672.79,2691.16,2025-09,9.0,Fall,2025.0
+ORD-10514,2025-07-09,C1187,storage,Storage Bench,Richmond,Alex,3,304.21,0.0,cash,912.6299999999999,0.0,912.6299999999999,2025-07,7.0,Summer,2025.0
+ORD-10591,2026-08-22,C1115,decor,Vase,North Vancouver,Alex,5,84.56,0.15,e-transfer,422.8,63.42,359.38,2026-08,8.0,Summer,2026.0
+ORD-10781,2025-09-29,C1002,furniture,Dining Chair,Richmond,Alex,2,275.95,0.1,credit card,551.9,55.19,496.71,2025-09,9.0,Fall,2025.0
+ORD-10493,2026-07-03,C1228,furniture,Vintage Lamp,Vancouver,Alex,4,203.23,0.2,e-transfer,812.92,162.584,650.336,2026-07,7.0,Summer,2026.0
+ORD-11090,2025-05-29,C1167,furniture,Bookshelf,Burnaby,Sara,1,656.91,0.05,cash,656.91,32.8455,624.0645,2025-05,5.0,Spring,2025.0
+ORD-10612,2025-07-27,C1094,storage,Cabinet,Burnaby,John,1,732.38,0.15,e-transfer,732.38,109.857,622.523,2025-07,7.0,Summer,2025.0
+ORD-10250,2026-07-31,C1158,storage,Storage Bench,North Vancouver,David,5,323.34,0.0,e-transfer,1616.6999999999998,0.0,1616.6999999999998,2026-07,7.0,Summer,2026.0
+ORD-10000,2025-09-21,C1051,furniture,Bookshelf,Vancouver,Mina,4,644.29,0.1,cash,2577.16,257.716,2319.444,2025-09,9.0,Fall,2025.0
+ORD-10167,2025-04-02,C1039,storage,Cabinet,North Vancouver,Alex,3,696.34,0.0,debit,2089.02,0.0,2089.02,2025-04,4.0,Spring,2025.0
+ORD-10354,2025-08-20,C1082,storage,Sideboard,Vancouver,Alex,3,755.55,0.0,credit card,2266.6499999999996,0.0,2266.6499999999996,2025-08,8.0,Summer,2025.0
+ORD-10483,2025-09-10,C1077,storage,Sideboard,Vancouver,Mina,3,767.82,0.2,cash,2303.46,460.692,1842.768,2025-09,9.0,Fall,2025.0
+ORD-10907,2026-03-20,C1061,furniture,Bookshelf,North Vancouver,Mina,1,664.26,0.0,debit,664.26,0.0,664.26,2026-03,3.0,Spring,2026.0
+ORD-10790,2025-05-16,C1138,decor,Wall Mirror,Vancouver,David,1,235.77,0.0,credit card,235.77,0.0,235.77,2025-05,5.0,Spring,2025.0
+ORD-10305,2026-08-01,C1107,decor,Vase,Burnaby,Sara,5,95.73,0.0,credit card,478.65000000000003,0.0,478.65000000000003,2026-08,8.0,Summer,2026.0
+ORD-11002,2026-01-11,C1248,storage,Cabinet,Vancouver,Mina,1,579.91,0.0,cash,579.91,0.0,579.91,2026-01,1.0,Winter,2026.0
+ORD-10238,2025-09-25,C1022,decor,Rug,Vancouver,David,4,458.54,0.05,credit card,1834.16,91.70800000000001,1742.452,2025-09,9.0,Fall,2025.0
+ORD-10822,2025-05-31,C1196,decor,Rug,Burnaby,John,2,417.64,0.0,e-transfer,835.28,0.0,835.28,2025-05,5.0,Spring,2025.0
+ORD-10833,2026-01-05,C1066,storage,Sideboard,Surrey,Alex,3,722.55,0.1,credit card,2167.6499999999996,216.765,1950.8849999999998,2026-01,1.0,Winter,2026.0
+ORD-10268,2025-09-17,C1153,furniture,Dining Chair,Surrey,Mina,5,225.25,0.1,debit,1126.25,112.625,1013.625,2025-09,9.0,Fall,2025.0
+ORD-10154,2025-06-01,C1094,decor,Wall Mirror,Richmond,Mina,1,190.28,0.15,e-transfer,190.28,28.541999999999998,161.738,2025-06,6.0,Summer,2025.0
+ORD-10742,2026-02-01,C1171,decor,Art Print,Vancouver,Alex,5,134.52,0.0,e-transfer,672.6,0.0,672.6,2026-02,2.0,Winter,2026.0
+ORD-10886,2026-07-05,C1124,decor,Wall Mirror,Vancouver,Alex,1,208.41,0.0,e-transfer,208.41,0.0,208.41,2026-07,7.0,Summer,2026.0
+ORD-10114,2025-07-25,C1241,storage,Sideboard,Surrey,Mina,5,777.76,0.2,e-transfer,3888.8,777.7600000000001,3111.04,2025-07,7.0,Summer,2025.0
+ORD-10975,2026-06-03,C1107,storage,Storage Bench,Vancouver,Alex,5,283.24,0.0,cash,1416.2,0.0,1416.2,2026-06,6.0,Summer,2026.0
+ORD-10210,2025-08-29,C1022,decor,Wall Mirror,Richmond,John,2,202.31,0.2,cash,404.62,80.924,323.696,2025-08,8.0,Summer,2025.0
+ORD-10226,2025-10-06,C1157,storage,Sideboard,Surrey,Sara,3,851.4,0.0,debit,2554.2,0.0,2554.2,2025-10,10.0,Fall,2025.0
+ORD-10908,2025-09-25,C1129,storage,Sideboard,Surrey,John,4,664.6,0.05,credit card,2658.4,132.92000000000002,2525.48,2025-09,9.0,Fall,2025.0
+ORD-10869,2025-09-27,C1084,furniture,Dining Chair,Burnaby,Sara,3,235.51,0.0,credit card,706.53,0.0,706.53,2025-09,9.0,Fall,2025.0
+ORD-11151,2026-05-01,C1110,furniture,Coffee Table,Surrey,unknown,5,502.14,0.0,e-transfer,2510.7,0.0,2510.7,2026-05,5.0,Spring,2026.0
+ORD-10299,2025-06-27,C1085,decor,Rug,Richmond,David,1,409.15,0.0,e-transfer,409.15,0.0,409.15,2025-06,6.0,Summer,2025.0
+ORD-10477,2025-03-04,C1211,furniture,Dining Chair,Richmond,Alex,3,238.85,0.0,credit card,716.55,0.0,716.55,2025-03,3.0,Spring,2025.0
+ORD-10355,2026-03-30,C1012,furniture,Vintage Lamp,Richmond,Alex,2,215.42,0.15,e-transfer,430.84,64.62599999999999,366.214,2026-03,3.0,Spring,2026.0
+ORD-11163,2026-02-28,C1143,storage,Storage Bench,Burnaby,David,1,392.4,0.2,cash,392.4,78.48,313.91999999999996,2026-02,2.0,Winter,2026.0
+ORD-10672,2025-11-24,C1165,storage,Sideboard,Burnaby,John,2,696.86,0.0,cash,1393.72,0.0,1393.72,2025-11,11.0,Fall,2025.0
+ORD-10259,2026-04-03,C1158,storage,Cabinet,Surrey,Sara,3,764.08,0.0,cash,2292.2400000000002,0.0,2292.2400000000002,2026-04,4.0,Spring,2026.0
+ORD-10888,2025-07-26,C1071,storage,Sideboard,Burnaby,Mina,1,872.07,0.1,credit card,872.07,87.20700000000001,784.863,2025-07,7.0,Summer,2025.0
+ORD-10630,2026-05-17,C1090,decor,Wall Mirror,Richmond,Alex,3,247.07,0.0,cash,741.21,0.0,741.21,2026-05,5.0,Spring,2026.0
+ORD-11060,2026-01-19,C1237,decor,Vase,North Vancouver,John,1,98.04,0.0,debit,98.04,0.0,98.04,2026-01,1.0,Winter,2026.0
+ORD-11115,2025-02-05,C1093,decor,Vase,Richmond,Sara,4,110.42,0.1,debit,441.68,44.168000000000006,397.512,2025-02,2.0,Winter,2025.0
+ORD-10334,2026-06-16,C1068,furniture,Vintage Lamp,Vancouver,Sara,2,183.82,0.0,e-transfer,367.64,0.0,367.64,2026-06,6.0,Summer,2026.0
+ORD-11025,2026-03-09,C1211,storage,Storage Bench,Richmond,David,2,321.9,0.0,credit card,643.8,0.0,643.8,2026-03,3.0,Spring,2026.0
+ORD-10974,2026-06-18,C1177,furniture,Dining Chair,Vancouver,John,1,283.07,0.0,cash,283.07,0.0,283.07,2026-06,6.0,Summer,2026.0
+ORD-10670,2025-04-27,C1184,storage,Cabinet,Surrey,David,5,624.13,0.15,cash,3120.65,468.09749999999997,2652.5525000000002,2025-04,4.0,Spring,2025.0
+ORD-11024,2026-01-26,C1184,furniture,Coffee Table,North Vancouver,John,4,470.68,0.0,e-transfer,1882.72,0.0,1882.72,2026-01,1.0,Winter,2026.0
+ORD-11065,2026-01-11,C1095,decor,Wall Mirror,Surrey,Sara,3,201.94,0.0,cash,605.8199999999999,0.0,605.8199999999999,2026-01,1.0,Winter,2026.0
+ORD-10546,2025-11-17,C1159,furniture,Dining Chair,Surrey,Mina,3,231.2,0.0,credit card,693.5999999999999,0.0,693.5999999999999,2025-11,11.0,Fall,2025.0
+ORD-10144,2026-06-27,C1126,decor,Wall Mirror,Vancouver,Sara,4,242.12,0.1,credit card,968.48,96.84800000000001,871.6320000000001,2026-06,6.0,Summer,2026.0
+ORD-10580,2026-02-28,C1137,furniture,Dining Chair,Surrey,Sara,2,274.42,0.05,e-transfer,548.84,27.442000000000004,521.398,2026-02,2.0,Winter,2026.0
+ORD-10329,2025-05-12,C1131,storage,Cabinet,Surrey,Sara,2,658.04,0.2,credit card,1316.08,263.216,1052.864,2025-05,5.0,Spring,2025.0
+ORD-11034,2026-02-11,C1232,furniture,Vintage Lamp,Vancouver,Sara,5,177.93,0.0,cash,889.6500000000001,0.0,889.6500000000001,2026-02,2.0,Winter,2026.0
+ORD-10419,2026-05-17,C1229,storage,Cabinet,Richmond,John,2,585.68,0.0,credit card,1171.36,0.0,1171.36,2026-05,5.0,Spring,2026.0
+ORD-11189,2026-02-11,C1068,furniture,Dining Chair,Surrey,John,3,215.42,0.0,credit card,646.26,0.0,646.26,2026-02,2.0,Winter,2026.0
+ORD-10769,2025-06-22,C1140,storage,Cabinet,Richmond,Alex,3,583.45,0.05,e-transfer,1750.3500000000001,87.51750000000001,1662.8325000000002,2025-06,6.0,Summer,2025.0
+ORD-10297,2025-04-03,C1173,storage,Cabinet,Burnaby,John,3,608.55,0.15,e-transfer,1825.6499999999999,273.84749999999997,1551.8024999999998,2025-04,4.0,Spring,2025.0
+ORD-10705,2025-01-20,C1177,storage,Storage Bench,Vancouver,Mina,4,365.08,0.1,credit card,1460.32,146.032,1314.288,2025-01,1.0,Winter,2025.0
+ORD-10408,2025-12-18,C1048,storage,Sideboard,Surrey,David,4,842.45,0.1,cash,3369.8,336.98,3032.82,2025-12,12.0,Winter,2025.0
+ORD-11062,2026-02-27,C1091,furniture,Bookshelf,Burnaby,Alex,2,531.72,0.0,cash,1063.44,0.0,1063.44,2026-02,2.0,Winter,2026.0
+ORD-10606,2025-05-10,C1162,decor,Rug,Burnaby,Alex,1,441.32,0.05,credit card,441.32,22.066000000000003,419.254,2025-05,5.0,Spring,2025.0
+ORD-10892,2026-01-26,C1157,decor,Art Print,Richmond,David,4,151.65,0.15,debit,606.6,90.99,515.61,2026-01,1.0,Winter,2026.0
+ORD-10497,2025-12-30,C1125,storage,Cabinet,Vancouver,John,4,567.6,0.0,e-transfer,2270.4,0.0,2270.4,2025-12,12.0,Winter,2025.0
+ORD-10107,2025-05-21,C1111,decor,Wall Mirror,Vancouver,John,5,224.21,0.15,e-transfer,1121.05,168.1575,952.8924999999999,2025-05,5.0,Spring,2025.0
+ORD-11105,2025-02-06,C1056,decor,Art Print,Surrey,Mina,4,150.58,0.05,debit,602.32,30.116000000000003,572.2040000000001,2025-02,2.0,Winter,2025.0
+ORD-10125,2025-07-13,C1216,decor,Vase,Surrey,unknown,2,88.81,0.0,credit card,177.62,0.0,177.62,2025-07,7.0,Summer,2025.0
+ORD-10470,2026-02-12,C1244,storage,Cabinet,North Vancouver,John,4,564.8,0.2,unknown,2259.2,451.84,1807.36,2026-02,2.0,Winter,2026.0
+ORD-10420,2025-12-04,C1073,decor,Wall Mirror,North Vancouver,Mina,2,205.55,0.05,credit card,411.1,20.555000000000003,390.545,2025-12,12.0,Winter,2025.0
+ORD-10741,2025-10-21,C1033,storage,Sideboard,North Vancouver,Mina,3,814.44,0.0,cash,2443.32,0.0,2443.32,2025-10,10.0,Fall,2025.0
+ORD-11149,2025-03-16,C1217,furniture,Vintage Lamp,Surrey,Mina,1,211.36,0.0,cash,211.36,0.0,211.36,2025-03,3.0,Spring,2025.0
+ORD-10246,2026-08-20,C1231,storage,Sideboard,Richmond,John,2,795.75,0.0,credit card,1591.5,0.0,1591.5,2026-08,8.0,Summer,2026.0
+ORD-10267,2026-05-04,C1086,furniture,Coffee Table,North Vancouver,Mina,5,391.58,0.0,debit,1957.8999999999999,0.0,1957.8999999999999,2026-05,5.0,Spring,2026.0
+ORD-10545,2025-12-23,C1143,storage,Storage Bench,Surrey,Mina,2,354.61,0.1,cash,709.22,70.92200000000001,638.298,2025-12,12.0,Winter,2025.0
+ORD-10049,2026-06-26,C1145,storage,Storage Bench,Surrey,Alex,5,393.64,0.1,e-transfer,1968.1999999999998,196.82,1771.3799999999999,2026-06,6.0,Summer,2026.0
+ORD-10161,2025-04-09,C1042,storage,Storage Bench,Burnaby,John,1,344.54,0.0,credit card,344.54,0.0,344.54,2025-04,4.0,Spring,2025.0
+ORD-10207,2025-02-03,unknown,decor,Vase,Surrey,Mina,2,92.63,0.0,credit card,185.26,0.0,185.26,2025-02,2.0,Winter,2025.0
+ORD-10577,2025-06-22,C1018,decor,Wall Mirror,Surrey,David,2,233.72,0.1,debit,467.44,46.744,420.696,2025-06,6.0,Summer,2025.0
+ORD-10513,2025-06-10,C1063,furniture,Coffee Table,Surrey,David,4,389.63,0.0,cash,1558.52,0.0,1558.52,2025-06,6.0,Summer,2025.0
+ORD-10067,2025-03-08,C1172,storage,Storage Bench,Burnaby,Alex,3,395.66,0.15,cash,1186.98,178.047,1008.933,2025-03,3.0,Spring,2025.0
+ORD-11162,2026-07-25,C1177,storage,Cabinet,North Vancouver,John,5,680.18,0.0,credit card,3400.8999999999996,0.0,3400.8999999999996,2026-07,7.0,Summer,2026.0
+ORD-10345,2025-09-26,C1216,storage,Storage Bench,Burnaby,David,1,334.78,0.15,e-transfer,334.78,50.21699999999999,284.563,2025-09,9.0,Fall,2025.0
+ORD-10342,2026-05-21,C1038,furniture,Dining Chair,North Vancouver,David,1,231.21,0.0,debit,231.21,0.0,231.21,2026-05,5.0,Spring,2026.0
+ORD-10706,2026-06-05,C1159,decor,Vase,Surrey,John,5,98.61,0.1,cash,493.05,49.30500000000001,443.745,2026-06,6.0,Summer,2026.0
+ORD-10799,2025-04-19,C1170,decor,Vase,North Vancouver,Mina,2,86.99,0.0,cash,173.98,0.0,173.98,2025-04,4.0,Spring,2025.0
+ORD-10758,2025-06-20,C1059,furniture,Coffee Table,Vancouver,Mina,3,367.36,0.1,e-transfer,1102.08,110.208,991.872,2025-06,6.0,Summer,2025.0
+ORD-10001,2026-04-17,C1126,storage,Storage Bench,Burnaby,Sara,4,295.3,0.0,cash,1181.2,0.0,1181.2,2026-04,4.0,Spring,2026.0
+ORD-10307,2026-07-19,C1049,storage,Cabinet,Burnaby,David,1,590.58,0.05,e-transfer,590.58,29.529000000000003,561.051,2026-07,7.0,Summer,2026.0
+ORD-10881,2025-11-29,C1185,furniture,Bookshelf,Burnaby,Alex,4,536.2,0.05,debit,2144.8,107.24000000000001,2037.5600000000002,2025-11,11.0,Fall,2025.0
+ORD-10825,2026-03-22,C1157,decor,Wall Mirror,Burnaby,John,2,195.99,0.2,credit card,391.98,78.39600000000002,313.584,2026-03,3.0,Spring,2026.0
+ORD-11074,2025-04-02,C1003,storage,Cabinet,Surrey,David,1,709.5,0.0,cash,709.5,0.0,709.5,2025-04,4.0,Spring,2025.0
+ORD-10644,2025-07-14,C1042,furniture,Bookshelf,Surrey,Alex,3,586.51,0.0,debit,1759.53,0.0,1759.53,2025-07,7.0,Summer,2025.0
+ORD-10757,2025-10-24,C1177,decor,Rug,North Vancouver,David,4,380.03,0.0,debit,1520.12,0.0,1520.12,2025-10,10.0,Fall,2025.0
+ORD-10005,2026-08-04,C1020,storage,Storage Bench,Richmond,Alex,2,318.13,0.0,credit card,636.26,0.0,636.26,2026-08,8.0,Summer,2026.0
+ORD-10935,2026-03-03,C1110,decor,Wall Mirror,Surrey,John,3,199.59,0.1,credit card,598.77,59.877,538.893,2026-03,3.0,Spring,2026.0
+ORD-11088,2025-02-20,C1077,furniture,Coffee Table,Surrey,Alex,2,397.29,0.2,credit card,794.58,158.91600000000003,635.664,2025-02,2.0,Winter,2025.0
+ORD-10619,2026-05-15,C1203,storage,Storage Bench,North Vancouver,Mina,5,364.85,0.1,debit,1824.25,182.425,1641.825,2026-05,5.0,Spring,2026.0
+ORD-10638,2026-01-10,unknown,storage,Storage Bench,Richmond,Mina,4,335.47,0.05,debit,1341.88,67.09400000000001,1274.786,2026-01,1.0,Winter,2026.0
+ORD-10792,2025-10-17,C1119,furniture,Dining Chair,Richmond,Alex,1,281.63,0.05,cash,281.63,14.0815,267.5485,2025-10,10.0,Fall,2025.0
+ORD-10990,2025-12-23,C1224,furniture,Coffee Table,Vancouver,Mina,4,378.72,0.1,debit,1514.88,151.48800000000003,1363.392,2025-12,12.0,Winter,2025.0
+ORD-10615,2025-12-27,C1060,storage,Cabinet,Surrey,John,2,573.49,0.05,debit,1146.98,57.349000000000004,1089.631,2025-12,12.0,Winter,2025.0
+ORD-10008,2025-03-25,C1200,furniture,Coffee Table,Surrey,Alex,4,386.39,0.0,e-transfer,1545.56,0.0,1545.56,2025-03,3.0,Spring,2025.0
+ORD-10033,2025-07-06,C1125,furniture,Vintage Lamp,Richmond,Mina,2,201.98,0.2,credit card,403.96,80.792,323.168,2025-07,7.0,Summer,2025.0
+ORD-10583,2026-05-28,C1097,decor,Vase,Vancouver,Alex,3,94.52,0.05,e-transfer,283.56,14.178,269.382,2026-05,5.0,Spring,2026.0
+ORD-10121,2025-02-09,C1198,furniture,Vintage Lamp,Burnaby,Sara,3,181.67,0.05,credit card,545.01,27.250500000000002,517.7595,2025-02,2.0,Winter,2025.0
+ORD-10510,2025-09-23,C1080,furniture,Coffee Table,Burnaby,Sara,5,392.94,0.15,debit,1964.7,294.705,1669.9950000000001,2025-09,9.0,Fall,2025.0
+ORD-10181,2026-04-03,C1175,storage,Storage Bench,Burnaby,Alex,2,336.01,0.0,e-transfer,672.02,0.0,672.02,2026-04,4.0,Spring,2026.0
+ORD-10409,2025-11-19,C1027,storage,Sideboard,Burnaby,John,5,828.49,0.0,e-transfer,4142.45,0.0,4142.45,2025-11,11.0,Fall,2025.0
+ORD-11087,2025-05-12,C1048,decor,Wall Mirror,Burnaby,David,5,203.67,0.2,credit card,1018.3499999999999,203.67,814.68,2025-05,5.0,Spring,2025.0
+ORD-11136,2025-04-25,C1092,storage,Sideboard,Surrey,John,3,696.72,0.2,cash,2090.16,418.032,1672.128,2025-04,4.0,Spring,2025.0
+ORD-10160,2025-09-18,C1046,decor,Art Print,North Vancouver,unknown,5,116.49,0.0,debit,582.4499999999999,0.0,582.4499999999999,2025-09,9.0,Fall,2025.0
+ORD-10762,2025-08-07,C1077,storage,Cabinet,North Vancouver,John,4,745.57,0.0,credit card,2982.28,0.0,2982.28,2025-08,8.0,Summer,2025.0
+ORD-10921,2025-04-29,C1183,storage,Cabinet,Burnaby,Mina,1,769.66,0.1,cash,769.66,76.96600000000001,692.694,2025-04,4.0,Spring,2025.0
+ORD-10972,2026-01-28,C1228,storage,Cabinet,North Vancouver,John,2,677.5,0.0,e-transfer,1355.0,0.0,1355.0,2026-01,1.0,Winter,2026.0
+ORD-10388,2025-10-26,C1079,furniture,Coffee Table,North Vancouver,David,3,442.32,0.0,credit card,1326.96,0.0,1326.96,2025-10,10.0,Fall,2025.0
+ORD-10953,2025-03-02,C1078,furniture,Vintage Lamp,Vancouver,Alex,5,201.09,0.0,cash,1005.45,0.0,1005.45,2025-03,3.0,Spring,2025.0
+ORD-10235,2026-08-09,C1157,decor,Rug,Vancouver,John,1,446.45,0.2,cash,446.45,89.29,357.15999999999997,2026-08,8.0,Summer,2026.0
+ORD-11157,2025-12-24,C1213,decor,Art Print,Surrey,John,2,127.91,0.1,e-transfer,255.82,25.582,230.238,2025-12,12.0,Winter,2025.0
+ORD-10384,2025-07-14,C1074,storage,Sideboard,Richmond,Alex,1,805.43,0.0,cash,805.43,0.0,805.43,2025-07,7.0,Summer,2025.0
+ORD-10877,2026-06-16,C1183,decor,Wall Mirror,Burnaby,John,5,205.58,0.0,cash,1027.9,0.0,1027.9,2026-06,6.0,Summer,2026.0
+ORD-10464,2026-02-20,C1145,furniture,Vintage Lamp,North Vancouver,Mina,4,196.27,0.05,debit,785.08,39.254000000000005,745.826,2026-02,2.0,Winter,2026.0
+ORD-11161,2025-04-14,C1185,furniture,Coffee Table,Surrey,John,5,444.85,0.05,debit,2224.25,111.2125,2113.0375,2025-04,4.0,Spring,2025.0
+ORD-11052,2025-04-02,C1017,furniture,Bookshelf,Richmond,David,5,611.6,0.05,e-transfer,3058.0,152.9,2905.1,2025-04,4.0,Spring,2025.0
+ORD-10858,2025-06-16,C1246,decor,Rug,Richmond,Alex,4,421.38,0.0,credit card,1685.52,0.0,1685.52,2025-06,6.0,Summer,2025.0
+ORD-10271,2025-04-24,C1109,furniture,Dining Chair,Richmond,Alex,2,220.42,0.0,cash,440.84,0.0,440.84,2025-04,4.0,Spring,2025.0
+ORD-10240,2025-01-30,C1038,furniture,Vintage Lamp,Vancouver,Sara,3,162.68,0.0,e-transfer,488.04,0.0,488.04,2025-01,1.0,Winter,2025.0
+ORD-10780,2025-01-28,C1194,storage,Storage Bench,North Vancouver,David,5,368.29,0.1,debit,1841.45,184.145,1657.305,2025-01,1.0,Winter,2025.0
+ORD-10929,2025-03-18,C1058,storage,Cabinet,North Vancouver,Alex,1,775.96,0.1,cash,775.96,77.596,698.364,2025-03,3.0,Spring,2025.0
+ORD-10475,2025-09-16,C1135,decor,Vase,Surrey,David,2,107.85,0.0,cash,215.7,0.0,215.7,2025-09,9.0,Fall,2025.0
+ORD-10248,2025-10-13,C1180,decor,Rug,Surrey,Alex,2,339.74,0.1,cash,679.48,67.94800000000001,611.532,2025-10,10.0,Fall,2025.0
+ORD-11104,2026-06-30,C1093,decor,Wall Mirror,Burnaby,David,2,225.67,0.05,e-transfer,451.34,22.567,428.77299999999997,2026-06,6.0,Summer,2026.0
+ORD-10560,2025-07-27,C1032,storage,Cabinet,Burnaby,Alex,1,685.62,0.05,debit,685.62,34.281,651.339,2025-07,7.0,Summer,2025.0
+ORD-10482,2026-01-02,C1098,decor,Art Print,North Vancouver,Mina,4,155.39,0.0,credit card,621.56,0.0,621.56,2026-01,1.0,Winter,2026.0
+ORD-10952,2026-02-16,C1129,furniture,Bookshelf,North Vancouver,David,5,496.41,0.0,cash,2482.05,0.0,2482.05,2026-02,2.0,Winter,2026.0
+ORD-10050,2025-03-22,C1242,decor,Rug,North Vancouver,John,4,404.67,0.05,debit,1618.68,80.93400000000001,1537.746,2025-03,3.0,Spring,2025.0
+ORD-10274,2025-10-06,C1053,furniture,Vintage Lamp,North Vancouver,Mina,3,171.23,0.1,cash,513.6899999999999,51.369,462.3209999999999,2025-10,10.0,Fall,2025.0
+ORD-10486,2026-05-28,C1195,storage,Cabinet,North Vancouver,Mina,2,560.34,0.1,credit card,1120.68,112.06800000000001,1008.6120000000001,2026-05,5.0,Spring,2026.0
+ORD-10681,2026-01-06,C1120,furniture,Coffee Table,Vancouver,Alex,1,367.77,0.0,cash,367.77,0.0,367.77,2026-01,1.0,Winter,2026.0
+ORD-10887,2025-01-25,C1231,storage,Storage Bench,Surrey,David,2,297.28,0.0,cash,594.56,0.0,594.56,2025-01,1.0,Winter,2025.0
+ORD-10660,2025-03-19,C1233,decor,Vase,Burnaby,David,3,103.85,0.0,credit card,311.54999999999995,0.0,311.54999999999995,2025-03,3.0,Spring,2025.0
+ORD-10596,2025-06-04,C1012,furniture,Bookshelf,Surrey,Alex,3,622.08,0.0,cash,1866.2400000000002,0.0,1866.2400000000002,2025-06,6.0,Summer,2025.0
+ORD-10998,2025-10-17,C1171,decor,Rug,North Vancouver,Mina,5,346.27,0.1,cash,1731.35,173.135,1558.215,2025-10,10.0,Fall,2025.0
+ORD-10868,2025-02-13,C1036,furniture,Vintage Lamp,North Vancouver,Alex,4,181.42,0.0,cash,725.68,0.0,725.68,2025-02,2.0,Winter,2025.0
+ORD-10304,2025-02-13,C1129,storage,Storage Bench,North Vancouver,David,1,340.06,0.0,debit,340.06,0.0,340.06,2025-02,2.0,Winter,2025.0
+ORD-10122,2025-08-19,C1113,storage,Cabinet,Burnaby,John,4,566.27,0.1,debit,2265.08,226.508,2038.572,2025-08,8.0,Summer,2025.0
+ORD-10233,2025-08-27,C1044,storage,Sideboard,North Vancouver,David,4,784.49,0.0,debit,3137.96,0.0,3137.96,2025-08,8.0,Summer,2025.0
+ORD-10829,2025-09-05,C1192,storage,Sideboard,North Vancouver,David,3,789.97,0.0,cash,2369.91,0.0,2369.91,2025-09,9.0,Fall,2025.0
+ORD-10447,2025-12-16,C1091,furniture,Vintage Lamp,Burnaby,Alex,1,182.865,0.1,e-transfer,182.865,18.2865,164.57850000000002,2025-12,12.0,Winter,2025.0
+ORD-10840,2025-04-01,C1106,furniture,Vintage Lamp,Burnaby,Sara,2,182.865,0.0,cash,365.73,0.0,365.73,2025-04,4.0,Spring,2025.0
+ORD-10202,2025-08-20,C1041,decor,Art Print,Burnaby,Mina,1,122.82,0.05,e-transfer,122.82,6.141,116.67899999999999,2025-08,8.0,Summer,2025.0
+ORD-10753,2025-05-28,C1240,decor,Rug,Surrey,John,5,343.07,0.0,cash,1715.35,0.0,1715.35,2025-05,5.0,Spring,2025.0
+ORD-10511,2025-04-20,C1080,storage,Sideboard,Vancouver,Mina,4,862.73,0.0,cash,3450.92,0.0,3450.92,2025-04,4.0,Spring,2025.0
+ORD-10610,2026-06-30,C1098,furniture,Vintage Lamp,Burnaby,David,5,209.07,0.1,debit,1045.35,104.535,940.8149999999999,2026-06,6.0,Summer,2026.0
+ORD-10700,2026-04-29,C1008,storage,Cabinet,Surrey,John,1,576.57,0.05,cash,576.57,28.828500000000005,547.7415000000001,2026-04,4.0,Spring,2026.0
+ORD-11144,2025-08-01,C1120,decor,Art Print,Surrey,Alex,2,134.05,0.0,e-transfer,268.1,0.0,268.1,2025-08,8.0,Summer,2025.0
+ORD-10368,2025-03-04,C1079,decor,Wall Mirror,North Vancouver,David,4,251.98,0.0,debit,1007.92,0.0,1007.92,2025-03,3.0,Spring,2025.0
+ORD-10048,2025-03-03,unknown,storage,Sideboard,North Vancouver,Alex,5,890.53,0.0,credit card,4452.65,0.0,4452.65,2025-03,3.0,Spring,2025.0
+ORD-10772,2025-06-12,C1214,decor,Vase,Burnaby,Sara,3,102.31,0.0,e-transfer,306.93,0.0,306.93,2025-06,6.0,Summer,2025.0
+ORD-10969,2026-04-22,C1084,decor,Art Print,Burnaby,David,4,124.16,0.0,debit,496.64,0.0,496.64,2026-04,4.0,Spring,2026.0
