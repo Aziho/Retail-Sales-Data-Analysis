@@ -46,4 +46,6 @@ This project focuses on answering the following business questions:
 ## Visualization
 ### Monthly Sales Trend
 !["Monthly_sales"](images/Monthly_sales.png)
+### Net Sales by Region
+!["Region_sales'](images/region_sales.png)
 
