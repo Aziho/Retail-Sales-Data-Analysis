@@ -15,3 +15,6 @@ The analysis answers different business questions, including sales by region, sa
 
 To better understand the results, I created different charts and visualizations. These visualizations help stakeholders understand sales performance, trends, and patterns in the data.
 ## Dataset
+The original dataset is a CSV file including 1,218 rows and 11 columns: Order_ID, Order_Date, Customer_ID, Region, Product, Category, Unit_Price, Quantity, Payment_Method, Salesperson, and Discount.
+For practicing different data anomalies and data quality issues, I used an AI-generated dataset containing different types of data quality issues that needed to be identified and fixed.
+## Data Cleaning
