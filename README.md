@@ -58,4 +58,5 @@ This project focuses on answering the following business questions:
 !["Discount Vs. AOV](images/relationshipdiscountsorders.png)
 ### Net Sales by Produt
 !["Product_sales'](images/Product_sales.png)
+## Key Insights
 
