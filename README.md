@@ -29,3 +29,17 @@ All the data was initially stored as strings. Each column needed to be considere
 - Payment_Method: This column had inconsistent text formatting, so I standardized the values and converted them to lowercase. Missing values were grouped as unknown.
 - Salesperson: Some salesperson values were missing, so they were filled with unknown.
 - Discount: The discount column was initially stored as a string and contained inconsistent formats, including both decimal and percentage values. I standardized these values and converted the column to numeric so the discounts could be calculated correctly.
+## Feature Engineering
+To analyze the sales trends, Gross_Sales, Discount_Amount, and Net_amount needed to be calculated. I calculated these values and added the three new columns to the dataset.
+## Business Questions
+This project focuses on answering the following business questions:
+1. Which region generates the highest net sales?
+2. Which products generate the highest net sales?
+3. How do sales change over time?
+4. Which salesperson has the strongest sales performance?
+5. Which payment methods are used most frequently?
+6. How do order values vary across regions?
+7. How are order values distributed?
+8. Is there a relationship between unit price and order value?
+9. Is there a relationship between discount and average order value?
+10. Are there any seasonal patterns in sales?
