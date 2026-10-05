@@ -56,7 +56,7 @@ This project focuses on answering the following business questions:
 !["Unit Price vs. Order Value"](images/relationshipbetweenUnitpriceOV.png)
 ### Discount Vs. AOV 
 !["Discount Vs. AOV](images/relationshipdiscountsorders.png)
-### Net Sales by Produt
+### Net Sales by Product
 !["Product_sales'](images/Product_sales.png)
 ## Key Insights
 ### Sales by Region:
