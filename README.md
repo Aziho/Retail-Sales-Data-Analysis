@@ -43,3 +43,7 @@ This project focuses on answering the following business questions:
 8. Is there a relationship between unit price and order value?
 9. Is there a relationship between discount and average order value?
 10. Are there any seasonal patterns in sales?
+## Visualization
+### Monthly Sales Trend
+images/Monthly_sales.png
+
