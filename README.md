@@ -51,7 +51,7 @@ This project focuses on answering the following business questions:
 ### Sale Value distribution across region
 !["OVdistributionacrossregion"](images/OVdistributionacrossregion.png)
 ### Order Value Distribution
-!["OVdistributionhist"(images/OVdistributionhist.png)
+!["OVdistributionhist"](images/OVdistributionhist.png)
 ### Unit Price Vs. Order Value
 !["Unit Price vs. Order Value"](images/relationshipbetweenUnitpriceOV.png)
 ### Discount Vs. AOV 
