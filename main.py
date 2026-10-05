@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 "-------------------------Load Data-------------------------------------"
 pd.set_option('display.max_columns', None)
-path="D:/Inteview&review/Python/Load&Inspectdata/"
+path=""
 df=pd.read_csv(path+"retail_sales_dirty_project.csv")
 "-----------------------Data Inspection---------------------------------"
 print(df.head())
