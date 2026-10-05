@@ -59,14 +59,14 @@ This project focuses on answering the following business questions:
 ### Net Sales by Produt
 !["Product_sales'](images/Product_sales.png)
 ## Key Insights
-Sales by Region:
+### Sales by Region:
 North Vancouver had the highest net sales among all regions. Further analysis showed that its high net sales were mainly driven by a higher number of orders rather than the highest Average Order Value (AOV). On the other hand, Surrey had the highest AOV among all regions.
-Discount vs. Average Order Value:
+### Discount vs. Average Order Value:
 The analysis showed that higher discounts were generally associated with lower Average Order Values. Orders with no discount had the highest AOV, while orders with a 20% discount had the lowest AOV.
-Monthly Sales:
+### Monthly Sales:
 October 2025 had the highest monthly net sales. Further analysis showed that this month had a high AOV rather than an unusually high number of orders. Cabinet and Coffee Table were major contributors to the sales in this month.
-Sales by Product:
+### Sales by Product:
 Sideboard generated the highest net sales and had the highest AOV, even though it did not have the highest number of orders.
-Order Value Distribution:
+### Order Value Distribution:
 The histogram showed that most order values were concentrated below $5,000, while only a few orders had very high values. This resulted in a right-skewed distribution.
 
