@@ -45,5 +45,5 @@ This project focuses on answering the following business questions:
 10. Are there any seasonal patterns in sales?
 ## Visualization
 ### Monthly Sales Trend
-images/Monthly_sales.png
+!["Monthly_sales"](images/Monthly_sales.png)
 
