@@ -14,4 +14,4 @@ In this project, I analyzed data from a furniture retail store using Python. I c
 The analysis answers different business questions, including sales by region, sales by category, salesperson performance, product performance, and sales trends over time.
 
 To better understand the results, I created different charts and visualizations. These visualizations help stakeholders understand sales performance, trends, and patterns in the data.
-##Dataset
+## Dataset
