@@ -69,4 +69,5 @@ October 2025 had the highest monthly net sales. Further analysis showed that thi
 Sideboard generated the highest net sales and had the highest AOV, even though it did not have the highest number of orders.
 ### Order Value Distribution:
 The histogram showed that most order values were concentrated below $5,000, while only a few orders had very high values. This resulted in a right-skewed distribution.
-
+### Seasonality:
+Spring had the highest net sales compared to the other seasons. However, the dataset covers less than two full years, so there is not enough data to confirm a recurring seasonal pattern.
