@@ -18,3 +18,14 @@ To better understand the results, I created different charts and visualizations.
 The original dataset is a CSV file including 1,218 rows and 11 columns: Order_ID, Order_Date, Customer_ID, Region, Product, Category, Unit_Price, Quantity, Payment_Method, Salesperson, and Discount.
 For practicing different data anomalies and data quality issues, I used an AI-generated dataset containing different types of data quality issues that needed to be identified and fixed.
 ## Data Cleaning
+All the data was initially stored as strings. Each column needed to be considered individually based on its data type, null values, mismatched values, standardization, and inconsistencies.
+- Order_ID: There were some duplicated records, which were identified and removed using the duplicated() and drop_duplicates() functions.
+- Order_Date: There were 6 invalid/missing dates. I left them as null rather than removing the entire rows because the other data in those rows could still be useful for the analysis.
+- Customer_ID: Some values were missing and were filled with unknown.
+- Region: Region names had inconsistencies that needed to be standardized.
+- Product and Category: These string columns also had inconsistent values that needed to be standardized.
+- Unit_Price: Some products had missing unit prices, which I filled using the median price for the same product. There were also formatting issues such as $ symbols, which were removed before converting the column to numeric. Some unit prices had negative values. After checking the prices for the same products in other orders, I decided to replace the negative values with the median price for the same product.
+- Quantity: A few records contained unknown quantities. I converted the column to numeric and filled these values using the median quantity for the same product.
+- Payment_Method: This column had inconsistent text formatting, so I standardized the values and converted them to lowercase. Missing values were grouped as unknown.
+- Salesperson: Some salesperson values were missing, so they were filled with unknown.
+- Discount: The discount column was initially stored as a string and contained inconsistent formats, including both decimal and percentage values. I standardized these values and converted the column to numeric so the discounts could be calculated correctly.
