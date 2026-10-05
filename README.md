@@ -50,3 +50,12 @@ This project focuses on answering the following business questions:
 !["Region_sales'](images/region_sales.png)
 ### Sale Value distribution across region
 !["OVdistributionacrossregion"](images/OVdistributionacrossregion.png)
+### Order Value Distribution
+!["OVdistributionhist"(images/OVdistributionhist.png)
+### Unit Price Vs. Order Value
+!["Unit Price vs. Order Value"](images/relationshipbetweenUnitpriceOV.png)
+### Discount Vs. AOV 
+!["Discount Vs. AOV](images/relationshipbetweenUnitpriceOV.png)
+### Net Sales by Produt
+!["Product_sales'](images/Product_sales.png)
+
