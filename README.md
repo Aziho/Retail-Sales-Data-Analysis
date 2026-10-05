@@ -48,4 +48,5 @@ This project focuses on answering the following business questions:
 !["Monthly_sales"](images/Monthly_sales.png)
 ### Net Sales by Region
 !["Region_sales'](images/region_sales.png)
-
+### Sale Value distribution across region
+!["OVdistributionacrossregion"](images/OVdistributionacrossregion.png)
